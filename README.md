@@ -21,3 +21,7 @@ const andres = {
 ### Time I spent coding this week:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=anagudelogu&&style=flat-square" align="center" />
+</div>  
