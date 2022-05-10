@@ -19,8 +19,7 @@ const andres = {
 <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anagudelogu&layout=compact&theme=algolia&langs_count=3" />
 
 ### Time I spent coding this week:
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<figure><embed src="https://wakatime.com/share/@anagudelogu/ce512b16-8670-4540-8b2d-8cee5b067f82.svg"></embed></figure>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=anagudelogu&&style=flat-square" align="center" />
