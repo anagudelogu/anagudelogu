@@ -6,7 +6,7 @@ I like programming things remotely.
 const andres = {
   pronouns: ["he", "him"],
   lookingFor: "Front-end developer" || "Full-stack web developer",
-  code: [HTML, CSS, JavaScript, Jest,],
+  code: [HTML, CSS, JavaScript, Jest, React],
   challenge: "I am looking forward to starting React.",
   funFacts: ['I love to wake up before sunrise.']
 }
