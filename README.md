@@ -83,7 +83,7 @@
 
 ### GitHub Profile
 <div align="center">
-  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=anagudelogu&show_icons=true&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anagudelogu&show_icons=true&theme=algolia" />
 </div>
 
 ### GitHub Activity
