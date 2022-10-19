@@ -88,7 +88,7 @@
 
 ### GitHub Activity
 
-<!-- Last activity: https://github.com/jamesgeorge007/github-activity-readme -->
+<!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
 
