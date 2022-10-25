@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#1](https://github.com/mumo-esther/Hello-Microverse1/pull/1#pullrequestreview-1154698639) in [mumo-esther/Hello-Microverse1](https://github.com/mumo-esther/Hello-Microverse1)
-2. 📔 Created new repository [anagudelogu/expenses](https://github.com/anagudelogu/expenses)
-3. ⬆️ Pushed 1 commit(s) to [anagudelogu/bookstore-react](https://github.com/anagudelogu/bookstore-react)
-4. ⬆️ Pushed 1 commit(s) to [anagudelogu/bookstore-react](https://github.com/anagudelogu/bookstore-react)
-5. ⬆️ Pushed 1 commit(s) to [anagudelogu/capstone-three-air-pollution-app](https://github.com/anagudelogu/capstone-three-air-pollution-app)
+1. 🔴 Requested 2 change(s) for [#1](https://github.com/admirerbrown/hello-microverse/pull/1#pullrequestreview-1155293863) in [admirerbrown/hello-microverse](https://github.com/admirerbrown/hello-microverse)
+2. 👍 Approved [#1](https://github.com/hiwina/Project-Hello-Microverse/pull/1#pullrequestreview-1155149455) in [hiwina/Project-Hello-Microverse](https://github.com/hiwina/Project-Hello-Microverse)
+3. 👍 Approved [#1](https://github.com/hiwina/Project-Hello-Microverse/pull/1#pullrequestreview-1155149455) in [hiwina/Project-Hello-Microverse](https://github.com/hiwina/Project-Hello-Microverse)
+4. 🔴 Requested 3 change(s) for [#1](https://github.com/App-Developer8866/hello_microverse_project/pull/1#pullrequestreview-1154953163) in [App-Developer8866/hello_microverse_project](https://github.com/App-Developer8866/hello_microverse_project)
+5. 🔴 Requested 1 change(s) for [#1](https://github.com/RoyJumah/Hello-Microverse/pull/1#pullrequestreview-1154805603) in [RoyJumah/Hello-Microverse](https://github.com/RoyJumah/Hello-Microverse)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 25th, 2022, 12:37:08 PM (GMT)
+Last Updated: Tuesday, October 25th, 2022, 6:42:31 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
