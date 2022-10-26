@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 3 change(s) for [#1](https://github.com/quavo19/hello/pull/1#pullrequestreview-1155551549) in [quavo19/hello](https://github.com/quavo19/hello)
-2. 🔱 Forked [anagudelogu/hello](https://github.com/anagudelogu/hello) from [quavo19/hello](https://github.com/quavo19/hello)
-3. 👍 Approved [#1](https://github.com/elarhadu/Hello-Microverse/pull/1#pullrequestreview-1155520828) in [elarhadu/Hello-Microverse](https://github.com/elarhadu/Hello-Microverse)
-4. 👍 Approved [#1](https://github.com/elarhadu/Hello-Microverse/pull/1#pullrequestreview-1155520828) in [elarhadu/Hello-Microverse](https://github.com/elarhadu/Hello-Microverse)
-5. 🔴 Requested 1 change(s) for [#1](https://github.com/tobuya/Hello-Microverse/pull/1#pullrequestreview-1155492043) in [tobuya/Hello-Microverse](https://github.com/tobuya/Hello-Microverse)
+1. 🔴 Requested 2 change(s) for [#1](https://github.com/ShaddyMore/Mobile-setup/pull/1#pullrequestreview-1156990865) in [ShaddyMore/Mobile-setup](https://github.com/ShaddyMore/Mobile-setup)
+2. 🔴 Requested 2 change(s) for [#1](https://github.com/mumo-esther/My-Portfolio/pull/1#pullrequestreview-1156927580) in [mumo-esther/My-Portfolio](https://github.com/mumo-esther/My-Portfolio)
+3. 🔴 Requested 1 change(s) for [#1](https://github.com/kazaneza/helloMicroverse/pull/1#pullrequestreview-1156883122) in [kazaneza/helloMicroverse](https://github.com/kazaneza/helloMicroverse)
+4. 🔴 Requested 2 change(s) for [#1](https://github.com/PrantoshB/Portfolio/pull/1#pullrequestreview-1156517925) in [PrantoshB/Portfolio](https://github.com/PrantoshB/Portfolio)
+5. 🔴 Requested 1 change(s) for [#1](https://github.com/quavo19/hello/pull/1#pullrequestreview-1155551549) in [quavo19/hello](https://github.com/quavo19/hello)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 26th, 2022, 12:35:26 PM (GMT)
+Last Updated: Wednesday, October 26th, 2022, 6:19:25 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
