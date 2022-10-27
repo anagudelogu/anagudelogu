@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#2](https://github.com/Ellon-M/portfolio/pull/2#pullrequestreview-1158101190) in [Ellon-M/portfolio](https://github.com/Ellon-M/portfolio)
-2. 🔴 Requested 1 change(s) for [#3](https://github.com/Kevin-Mena/helloworld/pull/3#pullrequestreview-1158072056) in [Kevin-Mena/helloworld](https://github.com/Kevin-Mena/helloworld)
-3. 🔴 Requested 2 change(s) for [#1](https://github.com/KMT-Media/Portfolio-setup-and-mobile-first/pull/1#pullrequestreview-1157166404) in [KMT-Media/Portfolio-setup-and-mobile-first](https://github.com/KMT-Media/Portfolio-setup-and-mobile-first)
-4. 🔴 Requested 4 change(s) for [#1](https://github.com/PrantoshB/Portfolio/pull/1#pullrequestreview-1156517925) in [PrantoshB/Portfolio](https://github.com/PrantoshB/Portfolio)
-5. 👍 Approved [#1](https://github.com/sibabalwemosia24/Microverse_Portfolio_Mobile-first/pull/1#pullrequestreview-1157122001) in [sibabalwemosia24/Microverse_Portfolio_Mobile-first](https://github.com/sibabalwemosia24/Microverse_Portfolio_Mobile-first)
+1. 🔴 Requested 2 change(s) for [#1](https://github.com/edenlisk/portfolio-eden-microverse/pull/1#pullrequestreview-1158569477) in [edenlisk/portfolio-eden-microverse](https://github.com/edenlisk/portfolio-eden-microverse)
+2. 🔴 Requested 2 change(s) for [#1](https://github.com/ismayito/Portfolio-project/pull/1#pullrequestreview-1158304760) in [ismayito/Portfolio-project](https://github.com/ismayito/Portfolio-project)
+3. 🔴 Requested 8 change(s) for [#3](https://github.com/Kevin-Mena/helloworld/pull/3#pullrequestreview-1158072056) in [Kevin-Mena/helloworld](https://github.com/Kevin-Mena/helloworld)
+4. 👍 Approved [#1](https://github.com/quavo19/Portfolio/pull/1#pullrequestreview-1158230942) in [quavo19/Portfolio](https://github.com/quavo19/Portfolio)
+5. 🔴 Requested 1 change(s) for [#2](https://github.com/Ellon-M/portfolio/pull/2#pullrequestreview-1158101190) in [Ellon-M/portfolio](https://github.com/Ellon-M/portfolio)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 27th, 2022, 12:34:40 PM (GMT)
+Last Updated: Thursday, October 27th, 2022, 6:23:08 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
