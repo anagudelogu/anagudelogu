@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#1](https://github.com/ShaddyMore/Mobile-setup/pull/1#pullrequestreview-1156990865) in [ShaddyMore/Mobile-setup](https://github.com/ShaddyMore/Mobile-setup)
-2. 🔴 Requested 2 change(s) for [#1](https://github.com/mumo-esther/My-Portfolio/pull/1#pullrequestreview-1156927580) in [mumo-esther/My-Portfolio](https://github.com/mumo-esther/My-Portfolio)
-3. 🔴 Requested 1 change(s) for [#1](https://github.com/kazaneza/helloMicroverse/pull/1#pullrequestreview-1156883122) in [kazaneza/helloMicroverse](https://github.com/kazaneza/helloMicroverse)
-4. 🔴 Requested 2 change(s) for [#1](https://github.com/PrantoshB/Portfolio/pull/1#pullrequestreview-1156517925) in [PrantoshB/Portfolio](https://github.com/PrantoshB/Portfolio)
-5. 🔴 Requested 1 change(s) for [#1](https://github.com/quavo19/hello/pull/1#pullrequestreview-1155551549) in [quavo19/hello](https://github.com/quavo19/hello)
+1. 🔴 Requested 2 change(s) for [#1](https://github.com/KMT-Media/Portfolio-setup-and-mobile-first/pull/1#pullrequestreview-1157166404) in [KMT-Media/Portfolio-setup-and-mobile-first](https://github.com/KMT-Media/Portfolio-setup-and-mobile-first)
+2. 🔴 Requested 4 change(s) for [#1](https://github.com/PrantoshB/Portfolio/pull/1#pullrequestreview-1156517925) in [PrantoshB/Portfolio](https://github.com/PrantoshB/Portfolio)
+3. 👍 Approved [#1](https://github.com/sibabalwemosia24/Microverse_Portfolio_Mobile-first/pull/1#pullrequestreview-1157122001) in [sibabalwemosia24/Microverse_Portfolio_Mobile-first](https://github.com/sibabalwemosia24/Microverse_Portfolio_Mobile-first)
+4. 👍 Approved [#1](https://github.com/sibabalwemosia24/Microverse_Portfolio_Mobile-first/pull/1#pullrequestreview-1157122001) in [sibabalwemosia24/Microverse_Portfolio_Mobile-first](https://github.com/sibabalwemosia24/Microverse_Portfolio_Mobile-first)
+5. 🔴 Requested 1 change(s) for [#1](https://github.com/ShaddyMore/Mobile-setup/pull/1#pullrequestreview-1156990865) in [ShaddyMore/Mobile-setup](https://github.com/ShaddyMore/Mobile-setup)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 26th, 2022, 6:19:25 PM (GMT)
+Last Updated: Thursday, October 27th, 2022, 1:22:35 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
