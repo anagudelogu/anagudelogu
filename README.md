@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#1](https://github.com/Zuz4n/Portfolio-setup-and-mobile-first/pull/1#pullrequestreview-1159181661) in [Zuz4n/Portfolio-setup-and-mobile-first](https://github.com/Zuz4n/Portfolio-setup-and-mobile-first)
-2. 👍 Approved [#1](https://github.com/chiztechnology/Israel-Portfolio/pull/1#pullrequestreview-1159036983) in [chiztechnology/Israel-Portfolio](https://github.com/chiztechnology/Israel-Portfolio)
-3. 👍 Approved [#1](https://github.com/chiztechnology/Israel-Portfolio/pull/1#pullrequestreview-1159036983) in [chiztechnology/Israel-Portfolio](https://github.com/chiztechnology/Israel-Portfolio)
-4. 🔴 Requested 2 change(s) for [#1](https://github.com/edenlisk/portfolio-eden-microverse/pull/1#pullrequestreview-1158569477) in [edenlisk/portfolio-eden-microverse](https://github.com/edenlisk/portfolio-eden-microverse)
-5. 🔴 Requested 1 change(s) for [#1](https://github.com/ismayito/Portfolio-project/pull/1#pullrequestreview-1158304760) in [ismayito/Portfolio-project](https://github.com/ismayito/Portfolio-project)
+1. 🔴 Requested 2 change(s) for [#2](https://github.com/edenlisk/portfolio-eden-microverse/pull/2#pullrequestreview-1160423323) in [edenlisk/portfolio-eden-microverse](https://github.com/edenlisk/portfolio-eden-microverse)
+2. 👍 Approved [#1](https://github.com/PierreBarba/portfolio-setup-and-movile-first/pull/1#pullrequestreview-1160387731) in [PierreBarba/portfolio-setup-and-movile-first](https://github.com/PierreBarba/portfolio-setup-and-movile-first)
+3. 👍 Approved [#1](https://github.com/PierreBarba/portfolio-setup-and-movile-first/pull/1#pullrequestreview-1160387731) in [PierreBarba/portfolio-setup-and-movile-first](https://github.com/PierreBarba/portfolio-setup-and-movile-first)
+4. 🔴 Requested 2 change(s) for [#2](https://github.com/ijosue16/Mobile-portofolio/pull/2#pullrequestreview-1160358331) in [ijosue16/Mobile-portofolio](https://github.com/ijosue16/Mobile-portofolio)
+5. 🔴 Requested 1 change(s) for [#1](https://github.com/lopezivan1216/Hello-microverse-project/pull/1#pullrequestreview-1160317444) in [lopezivan1216/Hello-microverse-project](https://github.com/lopezivan1216/Hello-microverse-project)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 28th, 2022, 12:33:31 PM (GMT)
+Last Updated: Friday, October 28th, 2022, 6:19:57 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
