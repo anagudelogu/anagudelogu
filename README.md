@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#2](https://github.com/edenlisk/portfolio-eden-microverse/pull/2#pullrequestreview-1160423323) in [edenlisk/portfolio-eden-microverse](https://github.com/edenlisk/portfolio-eden-microverse)
-2. 👍 Approved [#1](https://github.com/PierreBarba/portfolio-setup-and-movile-first/pull/1#pullrequestreview-1160387731) in [PierreBarba/portfolio-setup-and-movile-first](https://github.com/PierreBarba/portfolio-setup-and-movile-first)
-3. 👍 Approved [#1](https://github.com/PierreBarba/portfolio-setup-and-movile-first/pull/1#pullrequestreview-1160387731) in [PierreBarba/portfolio-setup-and-movile-first](https://github.com/PierreBarba/portfolio-setup-and-movile-first)
-4. 🔴 Requested 2 change(s) for [#2](https://github.com/ijosue16/Mobile-portofolio/pull/2#pullrequestreview-1160358331) in [ijosue16/Mobile-portofolio](https://github.com/ijosue16/Mobile-portofolio)
-5. 🔴 Requested 1 change(s) for [#1](https://github.com/lopezivan1216/Hello-microverse-project/pull/1#pullrequestreview-1160317444) in [lopezivan1216/Hello-microverse-project](https://github.com/lopezivan1216/Hello-microverse-project)
+1. 🔴 Requested 3 change(s) for [#1](https://github.com/Lucash2022/Admission-Trials/pull/1#pullrequestreview-1162221285) in [Lucash2022/Admission-Trials](https://github.com/Lucash2022/Admission-Trials)
+2. 👍 Approved [#1](https://github.com/RoyJumah/microverse-trials/pull/1#pullrequestreview-1162274416) in [RoyJumah/microverse-trials](https://github.com/RoyJumah/microverse-trials)
+3. 🔴 Requested 1 change(s) for [#1](https://github.com/billymohajeri/my-first-code-review/pull/1#pullrequestreview-1162194334) in [billymohajeri/my-first-code-review](https://github.com/billymohajeri/my-first-code-review)
+4. 🔴 Requested 2 change(s) for [#1](https://github.com/WilhelmK109/Project-review/pull/1#pullrequestreview-1162134509) in [WilhelmK109/Project-review](https://github.com/WilhelmK109/Project-review)
+5. 👍 Approved [#1](https://github.com/codehass/Trials-Review/pull/1#pullrequestreview-1162093992) in [codehass/Trials-Review](https://github.com/codehass/Trials-Review)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 31st, 2022, 12:33:40 PM (GMT)
+Last Updated: Monday, October 31st, 2022, 6:21:56 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
