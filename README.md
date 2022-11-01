@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 3 change(s) for [#1](https://github.com/Lucash2022/Admission-Trials/pull/1#pullrequestreview-1162221285) in [Lucash2022/Admission-Trials](https://github.com/Lucash2022/Admission-Trials)
-2. 👍 Approved [#1](https://github.com/RoyJumah/microverse-trials/pull/1#pullrequestreview-1162274416) in [RoyJumah/microverse-trials](https://github.com/RoyJumah/microverse-trials)
-3. 🔴 Requested 1 change(s) for [#1](https://github.com/billymohajeri/my-first-code-review/pull/1#pullrequestreview-1162194334) in [billymohajeri/my-first-code-review](https://github.com/billymohajeri/my-first-code-review)
-4. 🔴 Requested 2 change(s) for [#1](https://github.com/WilhelmK109/Project-review/pull/1#pullrequestreview-1162134509) in [WilhelmK109/Project-review](https://github.com/WilhelmK109/Project-review)
-5. 👍 Approved [#1](https://github.com/codehass/Trials-Review/pull/1#pullrequestreview-1162093992) in [codehass/Trials-Review](https://github.com/codehass/Trials-Review)
+1. 🔴 Requested 2 change(s) for [#4](https://github.com/wajahatalli/Portfolio/pull/4#pullrequestreview-1163188620) in [wajahatalli/Portfolio](https://github.com/wajahatalli/Portfolio)
+2. 🔴 Requested 3 change(s) for [#1](https://github.com/Lucash2022/Admission-Trials/pull/1#pullrequestreview-1162221285) in [Lucash2022/Admission-Trials](https://github.com/Lucash2022/Admission-Trials)
+3. 👍 Approved [#1](https://github.com/RoyJumah/microverse-trials/pull/1#pullrequestreview-1162274416) in [RoyJumah/microverse-trials](https://github.com/RoyJumah/microverse-trials)
+4. 🔴 Requested 1 change(s) for [#1](https://github.com/billymohajeri/my-first-code-review/pull/1#pullrequestreview-1162194334) in [billymohajeri/my-first-code-review](https://github.com/billymohajeri/my-first-code-review)
+5. 🔴 Requested 1 change(s) for [#1](https://github.com/WilhelmK109/Project-review/pull/1#pullrequestreview-1162134509) in [WilhelmK109/Project-review](https://github.com/WilhelmK109/Project-review)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 1st, 2022, 6:25:37 AM (GMT)
+Last Updated: Tuesday, November 1st, 2022, 12:36:20 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
