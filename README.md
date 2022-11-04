@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 6 change(s) for [#1](https://github.com/SabiMantock/project_review/pull/1#pullrequestreview-1165857651) in [SabiMantock/project_review](https://github.com/SabiMantock/project_review)
-2. 👍 Approved [#4](https://github.com/kkolade/kolakolade.me/pull/4#pullrequestreview-1165826919) in [kkolade/kolakolade.me](https://github.com/kkolade/kolakolade.me)
-3. 👍 Approved [#3](https://github.com/Rana-Mudassir/portfolio_project/pull/3#pullrequestreview-1165323249) in [Rana-Mudassir/portfolio_project](https://github.com/Rana-Mudassir/portfolio_project)
-4. 🔴 Requested 2 change(s) for [#3](https://github.com/EmekaEmmanuel/portfolio_mobile_day3/pull/3#pullrequestreview-1165106545) in [EmekaEmmanuel/portfolio_mobile_day3](https://github.com/EmekaEmmanuel/portfolio_mobile_day3)
-5. 👍 Approved [#4](https://github.com/GutemaG/Portfolio/pull/4#pullrequestreview-1164095231) in [GutemaG/Portfolio](https://github.com/GutemaG/Portfolio)
+1. 🔴 Requested 2 change(s) for [#4](https://github.com/felixDev22/Mobile-first-D3/pull/4#pullrequestreview-1167759592) in [felixDev22/Mobile-first-D3](https://github.com/felixDev22/Mobile-first-D3)
+2. 👍 Approved [#4](https://github.com/Iqbal-Elham/personal_portfolio/pull/4#pullrequestreview-1167728957) in [Iqbal-Elham/personal_portfolio](https://github.com/Iqbal-Elham/personal_portfolio)
+3. 🔴 Requested 2 change(s) for [#4](https://github.com/Iqbal-Elham/personal_portfolio/pull/4#pullrequestreview-1167553591) in [Iqbal-Elham/personal_portfolio](https://github.com/Iqbal-Elham/personal_portfolio)
+4. 🔴 Requested 2 change(s) for [#6](https://github.com/Vgonma/PersonalPortfolio/pull/6#pullrequestreview-1167338346) in [Vgonma/PersonalPortfolio](https://github.com/Vgonma/PersonalPortfolio)
+5. 🔴 Requested 1 change(s) for [#1](https://github.com/SabiMantock/project_review/pull/1#pullrequestreview-1165857651) in [SabiMantock/project_review](https://github.com/SabiMantock/project_review)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 3rd, 2022, 6:23:06 PM (GMT)
+Last Updated: Friday, November 4th, 2022, 1:22:40 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
