@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#6](https://github.com/Iqbal-Elham/personal_portfolio/pull/6#pullrequestreview-1170813387) in [Iqbal-Elham/personal_portfolio](https://github.com/Iqbal-Elham/personal_portfolio)
-2. 👍 Approved [#7](https://github.com/shobeee/setup-mobile-first-2/pull/7#pullrequestreview-1170803407) in [shobeee/setup-mobile-first-2](https://github.com/shobeee/setup-mobile-first-2)
-3. 👍 Approved [#7](https://github.com/shobeee/setup-mobile-first-2/pull/7#pullrequestreview-1170803407) in [shobeee/setup-mobile-first-2](https://github.com/shobeee/setup-mobile-first-2)
-4. 🔴 Requested 2 change(s) for [#1](https://github.com/KenbonTN/Technical_Documentation_Page/pull/1#pullrequestreview-1170744849) in [KenbonTN/Technical_Documentation_Page](https://github.com/KenbonTN/Technical_Documentation_Page)
-5. 👍 Approved [#7](https://github.com/emmanuelcortes2/emmanuelcortes2.github.io/pull/7#pullrequestreview-1170712079) in [emmanuelcortes2/emmanuelcortes2.github.io](https://github.com/emmanuelcortes2/emmanuelcortes2.github.io)
+1. 🔴 Requested 4 change(s) for [#2](https://github.com/Carl2678/code-review-trials/pull/2#pullrequestreview-1171022804) in [Carl2678/code-review-trials](https://github.com/Carl2678/code-review-trials)
+2. 🔴 Requested 2 change(s) for [#1](https://github.com/Patfarmurs/Review-exercise./pull/1#pullrequestreview-1171045829) in [Patfarmurs/Review-exercise.](https://github.com/Patfarmurs/Review-exercise.)
+3. 👍 Approved [#8](https://github.com/Juanpa8830/Portfolio-setup-and-mobile-first/pull/8#pullrequestreview-1171011094) in [Juanpa8830/Portfolio-setup-and-mobile-first](https://github.com/Juanpa8830/Portfolio-setup-and-mobile-first)
+4. 👍 Approved [#1](https://github.com/theodoku/Tribute-Page/pull/1#pullrequestreview-1170899176) in [theodoku/Tribute-Page](https://github.com/theodoku/Tribute-Page)
+5. 👍 Approved [#6](https://github.com/Iqbal-Elham/personal_portfolio/pull/6#pullrequestreview-1170813387) in [Iqbal-Elham/personal_portfolio](https://github.com/Iqbal-Elham/personal_portfolio)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 7th, 2022, 6:18:22 PM (GMT)
+Last Updated: Tuesday, November 8th, 2022, 1:16:29 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
