@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 4 change(s) for [#2](https://github.com/Carl2678/code-review-trials/pull/2#pullrequestreview-1171022804) in [Carl2678/code-review-trials](https://github.com/Carl2678/code-review-trials)
-2. 🔴 Requested 2 change(s) for [#1](https://github.com/Patfarmurs/Review-exercise./pull/1#pullrequestreview-1171045829) in [Patfarmurs/Review-exercise.](https://github.com/Patfarmurs/Review-exercise.)
-3. 👍 Approved [#8](https://github.com/Juanpa8830/Portfolio-setup-and-mobile-first/pull/8#pullrequestreview-1171011094) in [Juanpa8830/Portfolio-setup-and-mobile-first](https://github.com/Juanpa8830/Portfolio-setup-and-mobile-first)
-4. 👍 Approved [#1](https://github.com/theodoku/Tribute-Page/pull/1#pullrequestreview-1170899176) in [theodoku/Tribute-Page](https://github.com/theodoku/Tribute-Page)
-5. 👍 Approved [#6](https://github.com/Iqbal-Elham/personal_portfolio/pull/6#pullrequestreview-1170813387) in [Iqbal-Elham/personal_portfolio](https://github.com/Iqbal-Elham/personal_portfolio)
+1. 🔴 Requested 1 change(s) for [#2](https://github.com/TumiRantsane/Portfolio-/pull/2#pullrequestreview-1172021827) in [TumiRantsane/Portfolio-](https://github.com/TumiRantsane/Portfolio-)
+2. 🔴 Requested 2 change(s) for [#8](https://github.com/EmekaEmmanuel/portfolio_mobile_day3/pull/8#pullrequestreview-1171970242) in [EmekaEmmanuel/portfolio_mobile_day3](https://github.com/EmekaEmmanuel/portfolio_mobile_day3)
+3. 👍 Approved [#1](https://github.com/Luchy-B/Youtube-Review/pull/1#pullrequestreview-1171930332) in [Luchy-B/Youtube-Review](https://github.com/Luchy-B/Youtube-Review)
+4. 👍 Approved [#1](https://github.com/Luchy-B/Youtube-Review/pull/1#pullrequestreview-1171930332) in [Luchy-B/Youtube-Review](https://github.com/Luchy-B/Youtube-Review)
+5. 🔴 Requested 1 change(s) for [#2](https://github.com/Carl2678/code-review-trials/pull/2#pullrequestreview-1171022804) in [Carl2678/code-review-trials](https://github.com/Carl2678/code-review-trials)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 8th, 2022, 6:19:00 AM (GMT)
+Last Updated: Tuesday, November 8th, 2022, 12:32:48 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
