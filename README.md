@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 1 change(s) for [#2](https://github.com/TumiRantsane/Portfolio-/pull/2#pullrequestreview-1172021827) in [TumiRantsane/Portfolio-](https://github.com/TumiRantsane/Portfolio-)
-2. 🔴 Requested 2 change(s) for [#8](https://github.com/EmekaEmmanuel/portfolio_mobile_day3/pull/8#pullrequestreview-1171970242) in [EmekaEmmanuel/portfolio_mobile_day3](https://github.com/EmekaEmmanuel/portfolio_mobile_day3)
-3. 👍 Approved [#1](https://github.com/Luchy-B/Youtube-Review/pull/1#pullrequestreview-1171930332) in [Luchy-B/Youtube-Review](https://github.com/Luchy-B/Youtube-Review)
-4. 👍 Approved [#1](https://github.com/Luchy-B/Youtube-Review/pull/1#pullrequestreview-1171930332) in [Luchy-B/Youtube-Review](https://github.com/Luchy-B/Youtube-Review)
-5. 🔴 Requested 1 change(s) for [#2](https://github.com/Carl2678/code-review-trials/pull/2#pullrequestreview-1171022804) in [Carl2678/code-review-trials](https://github.com/Carl2678/code-review-trials)
+1. 🔴 Requested 2 change(s) for [#9](https://github.com/lawrahkonwea/My-portfolio/pull/9#pullrequestreview-1172321065) in [lawrahkonwea/My-portfolio](https://github.com/lawrahkonwea/My-portfolio)
+2. 👍 Approved [#8](https://github.com/felixDev22/Mobile-first-D3/pull/8#pullrequestreview-1172217233) in [felixDev22/Mobile-first-D3](https://github.com/felixDev22/Mobile-first-D3)
+3. 👍 Approved [#8](https://github.com/felixDev22/Mobile-first-D3/pull/8#pullrequestreview-1172217233) in [felixDev22/Mobile-first-D3](https://github.com/felixDev22/Mobile-first-D3)
+4. 🔴 Requested 2 change(s) for [#18](https://github.com/Mutai-Gilbert/Responsive-Personal-Porfolio/pull/18#pullrequestreview-1172066317) in [Mutai-Gilbert/Responsive-Personal-Porfolio](https://github.com/Mutai-Gilbert/Responsive-Personal-Porfolio)
+5. 👍 Approved [#8](https://github.com/EmekaEmmanuel/portfolio_mobile_day3/pull/8#pullrequestreview-1172056239) in [EmekaEmmanuel/portfolio_mobile_day3](https://github.com/EmekaEmmanuel/portfolio_mobile_day3)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 8th, 2022, 12:32:48 PM (GMT)
+Last Updated: Tuesday, November 8th, 2022, 6:21:37 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
