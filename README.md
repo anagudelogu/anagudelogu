@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#9](https://github.com/lawrahkonwea/My-portfolio/pull/9#pullrequestreview-1172321065) in [lawrahkonwea/My-portfolio](https://github.com/lawrahkonwea/My-portfolio)
-2. 👍 Approved [#8](https://github.com/felixDev22/Mobile-first-D3/pull/8#pullrequestreview-1172217233) in [felixDev22/Mobile-first-D3](https://github.com/felixDev22/Mobile-first-D3)
-3. 👍 Approved [#8](https://github.com/felixDev22/Mobile-first-D3/pull/8#pullrequestreview-1172217233) in [felixDev22/Mobile-first-D3](https://github.com/felixDev22/Mobile-first-D3)
-4. 🔴 Requested 2 change(s) for [#18](https://github.com/Mutai-Gilbert/Responsive-Personal-Porfolio/pull/18#pullrequestreview-1172066317) in [Mutai-Gilbert/Responsive-Personal-Porfolio](https://github.com/Mutai-Gilbert/Responsive-Personal-Porfolio)
-5. 👍 Approved [#8](https://github.com/EmekaEmmanuel/portfolio_mobile_day3/pull/8#pullrequestreview-1172056239) in [EmekaEmmanuel/portfolio_mobile_day3](https://github.com/EmekaEmmanuel/portfolio_mobile_day3)
+1. ⭐ Starred [rbanos-mv/rent-a-green-front](https://github.com/rbanos-mv/rent-a-green-front)
+2. ⭐ Starred [rbanos-mv/rails-recipe-app](https://github.com/rbanos-mv/rails-recipe-app)
+3. ⭐ Starred [rbanos-mv/capstone-5-expenses](https://github.com/rbanos-mv/capstone-5-expenses)
+4. ⭐ Starred [rbanos-mv/capstone-3-metrics](https://github.com/rbanos-mv/capstone-3-metrics)
+5. ⭐ Starred [rbanos-mv/capstone-2-mealtime](https://github.com/rbanos-mv/capstone-2-mealtime)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 9th, 2022, 12:34:07 PM (GMT)
+Last Updated: Wednesday, November 9th, 2022, 6:18:20 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
