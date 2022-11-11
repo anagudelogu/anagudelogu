@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#4](https://github.com/sushen/PortfolioWeekSecound/pull/4#pullrequestreview-1175848648) in [sushen/PortfolioWeekSecound](https://github.com/sushen/PortfolioWeekSecound)
-2. 🎉 Merged PR [#1](https://github.com/anagudelogu/expenses-api/pull/1) in [anagudelogu/expenses-api](https://github.com/anagudelogu/expenses-api)
-3. ⬆️ Pushed 13 commit(s) to [anagudelogu/expenses-api](https://github.com/anagudelogu/expenses-api)
-4. 💪 Opened PR [#1](https://github.com/anagudelogu/expenses-api/pull/1) in [anagudelogu/expenses-api](https://github.com/anagudelogu/expenses-api)
-5. ⬆️ Pushed 1 commit(s) to [anagudelogu/expenses-api](https://github.com/anagudelogu/expenses-api)
+1. 🔴 Requested 2 change(s) for [#1](https://github.com/schoolsofafrika/Responsive-Portfolio/pull/1#pullrequestreview-1176439191) in [schoolsofafrika/Responsive-Portfolio](https://github.com/schoolsofafrika/Responsive-Portfolio)
+2. 👍 Approved [#4](https://github.com/sushen/PortfolioWeekSecound/pull/4#pullrequestreview-1175848648) in [sushen/PortfolioWeekSecound](https://github.com/sushen/PortfolioWeekSecound)
+3. 🎉 Merged PR [#1](https://github.com/anagudelogu/expenses-api/pull/1) in [anagudelogu/expenses-api](https://github.com/anagudelogu/expenses-api)
+4. ⬆️ Pushed 13 commit(s) to [anagudelogu/expenses-api](https://github.com/anagudelogu/expenses-api)
+5. 💪 Opened PR [#1](https://github.com/anagudelogu/expenses-api/pull/1) in [anagudelogu/expenses-api](https://github.com/anagudelogu/expenses-api)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 10th, 2022, 6:18:32 PM (GMT)
+Last Updated: Friday, November 11th, 2022, 1:20:32 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
