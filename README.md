@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#9](https://github.com/DamenaM/Portofolio/pull/9#pullrequestreview-1178146257) in [DamenaM/Portofolio](https://github.com/DamenaM/Portofolio)
-2. 🔴 Requested 2 change(s) for [#7](https://github.com/kazim110/My-Portfolio-Project/pull/7#pullrequestreview-1178140791) in [kazim110/My-Portfolio-Project](https://github.com/kazim110/My-Portfolio-Project)
-3. 🔴 Requested 2 change(s) for [#7](https://github.com/ilyassatlassi/portfolio_setup_mobile/pull/7#pullrequestreview-1177451939) in [ilyassatlassi/portfolio_setup_mobile](https://github.com/ilyassatlassi/portfolio_setup_mobile)
-4. 🔴 Requested 2 change(s) for [#1](https://github.com/schoolsofafrika/Responsive-Portfolio/pull/1#pullrequestreview-1176439191) in [schoolsofafrika/Responsive-Portfolio](https://github.com/schoolsofafrika/Responsive-Portfolio)
-5. 👍 Approved [#4](https://github.com/sushen/PortfolioWeekSecound/pull/4#pullrequestreview-1175848648) in [sushen/PortfolioWeekSecound](https://github.com/sushen/PortfolioWeekSecound)
+1. 👍 Approved [#4](https://github.com/rashedarman/portfolio/pull/4#pullrequestreview-1178164684) in [rashedarman/portfolio](https://github.com/rashedarman/portfolio)
+2. 👍 Approved [#4](https://github.com/rashedarman/portfolio/pull/4#pullrequestreview-1178164684) in [rashedarman/portfolio](https://github.com/rashedarman/portfolio)
+3. 👍 Approved [#2](https://github.com/maccony202/project-Review/pull/2#pullrequestreview-1178158606) in [maccony202/project-Review](https://github.com/maccony202/project-Review)
+4. 🔴 Requested 2 change(s) for [#1](https://github.com/Rana-Mudassir/Review-project/pull/1#pullrequestreview-1178156245) in [Rana-Mudassir/Review-project](https://github.com/Rana-Mudassir/Review-project)
+5. 🔴 Requested 1 change(s) for [#9](https://github.com/DamenaM/Portofolio/pull/9#pullrequestreview-1178146257) in [DamenaM/Portofolio](https://github.com/DamenaM/Portofolio)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 12th, 2022, 6:16:57 PM (GMT)
+Last Updated: Sunday, November 13th, 2022, 1:16:02 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
