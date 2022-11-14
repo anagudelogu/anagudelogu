@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#4](https://github.com/rashedarman/portfolio/pull/4#pullrequestreview-1178164684) in [rashedarman/portfolio](https://github.com/rashedarman/portfolio)
+1. 👍 Approved [#9](https://github.com/kazim110/My-Portfolio-Project/pull/9#pullrequestreview-1179027103) in [kazim110/My-Portfolio-Project](https://github.com/kazim110/My-Portfolio-Project)
 2. 👍 Approved [#4](https://github.com/rashedarman/portfolio/pull/4#pullrequestreview-1178164684) in [rashedarman/portfolio](https://github.com/rashedarman/portfolio)
-3. 👍 Approved [#2](https://github.com/maccony202/project-Review/pull/2#pullrequestreview-1178158606) in [maccony202/project-Review](https://github.com/maccony202/project-Review)
-4. 🔴 Requested 2 change(s) for [#1](https://github.com/Rana-Mudassir/Review-project/pull/1#pullrequestreview-1178156245) in [Rana-Mudassir/Review-project](https://github.com/Rana-Mudassir/Review-project)
-5. 🔴 Requested 1 change(s) for [#9](https://github.com/DamenaM/Portofolio/pull/9#pullrequestreview-1178146257) in [DamenaM/Portofolio](https://github.com/DamenaM/Portofolio)
+3. 👍 Approved [#4](https://github.com/rashedarman/portfolio/pull/4#pullrequestreview-1178164684) in [rashedarman/portfolio](https://github.com/rashedarman/portfolio)
+4. 👍 Approved [#2](https://github.com/maccony202/project-Review/pull/2#pullrequestreview-1178158606) in [maccony202/project-Review](https://github.com/maccony202/project-Review)
+5. 🔴 Requested 1 change(s) for [#1](https://github.com/Rana-Mudassir/Review-project/pull/1#pullrequestreview-1178156245) in [Rana-Mudassir/Review-project](https://github.com/Rana-Mudassir/Review-project)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 14th, 2022, 12:34:14 PM (GMT)
+Last Updated: Monday, November 14th, 2022, 6:17:24 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
