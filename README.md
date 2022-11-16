@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 21 commit(s) to [anagudelogu/expenses-api](https://github.com/anagudelogu/expenses-api)
-2. 🎉 Merged PR [#2](https://github.com/anagudelogu/expenses-api/pull/2) in [anagudelogu/expenses-api](https://github.com/anagudelogu/expenses-api)
-3. ⬆️ Pushed 1 commit(s) to [anagudelogu/expenses-api](https://github.com/anagudelogu/expenses-api)
-4. 💪 Opened PR [#2](https://github.com/anagudelogu/expenses-api/pull/2) in [anagudelogu/expenses-api](https://github.com/anagudelogu/expenses-api)
-5. 👍 Approved [#9](https://github.com/kazim110/My-Portfolio-Project/pull/9#pullrequestreview-1179027103) in [kazim110/My-Portfolio-Project](https://github.com/kazim110/My-Portfolio-Project)
+1. 🔴 Requested 2 change(s) for [#7](https://github.com/kennedyowusu/portfolio/pull/7#pullrequestreview-1181573140) in [kennedyowusu/portfolio](https://github.com/kennedyowusu/portfolio)
+2. 👍 Approved [#9](https://github.com/felixDev22/Mobile-first-D3/pull/9#pullrequestreview-1181521437) in [felixDev22/Mobile-first-D3](https://github.com/felixDev22/Mobile-first-D3)
+3. 👍 Approved [#9](https://github.com/felixDev22/Mobile-first-D3/pull/9#pullrequestreview-1181521437) in [felixDev22/Mobile-first-D3](https://github.com/felixDev22/Mobile-first-D3)
+4. ⬆️ Pushed 21 commit(s) to [anagudelogu/expenses-api](https://github.com/anagudelogu/expenses-api)
+5. 🎉 Merged PR [#2](https://github.com/anagudelogu/expenses-api/pull/2) in [anagudelogu/expenses-api](https://github.com/anagudelogu/expenses-api)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 15th, 2022, 6:17:31 PM (GMT)
+Last Updated: Wednesday, November 16th, 2022, 1:14:56 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
