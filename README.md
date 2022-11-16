@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#7](https://github.com/kennedyowusu/portfolio/pull/7#pullrequestreview-1181573140) in [kennedyowusu/portfolio](https://github.com/kennedyowusu/portfolio)
-2. 👍 Approved [#9](https://github.com/felixDev22/Mobile-first-D3/pull/9#pullrequestreview-1181521437) in [felixDev22/Mobile-first-D3](https://github.com/felixDev22/Mobile-first-D3)
-3. 👍 Approved [#9](https://github.com/felixDev22/Mobile-first-D3/pull/9#pullrequestreview-1181521437) in [felixDev22/Mobile-first-D3](https://github.com/felixDev22/Mobile-first-D3)
-4. ⬆️ Pushed 21 commit(s) to [anagudelogu/expenses-api](https://github.com/anagudelogu/expenses-api)
-5. 🎉 Merged PR [#2](https://github.com/anagudelogu/expenses-api/pull/2) in [anagudelogu/expenses-api](https://github.com/anagudelogu/expenses-api)
+1. 👍 Approved [#3](https://github.com/somarib/Soma-wk2-portfolio/pull/3#pullrequestreview-1182524232) in [somarib/Soma-wk2-portfolio](https://github.com/somarib/Soma-wk2-portfolio)
+2. 👍 Approved [#4](https://github.com/elarhadu/Portfolio/pull/4#pullrequestreview-1182492092) in [elarhadu/Portfolio](https://github.com/elarhadu/Portfolio)
+3. 👍 Approved [#4](https://github.com/elarhadu/Portfolio/pull/4#pullrequestreview-1182492092) in [elarhadu/Portfolio](https://github.com/elarhadu/Portfolio)
+4. 🔴 Requested 2 change(s) for [#7](https://github.com/kennedyowusu/portfolio/pull/7#pullrequestreview-1181573140) in [kennedyowusu/portfolio](https://github.com/kennedyowusu/portfolio)
+5. 👍 Approved [#9](https://github.com/felixDev22/Mobile-first-D3/pull/9#pullrequestreview-1181521437) in [felixDev22/Mobile-first-D3](https://github.com/felixDev22/Mobile-first-D3)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 16th, 2022, 12:27:14 PM (GMT)
+Last Updated: Wednesday, November 16th, 2022, 6:17:18 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
