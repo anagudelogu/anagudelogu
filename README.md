@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#3](https://github.com/somarib/Soma-wk2-portfolio/pull/3#pullrequestreview-1182524232) in [somarib/Soma-wk2-portfolio](https://github.com/somarib/Soma-wk2-portfolio)
-2. 👍 Approved [#4](https://github.com/elarhadu/Portfolio/pull/4#pullrequestreview-1182492092) in [elarhadu/Portfolio](https://github.com/elarhadu/Portfolio)
-3. 👍 Approved [#4](https://github.com/elarhadu/Portfolio/pull/4#pullrequestreview-1182492092) in [elarhadu/Portfolio](https://github.com/elarhadu/Portfolio)
-4. 🔴 Requested 2 change(s) for [#7](https://github.com/kennedyowusu/portfolio/pull/7#pullrequestreview-1181573140) in [kennedyowusu/portfolio](https://github.com/kennedyowusu/portfolio)
-5. 👍 Approved [#9](https://github.com/felixDev22/Mobile-first-D3/pull/9#pullrequestreview-1181521437) in [felixDev22/Mobile-first-D3](https://github.com/felixDev22/Mobile-first-D3)
+1. 👍 Approved [#11](https://github.com/Trast00/Portfolio/pull/11#pullrequestreview-1183342032) in [Trast00/Portfolio](https://github.com/Trast00/Portfolio)
+2. 🔴 Requested 2 change(s) for [#3](https://github.com/ahmadsarfrazx/Portfolio-new/pull/3#pullrequestreview-1183291337) in [ahmadsarfrazx/Portfolio-new](https://github.com/ahmadsarfrazx/Portfolio-new)
+3. 👍 Approved [#3](https://github.com/somarib/Soma-wk2-portfolio/pull/3#pullrequestreview-1182524232) in [somarib/Soma-wk2-portfolio](https://github.com/somarib/Soma-wk2-portfolio)
+4. 👍 Approved [#4](https://github.com/elarhadu/Portfolio/pull/4#pullrequestreview-1182492092) in [elarhadu/Portfolio](https://github.com/elarhadu/Portfolio)
+5. 👍 Approved [#4](https://github.com/elarhadu/Portfolio/pull/4#pullrequestreview-1182492092) in [elarhadu/Portfolio](https://github.com/elarhadu/Portfolio)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 16th, 2022, 6:17:18 PM (GMT)
+Last Updated: Thursday, November 17th, 2022, 1:13:54 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
