@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#11](https://github.com/shahadat3669/Portfolio-Microverse/pull/11#pullrequestreview-1184738473) in [shahadat3669/Portfolio-Microverse](https://github.com/shahadat3669/Portfolio-Microverse)
-2. 👍 Approved [#16](https://github.com/shegy28/Portfolio-setup-and-mobile-first/pull/16#pullrequestreview-1184720214) in [shegy28/Portfolio-setup-and-mobile-first](https://github.com/shegy28/Portfolio-setup-and-mobile-first)
-3. 🔴 Requested 2 change(s) for [#6](https://github.com/ezraermy/ezraermy.github.io/pull/6#pullrequestreview-1184682669) in [ezraermy/ezraermy.github.io](https://github.com/ezraermy/ezraermy.github.io)
-4. 🔴 Requested 2 change(s) for [#14](https://github.com/RoyJumah/My-portfolio/pull/14#pullrequestreview-1184580670) in [RoyJumah/My-portfolio](https://github.com/RoyJumah/My-portfolio)
-5. 👍 Approved [#14](https://github.com/PrangonGhose/My-Portfolio/pull/14#pullrequestreview-1184514714) in [PrangonGhose/My-Portfolio](https://github.com/PrangonGhose/My-Portfolio)
+1. 👍 Approved [#12](https://github.com/shahadat3669/Portfolio-Microverse/pull/12#pullrequestreview-1184914501) in [shahadat3669/Portfolio-Microverse](https://github.com/shahadat3669/Portfolio-Microverse)
+2. 🔴 Requested 2 change(s) for [#8](https://github.com/roodjinocherilus/Porfolio-mobile-version-skeleton/pull/8#pullrequestreview-1184849394) in [roodjinocherilus/Porfolio-mobile-version-skeleton](https://github.com/roodjinocherilus/Porfolio-mobile-version-skeleton)
+3. 👍 Approved [#11](https://github.com/shahadat3669/Portfolio-Microverse/pull/11#pullrequestreview-1184738473) in [shahadat3669/Portfolio-Microverse](https://github.com/shahadat3669/Portfolio-Microverse)
+4. 👍 Approved [#16](https://github.com/shegy28/Portfolio-setup-and-mobile-first/pull/16#pullrequestreview-1184720214) in [shegy28/Portfolio-setup-and-mobile-first](https://github.com/shegy28/Portfolio-setup-and-mobile-first)
+5. 🔴 Requested 1 change(s) for [#6](https://github.com/ezraermy/ezraermy.github.io/pull/6#pullrequestreview-1184682669) in [ezraermy/ezraermy.github.io](https://github.com/ezraermy/ezraermy.github.io)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 17th, 2022, 6:17:05 PM (GMT)
+Last Updated: Friday, November 18th, 2022, 1:17:36 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
