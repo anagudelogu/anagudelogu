@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#9](https://github.com/ezraermy/ezraermy.github.io/pull/9#pullrequestreview-1186458563) in [ezraermy/ezraermy.github.io](https://github.com/ezraermy/ezraermy.github.io)
-2. 🔴 Requested 2 change(s) for [#8](https://github.com/GutemaG/GutemaG.github.io/pull/8#pullrequestreview-1186415362) in [GutemaG/GutemaG.github.io](https://github.com/GutemaG/GutemaG.github.io)
-3. 👍 Approved [#14](https://github.com/ShinhyoBelok/Portfolio-setup-and-mobile-first/pull/14#pullrequestreview-1186280632) in [ShinhyoBelok/Portfolio-setup-and-mobile-first](https://github.com/ShinhyoBelok/Portfolio-setup-and-mobile-first)
-4. 👍 Approved [#14](https://github.com/c00p75/Portfolio-setup-and-mobile-first/pull/14#pullrequestreview-1186250487) in [c00p75/Portfolio-setup-and-mobile-first](https://github.com/c00p75/Portfolio-setup-and-mobile-first)
-5. 👍 Approved [#14](https://github.com/c00p75/Portfolio-setup-and-mobile-first/pull/14#pullrequestreview-1186250487) in [c00p75/Portfolio-setup-and-mobile-first](https://github.com/c00p75/Portfolio-setup-and-mobile-first)
+1. 👍 Approved [#9](https://github.com/roodjinocherilus/Porfolio-mobile-version-skeleton/pull/9#pullrequestreview-1186901699) in [roodjinocherilus/Porfolio-mobile-version-skeleton](https://github.com/roodjinocherilus/Porfolio-mobile-version-skeleton)
+2. 👍 Approved [#13](https://github.com/lawrahkonwea/My-portfolio/pull/13#pullrequestreview-1186847551) in [lawrahkonwea/My-portfolio](https://github.com/lawrahkonwea/My-portfolio)
+3. 🔴 Requested 1 change(s) for [#13](https://github.com/lawrahkonwea/My-portfolio/pull/13#pullrequestreview-1186759682) in [lawrahkonwea/My-portfolio](https://github.com/lawrahkonwea/My-portfolio)
+4. 👍 Approved [#8](https://github.com/GutemaG/GutemaG.github.io/pull/8#pullrequestreview-1186601391) in [GutemaG/GutemaG.github.io](https://github.com/GutemaG/GutemaG.github.io)
+5. 🔴 Requested 1 change(s) for [#9](https://github.com/ezraermy/ezraermy.github.io/pull/9#pullrequestreview-1186458563) in [ezraermy/ezraermy.github.io](https://github.com/ezraermy/ezraermy.github.io)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 18th, 2022, 6:18:32 PM (GMT)
+Last Updated: Saturday, November 19th, 2022, 1:14:51 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
