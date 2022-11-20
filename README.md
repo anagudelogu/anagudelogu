@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#14](https://github.com/maherramadan78/Myportfolio/pull/14#pullrequestreview-1187082307) in [maherramadan78/Myportfolio](https://github.com/maherramadan78/Myportfolio)
-2. 👍 Approved [#9](https://github.com/roodjinocherilus/Porfolio-mobile-version-skeleton/pull/9#pullrequestreview-1186901699) in [roodjinocherilus/Porfolio-mobile-version-skeleton](https://github.com/roodjinocherilus/Porfolio-mobile-version-skeleton)
-3. 👍 Approved [#13](https://github.com/lawrahkonwea/My-portfolio/pull/13#pullrequestreview-1186847551) in [lawrahkonwea/My-portfolio](https://github.com/lawrahkonwea/My-portfolio)
-4. 🔴 Requested 1 change(s) for [#13](https://github.com/lawrahkonwea/My-portfolio/pull/13#pullrequestreview-1186759682) in [lawrahkonwea/My-portfolio](https://github.com/lawrahkonwea/My-portfolio)
-5. 👍 Approved [#8](https://github.com/GutemaG/GutemaG.github.io/pull/8#pullrequestreview-1186601391) in [GutemaG/GutemaG.github.io](https://github.com/GutemaG/GutemaG.github.io)
+1. 👍 Approved [#8](https://github.com/leehaney254/leehaney254.github.io/pull/8#pullrequestreview-1187108352) in [leehaney254/leehaney254.github.io](https://github.com/leehaney254/leehaney254.github.io)
+2. 🔴 Requested 2 change(s) for [#14](https://github.com/maherramadan78/Myportfolio/pull/14#pullrequestreview-1187082307) in [maherramadan78/Myportfolio](https://github.com/maherramadan78/Myportfolio)
+3. 👍 Approved [#9](https://github.com/roodjinocherilus/Porfolio-mobile-version-skeleton/pull/9#pullrequestreview-1186901699) in [roodjinocherilus/Porfolio-mobile-version-skeleton](https://github.com/roodjinocherilus/Porfolio-mobile-version-skeleton)
+4. 👍 Approved [#13](https://github.com/lawrahkonwea/My-portfolio/pull/13#pullrequestreview-1186847551) in [lawrahkonwea/My-portfolio](https://github.com/lawrahkonwea/My-portfolio)
+5. 🔴 Requested 1 change(s) for [#13](https://github.com/lawrahkonwea/My-portfolio/pull/13#pullrequestreview-1186759682) in [lawrahkonwea/My-portfolio](https://github.com/lawrahkonwea/My-portfolio)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 19th, 2022, 6:16:15 PM (GMT)
+Last Updated: Sunday, November 20th, 2022, 1:17:47 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
