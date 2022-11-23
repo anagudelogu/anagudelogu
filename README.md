@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#2](https://github.com/jorgegoco/Leaderboard/pull/2#pullrequestreview-1191505489) in [jorgegoco/Leaderboard](https://github.com/jorgegoco/Leaderboard)
-2. 🔴 Requested 2 change(s) for [#4](https://github.com/somarib/Soma-wk2-portfolio/pull/4#pullrequestreview-1191474387) in [somarib/Soma-wk2-portfolio](https://github.com/somarib/Soma-wk2-portfolio)
-3. 👍 Approved [#13](https://github.com/kkolade/kolakolade.me/pull/13#pullrequestreview-1189017234) in [kkolade/kolakolade.me](https://github.com/kkolade/kolakolade.me)
-4. 👍 Approved [#13](https://github.com/kkolade/kolakolade.me/pull/13#pullrequestreview-1189017234) in [kkolade/kolakolade.me](https://github.com/kkolade/kolakolade.me)
-5. 👍 Approved [#3](https://github.com/SergSkol/Leaderboard/pull/3#pullrequestreview-1188686117) in [SergSkol/Leaderboard](https://github.com/SergSkol/Leaderboard)
+1. 🔴 Requested 2 change(s) for [#1](https://github.com/Trast00/reimangined-conference/pull/1#pullrequestreview-1191953671) in [Trast00/reimangined-conference](https://github.com/Trast00/reimangined-conference)
+2. 👍 Approved [#1](https://github.com/habasm/habasm-capstone1/pull/1#pullrequestreview-1191782585) in [habasm/habasm-capstone1](https://github.com/habasm/habasm-capstone1)
+3. 👍 Approved [#1](https://github.com/habasm/habasm-capstone1/pull/1#pullrequestreview-1191782585) in [habasm/habasm-capstone1](https://github.com/habasm/habasm-capstone1)
+4. 🔴 Requested 2 change(s) for [#2](https://github.com/odaialazzeh/Leaderboard/pull/2#pullrequestreview-1191649022) in [odaialazzeh/Leaderboard](https://github.com/odaialazzeh/Leaderboard)
+5. 🔴 Requested 1 change(s) for [#5](https://github.com/schoolsofafrika/Responsive-Portfolio/pull/5#pullrequestreview-1191571164) in [schoolsofafrika/Responsive-Portfolio](https://github.com/schoolsofafrika/Responsive-Portfolio)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 23rd, 2022, 12:26:48 PM (GMT)
+Last Updated: Wednesday, November 23rd, 2022, 6:16:06 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
