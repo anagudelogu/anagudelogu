@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#1](https://github.com/uchexm/Big-5-Summit/pull/1#pullrequestreview-1193321756) in [uchexm/Big-5-Summit](https://github.com/uchexm/Big-5-Summit)
-2. 🔴 Requested 3 change(s) for [#1](https://github.com/Trast00/reimangined-conference/pull/1#pullrequestreview-1191953671) in [Trast00/reimangined-conference](https://github.com/Trast00/reimangined-conference)
-3. 👍 Approved [#1](https://github.com/habasm/habasm-capstone1/pull/1#pullrequestreview-1191782585) in [habasm/habasm-capstone1](https://github.com/habasm/habasm-capstone1)
-4. 👍 Approved [#1](https://github.com/habasm/habasm-capstone1/pull/1#pullrequestreview-1191782585) in [habasm/habasm-capstone1](https://github.com/habasm/habasm-capstone1)
-5. 🔴 Requested 1 change(s) for [#2](https://github.com/odaialazzeh/Leaderboard/pull/2#pullrequestreview-1191649022) in [odaialazzeh/Leaderboard](https://github.com/odaialazzeh/Leaderboard)
+1. 🔴 Requested 2 change(s) for [#1](https://github.com/bernabasy/Capstone-project-one/pull/1#pullrequestreview-1193584140) in [bernabasy/Capstone-project-one](https://github.com/bernabasy/Capstone-project-one)
+2. 🔴 Requested 1 change(s) for [#3](https://github.com/ZuhRa-HashiMi/Leaderboard/pull/3#pullrequestreview-1193570806) in [ZuhRa-HashiMi/Leaderboard](https://github.com/ZuhRa-HashiMi/Leaderboard)
+3. 🔴 Requested 2 change(s) for [#18](https://github.com/SabiMantock/portfolio_project/pull/18#pullrequestreview-1193539342) in [SabiMantock/portfolio_project](https://github.com/SabiMantock/portfolio_project)
+4. 🔴 Requested 2 change(s) for [#1](https://github.com/uchexm/Big-5-Summit/pull/1#pullrequestreview-1193321756) in [uchexm/Big-5-Summit](https://github.com/uchexm/Big-5-Summit)
+5. 🔴 Requested 1 change(s) for [#1](https://github.com/Trast00/reimangined-conference/pull/1#pullrequestreview-1191953671) in [Trast00/reimangined-conference](https://github.com/Trast00/reimangined-conference)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 24th, 2022, 6:16:28 PM (GMT)
+Last Updated: Friday, November 25th, 2022, 1:07:07 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
