@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#1](https://github.com/bernabasy/Capstone-project-one/pull/1#pullrequestreview-1193584140) in [bernabasy/Capstone-project-one](https://github.com/bernabasy/Capstone-project-one)
-2. 🔴 Requested 1 change(s) for [#3](https://github.com/ZuhRa-HashiMi/Leaderboard/pull/3#pullrequestreview-1193570806) in [ZuhRa-HashiMi/Leaderboard](https://github.com/ZuhRa-HashiMi/Leaderboard)
-3. 🔴 Requested 2 change(s) for [#18](https://github.com/SabiMantock/portfolio_project/pull/18#pullrequestreview-1193539342) in [SabiMantock/portfolio_project](https://github.com/SabiMantock/portfolio_project)
-4. 🔴 Requested 2 change(s) for [#1](https://github.com/uchexm/Big-5-Summit/pull/1#pullrequestreview-1193321756) in [uchexm/Big-5-Summit](https://github.com/uchexm/Big-5-Summit)
-5. 🔴 Requested 1 change(s) for [#1](https://github.com/Trast00/reimangined-conference/pull/1#pullrequestreview-1191953671) in [Trast00/reimangined-conference](https://github.com/Trast00/reimangined-conference)
+1. 🔴 Requested 2 change(s) for [#2](https://github.com/lilskyex0x/Module1--CapstoneProject/pull/2#pullrequestreview-1194643116) in [lilskyex0x/Module1--CapstoneProject](https://github.com/lilskyex0x/Module1--CapstoneProject)
+2. 🔴 Requested 1 change(s) for [#10](https://github.com/rashedarman/portfolio/pull/10#pullrequestreview-1194459172) in [rashedarman/portfolio](https://github.com/rashedarman/portfolio)
+3. 👍 Approved [#2](https://github.com/amentetteh/leader-board-project/pull/2#pullrequestreview-1194397499) in [amentetteh/leader-board-project](https://github.com/amentetteh/leader-board-project)
+4. 🔴 Requested 2 change(s) for [#1](https://github.com/bernabasy/Capstone-project-one/pull/1#pullrequestreview-1193584140) in [bernabasy/Capstone-project-one](https://github.com/bernabasy/Capstone-project-one)
+5. 🔴 Requested 1 change(s) for [#3](https://github.com/ZuhRa-HashiMi/Leaderboard/pull/3#pullrequestreview-1193570806) in [ZuhRa-HashiMi/Leaderboard](https://github.com/ZuhRa-HashiMi/Leaderboard)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 25th, 2022, 12:26:49 PM (GMT)
+Last Updated: Friday, November 25th, 2022, 6:16:32 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
