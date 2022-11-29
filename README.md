@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#1](https://github.com/GutemaG/awesome-book-javascript/pull/1#pullrequestreview-1196680807) in [GutemaG/awesome-book-javascript](https://github.com/GutemaG/awesome-book-javascript)
-2. 🔴 Requested 2 change(s) for [#1](https://github.com/Vgonma/awesome-books/pull/1#pullrequestreview-1196633098) in [Vgonma/awesome-books](https://github.com/Vgonma/awesome-books)
-3. 👍 Approved [#1](https://github.com/alex1779/hello-microverse-project/pull/1#pullrequestreview-1196543863) in [alex1779/hello-microverse-project](https://github.com/alex1779/hello-microverse-project)
-4. 🔴 Requested 2 change(s) for [#2](https://github.com/lilskyex0x/Module1--CapstoneProject/pull/2#pullrequestreview-1194643116) in [lilskyex0x/Module1--CapstoneProject](https://github.com/lilskyex0x/Module1--CapstoneProject)
-5. 🔴 Requested 1 change(s) for [#10](https://github.com/rashedarman/portfolio/pull/10#pullrequestreview-1194459172) in [rashedarman/portfolio](https://github.com/rashedarman/portfolio)
+1. 🔴 Requested 2 change(s) for [#1](https://github.com/Yemisirach/Hello-world/pull/1#pullrequestreview-1197902058) in [Yemisirach/Hello-world](https://github.com/Yemisirach/Hello-world)
+2. 🔴 Requested 2 change(s) for [#1](https://github.com/Bhekisile/Hello-Microverse-Project/pull/1#pullrequestreview-1197846427) in [Bhekisile/Hello-Microverse-Project](https://github.com/Bhekisile/Hello-Microverse-Project)
+3. 🔴 Requested 2 change(s) for [#1](https://github.com/collins-kiprotich/Awesome-books/pull/1#pullrequestreview-1197822640) in [collins-kiprotich/Awesome-books](https://github.com/collins-kiprotich/Awesome-books)
+4. 👍 Approved [#1](https://github.com/GutemaG/awesome-book-javascript/pull/1#pullrequestreview-1196680807) in [GutemaG/awesome-book-javascript](https://github.com/GutemaG/awesome-book-javascript)
+5. 🔴 Requested 1 change(s) for [#1](https://github.com/Vgonma/awesome-books/pull/1#pullrequestreview-1196633098) in [Vgonma/awesome-books](https://github.com/Vgonma/awesome-books)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 29th, 2022, 12:26:25 PM (GMT)
+Last Updated: Tuesday, November 29th, 2022, 6:16:07 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
