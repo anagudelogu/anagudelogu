@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#2](https://github.com/lilskyex0x/Module1--CapstoneProject/pull/2#pullrequestreview-1194643116) in [lilskyex0x/Module1--CapstoneProject](https://github.com/lilskyex0x/Module1--CapstoneProject)
-2. 🔴 Requested 1 change(s) for [#10](https://github.com/rashedarman/portfolio/pull/10#pullrequestreview-1194459172) in [rashedarman/portfolio](https://github.com/rashedarman/portfolio)
-3. 👍 Approved [#2](https://github.com/amentetteh/leader-board-project/pull/2#pullrequestreview-1194397499) in [amentetteh/leader-board-project](https://github.com/amentetteh/leader-board-project)
-4. 🔴 Requested 2 change(s) for [#1](https://github.com/bernabasy/Capstone-project-one/pull/1#pullrequestreview-1193584140) in [bernabasy/Capstone-project-one](https://github.com/bernabasy/Capstone-project-one)
-5. 🔴 Requested 1 change(s) for [#3](https://github.com/ZuhRa-HashiMi/Leaderboard/pull/3#pullrequestreview-1193570806) in [ZuhRa-HashiMi/Leaderboard](https://github.com/ZuhRa-HashiMi/Leaderboard)
+1. 👍 Approved [#1](https://github.com/GutemaG/awesome-book-javascript/pull/1#pullrequestreview-1196680807) in [GutemaG/awesome-book-javascript](https://github.com/GutemaG/awesome-book-javascript)
+2. 🔴 Requested 2 change(s) for [#1](https://github.com/Vgonma/awesome-books/pull/1#pullrequestreview-1196633098) in [Vgonma/awesome-books](https://github.com/Vgonma/awesome-books)
+3. 👍 Approved [#1](https://github.com/alex1779/hello-microverse-project/pull/1#pullrequestreview-1196543863) in [alex1779/hello-microverse-project](https://github.com/alex1779/hello-microverse-project)
+4. 🔴 Requested 2 change(s) for [#2](https://github.com/lilskyex0x/Module1--CapstoneProject/pull/2#pullrequestreview-1194643116) in [lilskyex0x/Module1--CapstoneProject](https://github.com/lilskyex0x/Module1--CapstoneProject)
+5. 🔴 Requested 1 change(s) for [#10](https://github.com/rashedarman/portfolio/pull/10#pullrequestreview-1194459172) in [rashedarman/portfolio](https://github.com/rashedarman/portfolio)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 28th, 2022, 6:16:38 PM (GMT)
+Last Updated: Tuesday, November 29th, 2022, 1:06:59 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
