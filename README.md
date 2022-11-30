@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#1](https://github.com/Yemisirach/Hello-world/pull/1#pullrequestreview-1197902058) in [Yemisirach/Hello-world](https://github.com/Yemisirach/Hello-world)
-2. 🔴 Requested 2 change(s) for [#1](https://github.com/Bhekisile/Hello-Microverse-Project/pull/1#pullrequestreview-1197846427) in [Bhekisile/Hello-Microverse-Project](https://github.com/Bhekisile/Hello-Microverse-Project)
-3. 🔴 Requested 2 change(s) for [#1](https://github.com/collins-kiprotich/Awesome-books/pull/1#pullrequestreview-1197822640) in [collins-kiprotich/Awesome-books](https://github.com/collins-kiprotich/Awesome-books)
-4. 👍 Approved [#1](https://github.com/GutemaG/awesome-book-javascript/pull/1#pullrequestreview-1196680807) in [GutemaG/awesome-book-javascript](https://github.com/GutemaG/awesome-book-javascript)
-5. 🔴 Requested 1 change(s) for [#1](https://github.com/Vgonma/awesome-books/pull/1#pullrequestreview-1196633098) in [Vgonma/awesome-books](https://github.com/Vgonma/awesome-books)
+1. 🔴 Requested 2 change(s) for [#1](https://github.com/Kidd254/Hello-World-Project/pull/1#pullrequestreview-1198304607) in [Kidd254/Hello-World-Project](https://github.com/Kidd254/Hello-World-Project)
+2. 🔴 Requested 2 change(s) for [#1](https://github.com/Sammy3000/Hello-microverse/pull/1#pullrequestreview-1198289316) in [Sammy3000/Hello-microverse](https://github.com/Sammy3000/Hello-microverse)
+3. 🔴 Requested 2 change(s) for [#1](https://github.com/FevenSeyfu/Hello-world/pull/1#pullrequestreview-1198245034) in [FevenSeyfu/Hello-world](https://github.com/FevenSeyfu/Hello-world)
+4. 👍 Approved [#2](https://github.com/DamenaM/Hello-Microverse-Project/pull/2#pullrequestreview-1198222883) in [DamenaM/Hello-Microverse-Project](https://github.com/DamenaM/Hello-Microverse-Project)
+5. 👍 Approved [#2](https://github.com/DamenaM/Hello-Microverse-Project/pull/2#pullrequestreview-1198222883) in [DamenaM/Hello-Microverse-Project](https://github.com/DamenaM/Hello-Microverse-Project)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 29th, 2022, 6:16:07 PM (GMT)
+Last Updated: Wednesday, November 30th, 2022, 1:07:54 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
