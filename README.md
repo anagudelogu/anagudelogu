@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#1](https://github.com/mohisa302/Setup-first-mobile-app/pull/1#pullrequestreview-1202820170) in [mohisa302/Setup-first-mobile-app](https://github.com/mohisa302/Setup-first-mobile-app)
-2. 👍 Approved [#2](https://github.com/Fene-87/Portfolio/pull/2#pullrequestreview-1202797772) in [Fene-87/Portfolio](https://github.com/Fene-87/Portfolio)
-3. 👍 Approved [#2](https://github.com/Fene-87/Portfolio/pull/2#pullrequestreview-1202797772) in [Fene-87/Portfolio](https://github.com/Fene-87/Portfolio)
-4. 🔴 Requested 2 change(s) for [#2](https://github.com/edahigure/Portfolio/pull/2#pullrequestreview-1202767276) in [edahigure/Portfolio](https://github.com/edahigure/Portfolio)
-5. 🔴 Requested 1 change(s) for [#1](https://github.com/Alazar721/hellomicroverse/pull/1#pullrequestreview-1202740331) in [Alazar721/hellomicroverse](https://github.com/Alazar721/hellomicroverse)
+1. 🔴 Requested 2 change(s) for [#3](https://github.com/ridabensalem/Portfloio-website-/pull/3#pullrequestreview-1202966413) in [ridabensalem/Portfloio-website-](https://github.com/ridabensalem/Portfloio-website-)
+2. 🔴 Requested 2 change(s) for [#1](https://github.com/erolkck/microverse-portfolio/pull/1#pullrequestreview-1202928304) in [erolkck/microverse-portfolio](https://github.com/erolkck/microverse-portfolio)
+3. 👍 Approved [#1](https://github.com/MarcoDDM/Hello-Microverse/pull/1#pullrequestreview-1202912954) in [MarcoDDM/Hello-Microverse](https://github.com/MarcoDDM/Hello-Microverse)
+4. 🔴 Requested 2 change(s) for [#2](https://github.com/Sammy3000/my-portfolio/pull/2#pullrequestreview-1202905153) in [Sammy3000/my-portfolio](https://github.com/Sammy3000/my-portfolio)
+5. 🔴 Requested 1 change(s) for [#1](https://github.com/mohisa302/Setup-first-mobile-app/pull/1#pullrequestreview-1202820170) in [mohisa302/Setup-first-mobile-app](https://github.com/mohisa302/Setup-first-mobile-app)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 2nd, 2022, 6:15:14 PM (GMT)
+Last Updated: Saturday, December 3rd, 2022, 12:59:54 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
