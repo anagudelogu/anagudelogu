@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#2](https://github.com/Sonikak004/portfolio-setup/pull/2#pullrequestreview-1203579695) in [Sonikak004/portfolio-setup](https://github.com/Sonikak004/portfolio-setup)
-2. 👍 Approved [#1](https://github.com/ilyassatlassi/capstone/pull/1#pullrequestreview-1203578727) in [ilyassatlassi/capstone](https://github.com/ilyassatlassi/capstone)
-3. 👍 Approved [#1](https://github.com/ilyassatlassi/capstone/pull/1#pullrequestreview-1203578727) in [ilyassatlassi/capstone](https://github.com/ilyassatlassi/capstone)
-4. 🔴 Requested 2 change(s) for [#3](https://github.com/ridabensalem/Portfloio-website-/pull/3#pullrequestreview-1202966413) in [ridabensalem/Portfloio-website-](https://github.com/ridabensalem/Portfloio-website-)
-5. 🔴 Requested 1 change(s) for [#1](https://github.com/erolkck/microverse-portfolio/pull/1#pullrequestreview-1202928304) in [erolkck/microverse-portfolio](https://github.com/erolkck/microverse-portfolio)
+1. 👍 Approved [#1](https://github.com/Lancelot-SO/project_review/pull/1#pullrequestreview-1204826011) in [Lancelot-SO/project_review](https://github.com/Lancelot-SO/project_review)
+2. 🔴 Requested 1 change(s) for [#1](https://github.com/dennis-every/review-technical-documentation-page/pull/1#pullrequestreview-1204821623) in [dennis-every/review-technical-documentation-page](https://github.com/dennis-every/review-technical-documentation-page)
+3. 🔴 Requested 2 change(s) for [#1](https://github.com/HanaSabih/review_project/pull/1#pullrequestreview-1204800757) in [HanaSabih/review_project](https://github.com/HanaSabih/review_project)
+4. 🔴 Requested 2 change(s) for [#1](https://github.com/PowerLevel9000/review-project/pull/1#pullrequestreview-1204766589) in [PowerLevel9000/review-project](https://github.com/PowerLevel9000/review-project)
+5. 🔴 Requested 1 change(s) for [#1](https://github.com/Jolak5/Review_challenge/pull/1#pullrequestreview-1204750205) in [Jolak5/Review_challenge](https://github.com/Jolak5/Review_challenge)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 5th, 2022, 12:24:30 PM (GMT)
+Last Updated: Monday, December 5th, 2022, 6:15:28 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
