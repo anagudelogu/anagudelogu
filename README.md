@@ -107,5 +107,5 @@ Last Updated: Wednesday, December 7th, 2022, 12:23:52 PM (GMT)
 <!-- Activity graph: https://github.com/ashutosh00710/github-readme-activity-graph -->
 
 <div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anagudelogu&bg_color=1F222E&color=F8D866&line=1155ba&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=anagudelogu&bg_color=1F222E&color=F8D866&line=1155ba&point=FFFFFF&hide_border=true" /></a>
 </div>  
