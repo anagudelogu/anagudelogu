@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 1 change(s) for [#8](https://github.com/dieum512/Portfolio/pull/8#pullrequestreview-1215812433) in [dieum512/Portfolio](https://github.com/dieum512/Portfolio)
-2. 👍 Approved [#9](https://github.com/JakariaJishan/portfolio-microverse/pull/9#pullrequestreview-1216451231) in [JakariaJishan/portfolio-microverse](https://github.com/JakariaJishan/portfolio-microverse)
-3. 🔴 Requested 3 change(s) for [#7](https://github.com/SFarida/portfolio/pull/7#pullrequestreview-1216254293) in [SFarida/portfolio](https://github.com/SFarida/portfolio)
-4. 🔴 Requested 2 change(s) for [#1](https://github.com/ShiroYaksha90/Awesome-books-ES6/pull/1#pullrequestreview-1215937928) in [ShiroYaksha90/Awesome-books-ES6](https://github.com/ShiroYaksha90/Awesome-books-ES6)
-5. 👍 Approved [#1](https://github.com/Hirwacardinalloic/codeReview/pull/1#pullrequestreview-1215889091) in [Hirwacardinalloic/codeReview](https://github.com/Hirwacardinalloic/codeReview)
+1. 🔴 Requested 2 change(s) for [#1](https://github.com/Gardimy/comment_inline/pull/1#pullrequestreview-1217895687) in [Gardimy/comment_inline](https://github.com/Gardimy/comment_inline)
+2. 👍 Approved [#2](https://github.com/MICHAELKITH/microverse-mike-portifolio-2/pull/2#pullrequestreview-1217888008) in [MICHAELKITH/microverse-mike-portifolio-2](https://github.com/MICHAELKITH/microverse-mike-portifolio-2)
+3. 👍 Approved [#2](https://github.com/MICHAELKITH/microverse-mike-portifolio-2/pull/2#pullrequestreview-1217888008) in [MICHAELKITH/microverse-mike-portifolio-2](https://github.com/MICHAELKITH/microverse-mike-portifolio-2)
+4. 👍 Approved [#7](https://github.com/3nityGitHub/Mobile-portfolio-setup/pull/7#pullrequestreview-1217871318) in [3nityGitHub/Mobile-portfolio-setup](https://github.com/3nityGitHub/Mobile-portfolio-setup)
+5. 👍 Approved [#8](https://github.com/simplegoose/portfolio-project/pull/8#pullrequestreview-1217794701) in [simplegoose/portfolio-project](https://github.com/simplegoose/portfolio-project)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 14th, 2022, 12:24:54 PM (GMT)
+Last Updated: Wednesday, December 14th, 2022, 6:15:42 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
