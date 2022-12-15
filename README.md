@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#1](https://github.com/Gardimy/comment_inline/pull/1#pullrequestreview-1217895687) in [Gardimy/comment_inline](https://github.com/Gardimy/comment_inline)
-2. 👍 Approved [#2](https://github.com/MICHAELKITH/microverse-mike-portifolio-2/pull/2#pullrequestreview-1217888008) in [MICHAELKITH/microverse-mike-portifolio-2](https://github.com/MICHAELKITH/microverse-mike-portifolio-2)
+1. 👍 Approved [#2](https://github.com/luigirazum/mv-mintodolist/pull/2#pullrequestreview-1218398289) in [luigirazum/mv-mintodolist](https://github.com/luigirazum/mv-mintodolist)
+2. 🔴 Requested 2 change(s) for [#1](https://github.com/Gardimy/comment_inline/pull/1#pullrequestreview-1217895687) in [Gardimy/comment_inline](https://github.com/Gardimy/comment_inline)
 3. 👍 Approved [#2](https://github.com/MICHAELKITH/microverse-mike-portifolio-2/pull/2#pullrequestreview-1217888008) in [MICHAELKITH/microverse-mike-portifolio-2](https://github.com/MICHAELKITH/microverse-mike-portifolio-2)
-4. 👍 Approved [#7](https://github.com/3nityGitHub/Mobile-portfolio-setup/pull/7#pullrequestreview-1217871318) in [3nityGitHub/Mobile-portfolio-setup](https://github.com/3nityGitHub/Mobile-portfolio-setup)
-5. 👍 Approved [#8](https://github.com/simplegoose/portfolio-project/pull/8#pullrequestreview-1217794701) in [simplegoose/portfolio-project](https://github.com/simplegoose/portfolio-project)
+4. 👍 Approved [#2](https://github.com/MICHAELKITH/microverse-mike-portifolio-2/pull/2#pullrequestreview-1217888008) in [MICHAELKITH/microverse-mike-portifolio-2](https://github.com/MICHAELKITH/microverse-mike-portifolio-2)
+5. 👍 Approved [#7](https://github.com/3nityGitHub/Mobile-portfolio-setup/pull/7#pullrequestreview-1217871318) in [3nityGitHub/Mobile-portfolio-setup](https://github.com/3nityGitHub/Mobile-portfolio-setup)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 14th, 2022, 6:15:42 PM (GMT)
+Last Updated: Thursday, December 15th, 2022, 1:04:48 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
