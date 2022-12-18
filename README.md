@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#13](https://github.com/AyoMoses1/Portfolio-Redefined/pull/13#pullrequestreview-1221337945) in [AyoMoses1/Portfolio-Redefined](https://github.com/AyoMoses1/Portfolio-Redefined)
-2. 👍 Approved [#13](https://github.com/AyoMoses1/Portfolio-Redefined/pull/13#pullrequestreview-1221337945) in [AyoMoses1/Portfolio-Redefined](https://github.com/AyoMoses1/Portfolio-Redefined)
-3. 🔴 Requested 2 change(s) for [#10](https://github.com/Eldonratzlaff/new-portfolio/pull/10#pullrequestreview-1221284641) in [Eldonratzlaff/new-portfolio](https://github.com/Eldonratzlaff/new-portfolio)
-4. 👍 Approved [#9](https://github.com/ivanmvh/to-do-list-imvh/pull/9#pullrequestreview-1221138325) in [ivanmvh/to-do-list-imvh](https://github.com/ivanmvh/to-do-list-imvh)
-5. 🔴 Requested 1 change(s) for [#7](https://github.com/MarsIncarnate/Microverse_Portfolio/pull/7#pullrequestreview-1221071868) in [MarsIncarnate/Microverse_Portfolio](https://github.com/MarsIncarnate/Microverse_Portfolio)
+1. 👍 Approved [#5](https://github.com/joyapisi/MyPortfolio/pull/5#pullrequestreview-1221891320) in [joyapisi/MyPortfolio](https://github.com/joyapisi/MyPortfolio)
+2. 👍 Approved [#5](https://github.com/Ashnaali3255/Portfolio-1/pull/5#pullrequestreview-1221886822) in [Ashnaali3255/Portfolio-1](https://github.com/Ashnaali3255/Portfolio-1)
+3. 👍 Approved [#5](https://github.com/Ashnaali3255/Portfolio-1/pull/5#pullrequestreview-1221886822) in [Ashnaali3255/Portfolio-1](https://github.com/Ashnaali3255/Portfolio-1)
+4. 🔴 Requested 2 change(s) for [#6](https://github.com/danifromecuador/portfolio/pull/6#pullrequestreview-1221845216) in [danifromecuador/portfolio](https://github.com/danifromecuador/portfolio)
+5. 👍 Approved [#13](https://github.com/AyoMoses1/Portfolio-Redefined/pull/13#pullrequestreview-1221337945) in [AyoMoses1/Portfolio-Redefined](https://github.com/AyoMoses1/Portfolio-Redefined)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, December 17th, 2022, 6:13:14 PM (GMT)
+Last Updated: Sunday, December 18th, 2022, 12:59:51 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
