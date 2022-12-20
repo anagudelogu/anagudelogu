@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#11](https://github.com/Rachelwebdev/Portfolio-Project/pull/11#pullrequestreview-1223636567) in [Rachelwebdev/Portfolio-Project](https://github.com/Rachelwebdev/Portfolio-Project)
-2. 👍 Approved [#4](https://github.com/Kwaku28/My-Portfolio/pull/4#pullrequestreview-1223592966) in [Kwaku28/My-Portfolio](https://github.com/Kwaku28/My-Portfolio)
-3. 👍 Approved [#7](https://github.com/alieftekhar33/my-protofolio/pull/7#pullrequestreview-1223590418) in [alieftekhar33/my-protofolio](https://github.com/alieftekhar33/my-protofolio)
-4. 👍 Approved [#5](https://github.com/joyapisi/MyPortfolio/pull/5#pullrequestreview-1221891320) in [joyapisi/MyPortfolio](https://github.com/joyapisi/MyPortfolio)
-5. 👍 Approved [#5](https://github.com/Ashnaali3255/Portfolio-1/pull/5#pullrequestreview-1221886822) in [Ashnaali3255/Portfolio-1](https://github.com/Ashnaali3255/Portfolio-1)
+1. 👍 Approved [#1](https://github.com/willy836/Leaderboard/pull/1#pullrequestreview-1224916642) in [willy836/Leaderboard](https://github.com/willy836/Leaderboard)
+2. 👍 Approved [#1](https://github.com/willy836/Leaderboard/pull/1#pullrequestreview-1224916642) in [willy836/Leaderboard](https://github.com/willy836/Leaderboard)
+3. 👍 Approved [#13](https://github.com/Bigizi/Portfolio/pull/13#pullrequestreview-1224882775) in [Bigizi/Portfolio](https://github.com/Bigizi/Portfolio)
+4. 🔴 Requested 2 change(s) for [#11](https://github.com/fitz95/Portfolio-Microverse-/pull/11#pullrequestreview-1224853661) in [fitz95/Portfolio-Microverse-](https://github.com/fitz95/Portfolio-Microverse-)
+5. 👍 Approved [#1](https://github.com/mrkamin/Leaderboard/pull/1#pullrequestreview-1224818936) in [mrkamin/Leaderboard](https://github.com/mrkamin/Leaderboard)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 20th, 2022, 12:23:00 PM (GMT)
+Last Updated: Tuesday, December 20th, 2022, 6:14:18 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
