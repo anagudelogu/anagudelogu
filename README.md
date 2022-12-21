@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#1](https://github.com/willy836/Leaderboard/pull/1#pullrequestreview-1224916642) in [willy836/Leaderboard](https://github.com/willy836/Leaderboard)
-2. 👍 Approved [#1](https://github.com/willy836/Leaderboard/pull/1#pullrequestreview-1224916642) in [willy836/Leaderboard](https://github.com/willy836/Leaderboard)
-3. 👍 Approved [#13](https://github.com/Bigizi/Portfolio/pull/13#pullrequestreview-1224882775) in [Bigizi/Portfolio](https://github.com/Bigizi/Portfolio)
-4. 🔴 Requested 2 change(s) for [#11](https://github.com/fitz95/Portfolio-Microverse-/pull/11#pullrequestreview-1224853661) in [fitz95/Portfolio-Microverse-](https://github.com/fitz95/Portfolio-Microverse-)
-5. 👍 Approved [#1](https://github.com/mrkamin/Leaderboard/pull/1#pullrequestreview-1224818936) in [mrkamin/Leaderboard](https://github.com/mrkamin/Leaderboard)
+1. 🔴 Requested 2 change(s) for [#1](https://github.com/PrangonGhose/Leaderboard/pull/1#pullrequestreview-1225028007) in [PrangonGhose/Leaderboard](https://github.com/PrangonGhose/Leaderboard)
+2. 🔴 Requested 2 change(s) for [#12](https://github.com/Abdelaziz-Ali/Portfolio/pull/12#pullrequestreview-1225014981) in [Abdelaziz-Ali/Portfolio](https://github.com/Abdelaziz-Ali/Portfolio)
+3. 👍 Approved [#1](https://github.com/willy836/Leaderboard/pull/1#pullrequestreview-1224916642) in [willy836/Leaderboard](https://github.com/willy836/Leaderboard)
+4. 👍 Approved [#1](https://github.com/willy836/Leaderboard/pull/1#pullrequestreview-1224916642) in [willy836/Leaderboard](https://github.com/willy836/Leaderboard)
+5. 👍 Approved [#13](https://github.com/Bigizi/Portfolio/pull/13#pullrequestreview-1224882775) in [Bigizi/Portfolio](https://github.com/Bigizi/Portfolio)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 20th, 2022, 6:14:18 PM (GMT)
+Last Updated: Wednesday, December 21st, 2022, 12:57:46 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
