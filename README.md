@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#1](https://github.com/abenaTenkorang/leaderboard/pull/1#pullrequestreview-1233996030) in [abenaTenkorang/leaderboard](https://github.com/abenaTenkorang/leaderboard)
-2. ⬆️ Pushed 6 commit(s) to [anagudelogu/view-comps-blog](https://github.com/anagudelogu/view-comps-blog)
-3. 🎉 Merged PR [#1](https://github.com/anagudelogu/view-comps-blog/pull/1) in [anagudelogu/view-comps-blog](https://github.com/anagudelogu/view-comps-blog)
-4. 💪 Opened PR [#1](https://github.com/anagudelogu/view-comps-blog/pull/1) in [anagudelogu/view-comps-blog](https://github.com/anagudelogu/view-comps-blog)
-5. 📔 Created new repository [anagudelogu/view-comps-blog](https://github.com/anagudelogu/view-comps-blog)
+1. 🔴 Requested 2 change(s) for [#14](https://github.com/chelobotix/Portafolio-Website/pull/14#pullrequestreview-1234746101) in [chelobotix/Portafolio-Website](https://github.com/chelobotix/Portafolio-Website)
+2. 👍 Approved [#1](https://github.com/abenaTenkorang/leaderboard/pull/1#pullrequestreview-1233996030) in [abenaTenkorang/leaderboard](https://github.com/abenaTenkorang/leaderboard)
+3. ⬆️ Pushed 6 commit(s) to [anagudelogu/view-comps-blog](https://github.com/anagudelogu/view-comps-blog)
+4. 🎉 Merged PR [#1](https://github.com/anagudelogu/view-comps-blog/pull/1) in [anagudelogu/view-comps-blog](https://github.com/anagudelogu/view-comps-blog)
+5. 💪 Opened PR [#1](https://github.com/anagudelogu/view-comps-blog/pull/1) in [anagudelogu/view-comps-blog](https://github.com/anagudelogu/view-comps-blog)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 3rd, 2023, 12:24:13 PM (GMT)
+Last Updated: Tuesday, January 3rd, 2023, 6:14:33 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
