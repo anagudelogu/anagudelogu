@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 3 change(s) for [#1](https://github.com/AlexisJW/M1-Capstone/pull/1#pullrequestreview-1236611168) in [AlexisJW/M1-Capstone](https://github.com/AlexisJW/M1-Capstone)
-2. 👍 Approved [#11](https://github.com/djo1975/Portfolio-finish-mobile-version/pull/11#pullrequestreview-1236567335) in [djo1975/Portfolio-finish-mobile-version](https://github.com/djo1975/Portfolio-finish-mobile-version)
-3. 🔴 Requested 2 change(s) for [#10](https://github.com/danifromecuador/portfolio/pull/10#pullrequestreview-1236541148) in [danifromecuador/portfolio](https://github.com/danifromecuador/portfolio)
-4. 👍 Approved [#2](https://github.com/NelsonAraujo93/moduleOneCapstone/pull/2#pullrequestreview-1236496963) in [NelsonAraujo93/moduleOneCapstone](https://github.com/NelsonAraujo93/moduleOneCapstone)
-5. 🔴 Requested 1 change(s) for [#1](https://github.com/anderCM/CC-Global/pull/1#pullrequestreview-1235216050) in [anderCM/CC-Global](https://github.com/anderCM/CC-Global)
+1. 🔴 Requested 2 change(s) for [#1](https://github.com/biruk-bereka/software-developer-summit/pull/1#pullrequestreview-1238060621) in [biruk-bereka/software-developer-summit](https://github.com/biruk-bereka/software-developer-summit)
+2. 🔴 Requested 3 change(s) for [#1](https://github.com/AlexisJW/M1-Capstone/pull/1#pullrequestreview-1236611168) in [AlexisJW/M1-Capstone](https://github.com/AlexisJW/M1-Capstone)
+3. 👍 Approved [#11](https://github.com/djo1975/Portfolio-finish-mobile-version/pull/11#pullrequestreview-1236567335) in [djo1975/Portfolio-finish-mobile-version](https://github.com/djo1975/Portfolio-finish-mobile-version)
+4. 🔴 Requested 2 change(s) for [#10](https://github.com/danifromecuador/portfolio/pull/10#pullrequestreview-1236541148) in [danifromecuador/portfolio](https://github.com/danifromecuador/portfolio)
+5. 👍 Approved [#2](https://github.com/NelsonAraujo93/moduleOneCapstone/pull/2#pullrequestreview-1236496963) in [NelsonAraujo93/moduleOneCapstone](https://github.com/NelsonAraujo93/moduleOneCapstone)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 5th, 2023, 6:15:30 PM (GMT)
+Last Updated: Friday, January 6th, 2023, 1:03:15 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
