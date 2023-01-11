@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#1](https://github.com/Leeoasis/Hello-Microverse/pull/1#pullrequestreview-1242500259) in [Leeoasis/Hello-Microverse](https://github.com/Leeoasis/Hello-Microverse)
-2. 👍 Approved [#17](https://github.com/jkanyi-web/Microverse_Portfolio/pull/17#pullrequestreview-1239682913) in [jkanyi-web/Microverse_Portfolio](https://github.com/jkanyi-web/Microverse_Portfolio)
-3. 🔴 Requested 2 change(s) for [#17](https://github.com/jkanyi-web/Microverse_Portfolio/pull/17#pullrequestreview-1239682177) in [jkanyi-web/Microverse_Portfolio](https://github.com/jkanyi-web/Microverse_Portfolio)
-4. 🔴 Requested 2 change(s) for [#3](https://github.com/jash-debug/bookstore/pull/3#pullrequestreview-1239679522) in [jash-debug/bookstore](https://github.com/jash-debug/bookstore)
-5. 👍 Approved [#1](https://github.com/aubinleyoung/Event-Website/pull/1#pullrequestreview-1239676882) in [aubinleyoung/Event-Website](https://github.com/aubinleyoung/Event-Website)
+1. 🔴 Requested 1 change(s) for [#1](https://github.com/francksefu/Hello-Word/pull/1#pullrequestreview-1242969209) in [francksefu/Hello-Word](https://github.com/francksefu/Hello-Word)
+2. 🔴 Requested 2 change(s) for [#1](https://github.com/joramot/hello-world/pull/1#pullrequestreview-1242933963) in [joramot/hello-world](https://github.com/joramot/hello-world)
+3. 🔴 Requested 2 change(s) for [#1](https://github.com/Tracy-miranja/Myfirst-repo/pull/1#pullrequestreview-1242894844) in [Tracy-miranja/Myfirst-repo](https://github.com/Tracy-miranja/Myfirst-repo)
+4. 🔴 Requested 2 change(s) for [#2](https://github.com/Roland-Ntwali/Hello_Microverse/pull/2#pullrequestreview-1242888669) in [Roland-Ntwali/Hello_Microverse](https://github.com/Roland-Ntwali/Hello_Microverse)
+5. 🔴 Requested 1 change(s) for [#1](https://github.com/MishDM/Hello-Microverse-Project/pull/1#pullrequestreview-1242847870) in [MishDM/Hello-Microverse-Project](https://github.com/MishDM/Hello-Microverse-Project)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 10th, 2023, 6:15:13 PM (GMT)
+Last Updated: Wednesday, January 11th, 2023, 1:03:17 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
