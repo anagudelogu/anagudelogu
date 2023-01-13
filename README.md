@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#1](https://github.com/Hamdullah-Andar/HelloMicroverse/pull/1#pullrequestreview-1246428717) in [Hamdullah-Andar/HelloMicroverse](https://github.com/Hamdullah-Andar/HelloMicroverse)
-2. 🔴 Requested 2 change(s) for [#1](https://github.com/Festy1/MY-PORTFOLIO/pull/1#pullrequestreview-1246423516) in [Festy1/MY-PORTFOLIO](https://github.com/Festy1/MY-PORTFOLIO)
-3. 👍 Approved [#5](https://github.com/DarkxDev/Awesome-Books/pull/5#pullrequestreview-1246403786) in [DarkxDev/Awesome-Books](https://github.com/DarkxDev/Awesome-Books)
-4. 🔴 Requested 2 change(s) for [#1](https://github.com/ngeelani48/My-Portfolio/pull/1#pullrequestreview-1246359456) in [ngeelani48/My-Portfolio](https://github.com/ngeelani48/My-Portfolio)
-5. 🔴 Requested 1 change(s) for [#2](https://github.com/WilhelmK109/my-portfolio-website/pull/2#pullrequestreview-1246278383) in [WilhelmK109/my-portfolio-website](https://github.com/WilhelmK109/my-portfolio-website)
+1. 🔴 Requested 2 change(s) for [#1](https://github.com/carlosisraelsilva/Portfolio/pull/1#pullrequestreview-1248014751) in [carlosisraelsilva/Portfolio](https://github.com/carlosisraelsilva/Portfolio)
+2. 🔴 Requested 2 change(s) for [#2](https://github.com/DavidEspinoG/portfolio/pull/2#pullrequestreview-1247975224) in [DavidEspinoG/portfolio](https://github.com/DavidEspinoG/portfolio)
+3. 👍 Approved [#1](https://github.com/Hamdullah-Andar/HelloMicroverse/pull/1#pullrequestreview-1246428717) in [Hamdullah-Andar/HelloMicroverse](https://github.com/Hamdullah-Andar/HelloMicroverse)
+4. 🔴 Requested 2 change(s) for [#1](https://github.com/Festy1/MY-PORTFOLIO/pull/1#pullrequestreview-1246423516) in [Festy1/MY-PORTFOLIO](https://github.com/Festy1/MY-PORTFOLIO)
+5. 👍 Approved [#5](https://github.com/DarkxDev/Awesome-Books/pull/5#pullrequestreview-1246403786) in [DarkxDev/Awesome-Books](https://github.com/DarkxDev/Awesome-Books)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 13th, 2023, 12:23:23 PM (GMT)
+Last Updated: Friday, January 13th, 2023, 6:14:46 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
