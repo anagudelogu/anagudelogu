@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#1](https://github.com/carlosisraelsilva/Portfolio/pull/1#pullrequestreview-1248014751) in [carlosisraelsilva/Portfolio](https://github.com/carlosisraelsilva/Portfolio)
-2. 🔴 Requested 2 change(s) for [#2](https://github.com/DavidEspinoG/portfolio/pull/2#pullrequestreview-1247975224) in [DavidEspinoG/portfolio](https://github.com/DavidEspinoG/portfolio)
-3. 👍 Approved [#1](https://github.com/Hamdullah-Andar/HelloMicroverse/pull/1#pullrequestreview-1246428717) in [Hamdullah-Andar/HelloMicroverse](https://github.com/Hamdullah-Andar/HelloMicroverse)
-4. 🔴 Requested 2 change(s) for [#1](https://github.com/Festy1/MY-PORTFOLIO/pull/1#pullrequestreview-1246423516) in [Festy1/MY-PORTFOLIO](https://github.com/Festy1/MY-PORTFOLIO)
-5. 👍 Approved [#5](https://github.com/DarkxDev/Awesome-Books/pull/5#pullrequestreview-1246403786) in [DarkxDev/Awesome-Books](https://github.com/DarkxDev/Awesome-Books)
+1. 👍 Approved [#2](https://github.com/Amen-Musingarimi/Microverse-Portfolio-Project/pull/2#pullrequestreview-1248468330) in [Amen-Musingarimi/Microverse-Portfolio-Project](https://github.com/Amen-Musingarimi/Microverse-Portfolio-Project)
+2. 👍 Approved [#3](https://github.com/Hisoka37/Mobile-Portfolio/pull/3#pullrequestreview-1248450269) in [Hisoka37/Mobile-Portfolio](https://github.com/Hisoka37/Mobile-Portfolio)
+3. 🔴 Requested 2 change(s) for [#1](https://github.com/dara-soji/microverse-portfolio/pull/1#pullrequestreview-1248378372) in [dara-soji/microverse-portfolio](https://github.com/dara-soji/microverse-portfolio)
+4. 👍 Approved [#1](https://github.com/supreeti/PortfolioMobileFirst/pull/1#pullrequestreview-1248274092) in [supreeti/PortfolioMobileFirst](https://github.com/supreeti/PortfolioMobileFirst)
+5. 👍 Approved [#1](https://github.com/ClintonYounge/Hello-Microverse-Project/pull/1#pullrequestreview-1248253646) in [ClintonYounge/Hello-Microverse-Project](https://github.com/ClintonYounge/Hello-Microverse-Project)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 13th, 2023, 6:14:46 PM (GMT)
+Last Updated: Saturday, January 14th, 2023, 12:58:59 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
