@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#2](https://github.com/Amen-Musingarimi/Microverse-Portfolio-Project/pull/2#pullrequestreview-1248468330) in [Amen-Musingarimi/Microverse-Portfolio-Project](https://github.com/Amen-Musingarimi/Microverse-Portfolio-Project)
-2. 👍 Approved [#3](https://github.com/Hisoka37/Mobile-Portfolio/pull/3#pullrequestreview-1248450269) in [Hisoka37/Mobile-Portfolio](https://github.com/Hisoka37/Mobile-Portfolio)
-3. 🔴 Requested 2 change(s) for [#1](https://github.com/dara-soji/microverse-portfolio/pull/1#pullrequestreview-1248378372) in [dara-soji/microverse-portfolio](https://github.com/dara-soji/microverse-portfolio)
-4. 👍 Approved [#1](https://github.com/supreeti/PortfolioMobileFirst/pull/1#pullrequestreview-1248274092) in [supreeti/PortfolioMobileFirst](https://github.com/supreeti/PortfolioMobileFirst)
-5. 👍 Approved [#1](https://github.com/ClintonYounge/Hello-Microverse-Project/pull/1#pullrequestreview-1248253646) in [ClintonYounge/Hello-Microverse-Project](https://github.com/ClintonYounge/Hello-Microverse-Project)
+1. 🔴 Requested 2 change(s) for [#1](https://github.com/gealsanchez/AwesomeModules/pull/1#pullrequestreview-1250663008) in [gealsanchez/AwesomeModules](https://github.com/gealsanchez/AwesomeModules)
+2. 👍 Approved [#1](https://github.com/dennis-every/awesome-books-es6/pull/1#pullrequestreview-1250649902) in [dennis-every/awesome-books-es6](https://github.com/dennis-every/awesome-books-es6)
+3. 👍 Approved [#1](https://github.com/nxn404-n/Review-of-trials/pull/1#pullrequestreview-1250644669) in [nxn404-n/Review-of-trials](https://github.com/nxn404-n/Review-of-trials)
+4. 👍 Approved [#1](https://github.com/johnie261/review_project/pull/1#pullrequestreview-1250639866) in [johnie261/review_project](https://github.com/johnie261/review_project)
+5. 🔴 Requested 1 change(s) for [#1](https://github.com/cnualartc/Trial_Projecto_Review/pull/1#pullrequestreview-1250635457) in [cnualartc/Trial_Projecto_Review](https://github.com/cnualartc/Trial_Projecto_Review)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 16th, 2023, 6:14:50 PM (GMT)
+Last Updated: Tuesday, January 17th, 2023, 1:01:53 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
