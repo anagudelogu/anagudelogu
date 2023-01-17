@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#1](https://github.com/gealsanchez/AwesomeModules/pull/1#pullrequestreview-1250663008) in [gealsanchez/AwesomeModules](https://github.com/gealsanchez/AwesomeModules)
-2. 👍 Approved [#1](https://github.com/dennis-every/awesome-books-es6/pull/1#pullrequestreview-1250649902) in [dennis-every/awesome-books-es6](https://github.com/dennis-every/awesome-books-es6)
-3. 👍 Approved [#1](https://github.com/nxn404-n/Review-of-trials/pull/1#pullrequestreview-1250644669) in [nxn404-n/Review-of-trials](https://github.com/nxn404-n/Review-of-trials)
-4. 👍 Approved [#1](https://github.com/johnie261/review_project/pull/1#pullrequestreview-1250639866) in [johnie261/review_project](https://github.com/johnie261/review_project)
-5. 🔴 Requested 1 change(s) for [#1](https://github.com/cnualartc/Trial_Projecto_Review/pull/1#pullrequestreview-1250635457) in [cnualartc/Trial_Projecto_Review](https://github.com/cnualartc/Trial_Projecto_Review)
+1. 🔴 Requested 6 change(s) for [#3](https://github.com/mertkantaroglu/Awesome-Books/pull/3#pullrequestreview-1252052112) in [mertkantaroglu/Awesome-Books](https://github.com/mertkantaroglu/Awesome-Books)
+2. 🔴 Requested 2 change(s) for [#6](https://github.com/Hazard10-eng/Portfolio/pull/6#pullrequestreview-1251955302) in [Hazard10-eng/Portfolio](https://github.com/Hazard10-eng/Portfolio)
+3. 🔴 Requested 2 change(s) for [#1](https://github.com/gealsanchez/AwesomeModules/pull/1#pullrequestreview-1250663008) in [gealsanchez/AwesomeModules](https://github.com/gealsanchez/AwesomeModules)
+4. 👍 Approved [#1](https://github.com/dennis-every/awesome-books-es6/pull/1#pullrequestreview-1250649902) in [dennis-every/awesome-books-es6](https://github.com/dennis-every/awesome-books-es6)
+5. 👍 Approved [#1](https://github.com/nxn404-n/Review-of-trials/pull/1#pullrequestreview-1250644669) in [nxn404-n/Review-of-trials](https://github.com/nxn404-n/Review-of-trials)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 17th, 2023, 12:26:03 PM (GMT)
+Last Updated: Tuesday, January 17th, 2023, 6:14:55 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
