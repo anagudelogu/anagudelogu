@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#6](https://github.com/Tekhlay/math-magicians/pull/6#pullrequestreview-1252520553) in [Tekhlay/math-magicians](https://github.com/Tekhlay/math-magicians)
-2. 🔴 Requested 2 change(s) for [#4](https://github.com/evillaz/my-portfolio/pull/4#pullrequestreview-1252496552) in [evillaz/my-portfolio](https://github.com/evillaz/my-portfolio)
-3. 🔴 Requested 2 change(s) for [#5](https://github.com/alexiscyber14/portfolio/pull/5#pullrequestreview-1252379753) in [alexiscyber14/portfolio](https://github.com/alexiscyber14/portfolio)
-4. 🔴 Requested 2 change(s) for [#3](https://github.com/BahirHakimy/My-Portfolio/pull/3#pullrequestreview-1252349083) in [BahirHakimy/My-Portfolio](https://github.com/BahirHakimy/My-Portfolio)
-5. 🔴 Requested 1 change(s) for [#4](https://github.com/Kaghenimbale/my-portfolio/pull/4#pullrequestreview-1252219275) in [Kaghenimbale/my-portfolio](https://github.com/Kaghenimbale/my-portfolio)
+1. 👍 Approved [#2](https://github.com/malembi/Portfolio/pull/2#pullrequestreview-1254177951) in [malembi/Portfolio](https://github.com/malembi/Portfolio)
+2. 🔴 Requested 2 change(s) for [#1](https://github.com/sajibarafatsiddiqui/todolist/pull/1#pullrequestreview-1254235714) in [sajibarafatsiddiqui/todolist](https://github.com/sajibarafatsiddiqui/todolist)
+3. 👍 Approved [#2](https://github.com/malembi/Portfolio/pull/2#pullrequestreview-1254177951) in [malembi/Portfolio](https://github.com/malembi/Portfolio)
+4. 👍 Approved [#3](https://github.com/matee-safi/My-Portfolio/pull/3#pullrequestreview-1254155408) in [matee-safi/My-Portfolio](https://github.com/matee-safi/My-Portfolio)
+5. 👍 Approved [#2](https://github.com/PrangonGhose/math-magician-react/pull/2#pullrequestreview-1254134341) in [PrangonGhose/math-magician-react](https://github.com/PrangonGhose/math-magician-react)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 18th, 2023, 6:14:38 PM (GMT)
+Last Updated: Thursday, January 19th, 2023, 1:04:18 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
