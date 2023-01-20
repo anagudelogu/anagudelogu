@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#2](https://github.com/malembi/Portfolio/pull/2#pullrequestreview-1254177951) in [malembi/Portfolio](https://github.com/malembi/Portfolio)
-2. 🔴 Requested 2 change(s) for [#1](https://github.com/sajibarafatsiddiqui/todolist/pull/1#pullrequestreview-1254235714) in [sajibarafatsiddiqui/todolist](https://github.com/sajibarafatsiddiqui/todolist)
-3. 👍 Approved [#2](https://github.com/malembi/Portfolio/pull/2#pullrequestreview-1254177951) in [malembi/Portfolio](https://github.com/malembi/Portfolio)
-4. 👍 Approved [#3](https://github.com/matee-safi/My-Portfolio/pull/3#pullrequestreview-1254155408) in [matee-safi/My-Portfolio](https://github.com/matee-safi/My-Portfolio)
-5. 👍 Approved [#2](https://github.com/PrangonGhose/math-magician-react/pull/2#pullrequestreview-1254134341) in [PrangonGhose/math-magician-react](https://github.com/PrangonGhose/math-magician-react)
+1. 👍 Approved [#1](https://github.com/BB-Simon/awesome-book-es6/pull/1#pullrequestreview-1262610924) in [BB-Simon/awesome-book-es6](https://github.com/BB-Simon/awesome-book-es6)
+2. 👍 Approved [#13](https://github.com/M1rn4/math-magician/pull/13#pullrequestreview-1262600359) in [M1rn4/math-magician](https://github.com/M1rn4/math-magician)
+3. 🔴 Requested 2 change(s) for [#4](https://github.com/MishDM/My-Portfolio/pull/4#pullrequestreview-1262544810) in [MishDM/My-Portfolio](https://github.com/MishDM/My-Portfolio)
+4. 👍 Approved [#6](https://github.com/tobuya/math-magicians/pull/6#pullrequestreview-1262523600) in [tobuya/math-magicians](https://github.com/tobuya/math-magicians)
+5. 🔴 Requested 1 change(s) for [#6](https://github.com/imranhossainemi/portfolio/pull/6#pullrequestreview-1262496727) in [imranhossainemi/portfolio](https://github.com/imranhossainemi/portfolio)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 19th, 2023, 6:15:33 PM (GMT)
+Last Updated: Friday, January 20th, 2023, 1:03:21 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
