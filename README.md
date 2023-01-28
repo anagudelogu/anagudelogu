@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#2](https://github.com/Ndaboom/bookstore/pull/2#pullrequestreview-1273693993) in [Ndaboom/bookstore](https://github.com/Ndaboom/bookstore)
-2. 🔴 Requested 2 change(s) for [#5](https://github.com/OsvaldoBC/bookstore-ob/pull/5#pullrequestreview-1273571178) in [OsvaldoBC/bookstore-ob](https://github.com/OsvaldoBC/bookstore-ob)
-3. 🔴 Requested 2 change(s) for [#10](https://github.com/Ali-0111/Microverse_Portfolio/pull/10#pullrequestreview-1271943491) in [Ali-0111/Microverse_Portfolio](https://github.com/Ali-0111/Microverse_Portfolio)
-4. 🔴 Requested 2 change(s) for [#7](https://github.com/dhy-612/portfolio/pull/7#pullrequestreview-1271872164) in [dhy-612/portfolio](https://github.com/dhy-612/portfolio)
-5. 🔴 Requested 1 change(s) for [#4](https://github.com/michaelamponsah/bookstore/pull/4#pullrequestreview-1270349965) in [michaelamponsah/bookstore](https://github.com/michaelamponsah/bookstore)
+1. 👍 Approved [#7](https://github.com/shurichmond/Super-Portfolio/pull/7#pullrequestreview-1273979781) in [shurichmond/Super-Portfolio](https://github.com/shurichmond/Super-Portfolio)
+2. 👍 Approved [#1](https://github.com/chiztechnology/bookstore/pull/1#pullrequestreview-1273977304) in [chiztechnology/bookstore](https://github.com/chiztechnology/bookstore)
+3. 🔴 Requested 3 change(s) for [#1](https://github.com/lawrahkonwea/book-store/pull/1#pullrequestreview-1273974654) in [lawrahkonwea/book-store](https://github.com/lawrahkonwea/book-store)
+4. 👍 Approved [#1](https://github.com/s2jack/create-html-registration-form/pull/1#pullrequestreview-1273972714) in [s2jack/create-html-registration-form](https://github.com/s2jack/create-html-registration-form)
+5. 👍 Approved [#4](https://github.com/Sofinaye/Portfolio/pull/4#pullrequestreview-1273963466) in [Sofinaye/Portfolio](https://github.com/Sofinaye/Portfolio)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 28th, 2023, 12:21:05 PM (GMT)
+Last Updated: Saturday, January 28th, 2023, 6:13:35 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
