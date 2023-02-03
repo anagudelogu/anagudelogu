@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#2](https://github.com/DarkxDev/Leaderboard-App/pull/2#pullrequestreview-1279973646) in [DarkxDev/Leaderboard-App](https://github.com/DarkxDev/Leaderboard-App)
-2. 🔴 Requested 4 change(s) for [#5](https://github.com/sameedmohsin28/sameedmohsin28.github.io/pull/5#pullrequestreview-1278224703) in [sameedmohsin28/sameedmohsin28.github.io](https://github.com/sameedmohsin28/sameedmohsin28.github.io)
-3. 👍 Approved [#1](https://github.com/banzaman/Leaderboard/pull/1#pullrequestreview-1278249016) in [banzaman/Leaderboard](https://github.com/banzaman/Leaderboard)
-4. 👍 Approved [#11](https://github.com/theodoku/My-portfolio-project/pull/11#pullrequestreview-1278125960) in [theodoku/My-portfolio-project](https://github.com/theodoku/My-portfolio-project)
-5. 🔴 Requested 1 change(s) for [#2](https://github.com/AyomipoMajek/Leaderboard/pull/2#pullrequestreview-1278085957) in [AyomipoMajek/Leaderboard](https://github.com/AyomipoMajek/Leaderboard)
+1. 👍 Approved [#5](https://github.com/Patfarmurs/math-magicians/pull/5#pullrequestreview-1281957193) in [Patfarmurs/math-magicians](https://github.com/Patfarmurs/math-magicians)
+2. 👍 Approved [#8](https://github.com/Malcom-Charlie/portfolioDsktp/pull/8#pullrequestreview-1281898006) in [Malcom-Charlie/portfolioDsktp](https://github.com/Malcom-Charlie/portfolioDsktp)
+3. 👍 Approved [#13](https://github.com/Yidnekachew-cmd/Personal-Portfolio/pull/13#pullrequestreview-1281873160) in [Yidnekachew-cmd/Personal-Portfolio](https://github.com/Yidnekachew-cmd/Personal-Portfolio)
+4. 👍 Approved [#13](https://github.com/Yidnekachew-cmd/Personal-Portfolio/pull/13#pullrequestreview-1281873160) in [Yidnekachew-cmd/Personal-Portfolio](https://github.com/Yidnekachew-cmd/Personal-Portfolio)
+5. 👍 Approved [#5](https://github.com/c00p75/bookstore-cms/pull/5#pullrequestreview-1281840519) in [c00p75/bookstore-cms](https://github.com/c00p75/bookstore-cms)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 2nd, 2023, 6:15:09 PM (GMT)
+Last Updated: Friday, February 3rd, 2023, 1:06:05 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
