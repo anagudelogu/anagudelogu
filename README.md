@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#5](https://github.com/Patfarmurs/math-magicians/pull/5#pullrequestreview-1281957193) in [Patfarmurs/math-magicians](https://github.com/Patfarmurs/math-magicians)
-2. 👍 Approved [#8](https://github.com/Malcom-Charlie/portfolioDsktp/pull/8#pullrequestreview-1281898006) in [Malcom-Charlie/portfolioDsktp](https://github.com/Malcom-Charlie/portfolioDsktp)
-3. 👍 Approved [#13](https://github.com/Yidnekachew-cmd/Personal-Portfolio/pull/13#pullrequestreview-1281873160) in [Yidnekachew-cmd/Personal-Portfolio](https://github.com/Yidnekachew-cmd/Personal-Portfolio)
-4. 👍 Approved [#13](https://github.com/Yidnekachew-cmd/Personal-Portfolio/pull/13#pullrequestreview-1281873160) in [Yidnekachew-cmd/Personal-Portfolio](https://github.com/Yidnekachew-cmd/Personal-Portfolio)
-5. 👍 Approved [#5](https://github.com/c00p75/bookstore-cms/pull/5#pullrequestreview-1281840519) in [c00p75/bookstore-cms](https://github.com/c00p75/bookstore-cms)
+1. 🔴 Requested 2 change(s) for [#39](https://github.com/AlejandraKeber/space-travelers-hub/pull/39#pullrequestreview-1282202787) in [AlejandraKeber/space-travelers-hub](https://github.com/AlejandraKeber/space-travelers-hub)
+2. 🔴 Requested 2 change(s) for [#5](https://github.com/Juanpa8830/books-store/pull/5#pullrequestreview-1282181722) in [Juanpa8830/books-store](https://github.com/Juanpa8830/books-store)
+3. 🔴 Requested 2 change(s) for [#2](https://github.com/dfsalam/leaderboard/pull/2#pullrequestreview-1282142725) in [dfsalam/leaderboard](https://github.com/dfsalam/leaderboard)
+4. 👍 Approved [#5](https://github.com/Patfarmurs/math-magicians/pull/5#pullrequestreview-1281957193) in [Patfarmurs/math-magicians](https://github.com/Patfarmurs/math-magicians)
+5. 👍 Approved [#8](https://github.com/Malcom-Charlie/portfolioDsktp/pull/8#pullrequestreview-1281898006) in [Malcom-Charlie/portfolioDsktp](https://github.com/Malcom-Charlie/portfolioDsktp)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 3rd, 2023, 1:06:05 AM (GMT)
+Last Updated: Friday, February 3rd, 2023, 6:16:05 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
