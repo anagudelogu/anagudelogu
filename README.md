@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#2](https://github.com/jonas-45/Leaderboard/pull/2#pullrequestreview-1290098511) in [jonas-45/Leaderboard](https://github.com/jonas-45/Leaderboard)
-2. 👍 Approved [#2](https://github.com/monicah79/Book-store/pull/2#pullrequestreview-1290061142) in [monicah79/Book-store](https://github.com/monicah79/Book-store)
-3. 🔴 Requested 2 change(s) for [#4](https://github.com/haftamudesta/LeaderBoard/pull/4#pullrequestreview-1290019378) in [haftamudesta/LeaderBoard](https://github.com/haftamudesta/LeaderBoard)
-4. 📔 Created new repository [anagudelogu/quickstart](https://github.com/anagudelogu/quickstart)
-5. 👍 Approved [#15](https://github.com/victormc13/Portfolio-Microverse/pull/15#pullrequestreview-1286307906) in [victormc13/Portfolio-Microverse](https://github.com/victormc13/Portfolio-Microverse)
+1. 🔴 Requested 2 change(s) for [#29](https://github.com/Juanpa8830/spacex-project/pull/29#pullrequestreview-1292166293) in [Juanpa8830/spacex-project](https://github.com/Juanpa8830/spacex-project)
+2. 👍 Approved [#1](https://github.com/maov19/conference_page/pull/1#pullrequestreview-1292151590) in [maov19/conference_page](https://github.com/maov19/conference_page)
+3. 👍 Approved [#15](https://github.com/Ali-0111/Microverse_Portfolio/pull/15#pullrequestreview-1292103314) in [Ali-0111/Microverse_Portfolio](https://github.com/Ali-0111/Microverse_Portfolio)
+4. 🔴 Requested 2 change(s) for [#2](https://github.com/jonas-45/Leaderboard/pull/2#pullrequestreview-1290098511) in [jonas-45/Leaderboard](https://github.com/jonas-45/Leaderboard)
+5. 👍 Approved [#2](https://github.com/monicah79/Book-store/pull/2#pullrequestreview-1290061142) in [monicah79/Book-store](https://github.com/monicah79/Book-store)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 9th, 2023, 6:15:38 PM (GMT)
+Last Updated: Friday, February 10th, 2023, 1:07:39 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
