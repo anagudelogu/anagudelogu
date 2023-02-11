@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#3](https://github.com/monicah79/Book-store/pull/3#pullrequestreview-1294152478) in [monicah79/Book-store](https://github.com/monicah79/Book-store)
-2. 🔴 Requested 2 change(s) for [#1](https://github.com/shafiuyushawu/Online-Ticket/pull/1#pullrequestreview-1294090226) in [shafiuyushawu/Online-Ticket](https://github.com/shafiuyushawu/Online-Ticket)
-3. 🔴 Requested 2 change(s) for [#5](https://github.com/maaloum/OOP-school-library-Ruby/pull/5#pullrequestreview-1294050551) in [maaloum/OOP-school-library-Ruby](https://github.com/maaloum/OOP-school-library-Ruby)
-4. 👍 Approved [#16](https://github.com/ghreza-crypto/portfolio/pull/16#pullrequestreview-1294031575) in [ghreza-crypto/portfolio](https://github.com/ghreza-crypto/portfolio)
-5. 👍 Approved [#16](https://github.com/ghreza-crypto/portfolio/pull/16#pullrequestreview-1294031575) in [ghreza-crypto/portfolio](https://github.com/ghreza-crypto/portfolio)
+1. 👍 Approved [#1](https://github.com/Newtayo/FIRST-CAPSTONE/pull/1#pullrequestreview-1294392653) in [Newtayo/FIRST-CAPSTONE](https://github.com/Newtayo/FIRST-CAPSTONE)
+2. 👍 Approved [#1](https://github.com/Newtayo/FIRST-CAPSTONE/pull/1#pullrequestreview-1294392653) in [Newtayo/FIRST-CAPSTONE](https://github.com/Newtayo/FIRST-CAPSTONE)
+3. 👍 Approved [#1](https://github.com/Bornittah/enumerable-/pull/1#pullrequestreview-1294386976) in [Bornittah/enumerable-](https://github.com/Bornittah/enumerable-)
+4. 👍 Approved [#19](https://github.com/ometman/my-portfolio/pull/19#pullrequestreview-1294383656) in [ometman/my-portfolio](https://github.com/ometman/my-portfolio)
+5. 🔴 Requested 1 change(s) for [#19](https://github.com/ometman/my-portfolio/pull/19#pullrequestreview-1294378781) in [ometman/my-portfolio](https://github.com/ometman/my-portfolio)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 11th, 2023, 12:58:56 AM (GMT)
+Last Updated: Saturday, February 11th, 2023, 6:14:47 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
