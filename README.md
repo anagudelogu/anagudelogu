@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#9](https://github.com/vemos-app/movies-client/issues/9) in [vemos-app/movies-client](https://github.com/vemos-app/movies-client)
-2. 👍 Approved [#1](https://github.com/Newtayo/FIRST-CAPSTONE/pull/1#pullrequestreview-1294392653) in [Newtayo/FIRST-CAPSTONE](https://github.com/Newtayo/FIRST-CAPSTONE)
-3. 👍 Approved [#1](https://github.com/Newtayo/FIRST-CAPSTONE/pull/1#pullrequestreview-1294392653) in [Newtayo/FIRST-CAPSTONE](https://github.com/Newtayo/FIRST-CAPSTONE)
-4. 👍 Approved [#1](https://github.com/Bornittah/enumerable-/pull/1#pullrequestreview-1294386976) in [Bornittah/enumerable-](https://github.com/Bornittah/enumerable-)
-5. 👍 Approved [#19](https://github.com/ometman/my-portfolio/pull/19#pullrequestreview-1294383656) in [ometman/my-portfolio](https://github.com/ometman/my-portfolio)
+1. 🔴 Requested 2 change(s) for [#1](https://github.com/Abmart0803/Hello-Microverse-/pull/1#pullrequestreview-1296662623) in [Abmart0803/Hello-Microverse-](https://github.com/Abmart0803/Hello-Microverse-)
+2. 👍 Approved [#1](https://github.com/astroboyReloaded/Awesome-Books/pull/1#pullrequestreview-1296564965) in [astroboyReloaded/Awesome-Books](https://github.com/astroboyReloaded/Awesome-Books)
+3. 👍 Approved [#1](https://github.com/astroboyReloaded/Awesome-Books/pull/1#pullrequestreview-1296564965) in [astroboyReloaded/Awesome-Books](https://github.com/astroboyReloaded/Awesome-Books)
+4. 🔴 Requested 2 change(s) for [#2](https://github.com/freddykaberuka/math-calculation/pull/2#pullrequestreview-1296557616) in [freddykaberuka/math-calculation](https://github.com/freddykaberuka/math-calculation)
+5. 🔴 Requested 1 change(s) for [#1](https://github.com/Newtayo/Awesome-books/pull/1#pullrequestreview-1296433162) in [Newtayo/Awesome-books](https://github.com/Newtayo/Awesome-books)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 13th, 2023, 6:15:54 PM (GMT)
+Last Updated: Tuesday, February 14th, 2023, 1:06:44 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
