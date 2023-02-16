@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#6](https://github.com/Nelitaa/school-library/pull/6#pullrequestreview-1300535055) in [Nelitaa/school-library](https://github.com/Nelitaa/school-library)
-2. 👍 Approved [#1](https://github.com/hernandanielzamora/Portfolio/pull/1#pullrequestreview-1300456139) in [hernandanielzamora/Portfolio](https://github.com/hernandanielzamora/Portfolio)
+1. 🔴 Requested 2 change(s) for [#2](https://github.com/dhy-612/Resume/pull/2#pullrequestreview-1300602240) in [dhy-612/Resume](https://github.com/dhy-612/Resume)
+2. 👍 Approved [#6](https://github.com/Nelitaa/school-library/pull/6#pullrequestreview-1300535055) in [Nelitaa/school-library](https://github.com/Nelitaa/school-library)
 3. 👍 Approved [#1](https://github.com/hernandanielzamora/Portfolio/pull/1#pullrequestreview-1300456139) in [hernandanielzamora/Portfolio](https://github.com/hernandanielzamora/Portfolio)
-4. 🔴 Requested 1 change(s) for [#1](https://github.com/peteronyam/Hello-Microverse-Project/pull/1#pullrequestreview-1298560981) in [peteronyam/Hello-Microverse-Project](https://github.com/peteronyam/Hello-Microverse-Project)
-5. 👍 Approved [#2](https://github.com/Chaseknis/math_magician_react/pull/2#pullrequestreview-1298518536) in [Chaseknis/math_magician_react](https://github.com/Chaseknis/math_magician_react)
+4. 👍 Approved [#1](https://github.com/hernandanielzamora/Portfolio/pull/1#pullrequestreview-1300456139) in [hernandanielzamora/Portfolio](https://github.com/hernandanielzamora/Portfolio)
+5. 🔴 Requested 1 change(s) for [#1](https://github.com/peteronyam/Hello-Microverse-Project/pull/1#pullrequestreview-1298560981) in [peteronyam/Hello-Microverse-Project](https://github.com/peteronyam/Hello-Microverse-Project)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 16th, 2023, 1:06:19 AM (GMT)
+Last Updated: Thursday, February 16th, 2023, 6:16:18 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
