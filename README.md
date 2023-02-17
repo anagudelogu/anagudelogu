@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#2](https://github.com/dhy-612/Resume/pull/2#pullrequestreview-1300602240) in [dhy-612/Resume](https://github.com/dhy-612/Resume)
-2. 👍 Approved [#6](https://github.com/Nelitaa/school-library/pull/6#pullrequestreview-1300535055) in [Nelitaa/school-library](https://github.com/Nelitaa/school-library)
-3. 👍 Approved [#1](https://github.com/hernandanielzamora/Portfolio/pull/1#pullrequestreview-1300456139) in [hernandanielzamora/Portfolio](https://github.com/hernandanielzamora/Portfolio)
-4. 👍 Approved [#1](https://github.com/hernandanielzamora/Portfolio/pull/1#pullrequestreview-1300456139) in [hernandanielzamora/Portfolio](https://github.com/hernandanielzamora/Portfolio)
-5. 🔴 Requested 1 change(s) for [#1](https://github.com/peteronyam/Hello-Microverse-Project/pull/1#pullrequestreview-1298560981) in [peteronyam/Hello-Microverse-Project](https://github.com/peteronyam/Hello-Microverse-Project)
+1. 👍 Approved [#4](https://github.com/Swarzstein/top-cripto-cp/pull/4#pullrequestreview-1302443579) in [Swarzstein/top-cripto-cp](https://github.com/Swarzstein/top-cripto-cp)
+2. 🔴 Requested 2 change(s) for [#2](https://github.com/frempongdev/Leaderboard/pull/2#pullrequestreview-1302408299) in [frempongdev/Leaderboard](https://github.com/frempongdev/Leaderboard)
+3. 👍 Approved [#2](https://github.com/banzaman/math-magician/pull/2#pullrequestreview-1302400294) in [banzaman/math-magician](https://github.com/banzaman/math-magician)
+4. 👍 Approved [#2](https://github.com/banzaman/math-magician/pull/2#pullrequestreview-1302400294) in [banzaman/math-magician](https://github.com/banzaman/math-magician)
+5. 🔴 Requested 1 change(s) for [#3](https://github.com/Oscah01/math-megician/pull/3#pullrequestreview-1302390582) in [Oscah01/math-megician](https://github.com/Oscah01/math-megician)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 16th, 2023, 6:14:38 PM (GMT)
+Last Updated: Friday, February 17th, 2023, 1:08:36 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
