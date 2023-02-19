@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 4 change(s) for [#2](https://github.com/tjay1760/Capstone-project-1/pull/2#pullrequestreview-1303837696) in [tjay1760/Capstone-project-1](https://github.com/tjay1760/Capstone-project-1)
-2. 🔴 Requested 2 change(s) for [#1](https://github.com/carlosisraelsilva/Portfolio-CarlosSilva-/pull/1#pullrequestreview-1302643686) in [carlosisraelsilva/Portfolio-CarlosSilva-](https://github.com/carlosisraelsilva/Portfolio-CarlosSilva-)
-3. 👍 Approved [#4](https://github.com/Swarzstein/top-cripto-cp/pull/4#pullrequestreview-1302443579) in [Swarzstein/top-cripto-cp](https://github.com/Swarzstein/top-cripto-cp)
-4. 🔴 Requested 2 change(s) for [#2](https://github.com/frempongdev/Leaderboard/pull/2#pullrequestreview-1302408299) in [frempongdev/Leaderboard](https://github.com/frempongdev/Leaderboard)
-5. 👍 Approved [#2](https://github.com/banzaman/math-magician/pull/2#pullrequestreview-1302400294) in [banzaman/math-magician](https://github.com/banzaman/math-magician)
+1. 🔴 Requested 2 change(s) for [#1](https://github.com/chiztechnology/weather-app/pull/1#pullrequestreview-1304681288) in [chiztechnology/weather-app](https://github.com/chiztechnology/weather-app)
+2. 👍 Approved [#1](https://github.com/oovillagran/Portfolio-project/pull/1#pullrequestreview-1304679852) in [oovillagran/Portfolio-project](https://github.com/oovillagran/Portfolio-project)
+3. 👍 Approved [#3](https://github.com/ReemMohamedAbdelfatah/air-pollution-app/pull/3#pullrequestreview-1304678341) in [ReemMohamedAbdelfatah/air-pollution-app](https://github.com/ReemMohamedAbdelfatah/air-pollution-app)
+4. 👍 Approved [#2](https://github.com/Alejandroq12/portfolio/pull/2#pullrequestreview-1304676536) in [Alejandroq12/portfolio](https://github.com/Alejandroq12/portfolio)
+5. 👍 Approved [#2](https://github.com/Alejandroq12/portfolio/pull/2#pullrequestreview-1304676536) in [Alejandroq12/portfolio](https://github.com/Alejandroq12/portfolio)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 18th, 2023, 6:14:19 PM (GMT)
+Last Updated: Sunday, February 19th, 2023, 1:06:39 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
