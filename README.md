@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#1](https://github.com/jlvFlores/Awesome-books-with-ES6/pull/1#pullrequestreview-1306294448) in [jlvFlores/Awesome-books-with-ES6](https://github.com/jlvFlores/Awesome-books-with-ES6)
-2. 👍 Approved [#1](https://github.com/jlvFlores/Awesome-books-with-ES6/pull/1#pullrequestreview-1306294448) in [jlvFlores/Awesome-books-with-ES6](https://github.com/jlvFlores/Awesome-books-with-ES6)
-3. 🔴 Requested 1 change(s) for [#5](https://github.com/freddykaberuka/math-calculation/pull/5#pullrequestreview-1306282640) in [freddykaberuka/math-calculation](https://github.com/freddykaberuka/math-calculation)
-4. 👍 Approved [#1](https://github.com/DianaBeki/Hello-world/pull/1#pullrequestreview-1306274728) in [DianaBeki/Hello-world](https://github.com/DianaBeki/Hello-world)
-5. 🔴 Requested 1 change(s) for [#1](https://github.com/esmiz-dream/TributePageReview/pull/1#pullrequestreview-1306265846) in [esmiz-dream/TributePageReview](https://github.com/esmiz-dream/TributePageReview)
+1. 🔴 Requested 2 change(s) for [#5](https://github.com/J-C-S-V/Portfolio-setup-and-mobile-first/pull/5#pullrequestreview-1308235193) in [J-C-S-V/Portfolio-setup-and-mobile-first](https://github.com/J-C-S-V/Portfolio-setup-and-mobile-first)
+2. 🔴 Requested 2 change(s) for [#1](https://github.com/osmanwako/Review-mytrialproject/pull/1#pullrequestreview-1308195800) in [osmanwako/Review-mytrialproject](https://github.com/osmanwako/Review-mytrialproject)
+3. 👍 Approved [#6](https://github.com/NelsonAraujo93/first-react-app/pull/6#pullrequestreview-1308074753) in [NelsonAraujo93/first-react-app](https://github.com/NelsonAraujo93/first-react-app)
+4. 🔴 Requested 2 change(s) for [#4](https://github.com/Abdelaziz-Ali/Personal-Portfolio-T3/pull/4#pullrequestreview-1308181436) in [Abdelaziz-Ali/Personal-Portfolio-T3](https://github.com/Abdelaziz-Ali/Personal-Portfolio-T3)
+5. 🔴 Requested 1 change(s) for [#1](https://github.com/chelobotix/Math-Magicians-Chelobotix/pull/1#pullrequestreview-1308160395) in [chelobotix/Math-Magicians-Chelobotix](https://github.com/chelobotix/Math-Magicians-Chelobotix)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 21st, 2023, 6:16:06 PM (GMT)
+Last Updated: Wednesday, February 22nd, 2023, 1:03:00 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
