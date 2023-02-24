@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#2](https://github.com/blueberry1312/to-do-list/pull/2#pullrequestreview-1312352975) in [blueberry1312/to-do-list](https://github.com/blueberry1312/to-do-list)
-2. 🔴 Requested 2 change(s) for [#2](https://github.com/jorgeabrahan/bookstore/pull/2#pullrequestreview-1312275160) in [jorgeabrahan/bookstore](https://github.com/jorgeabrahan/bookstore)
-3. 🔴 Requested 2 change(s) for [#2](https://github.com/theodoku/todo-List/pull/2#pullrequestreview-1312197919) in [theodoku/todo-List](https://github.com/theodoku/todo-List)
-4. 🔴 Requested 2 change(s) for [#5](https://github.com/J-C-S-V/Portfolio-setup-and-mobile-first/pull/5#pullrequestreview-1308235193) in [J-C-S-V/Portfolio-setup-and-mobile-first](https://github.com/J-C-S-V/Portfolio-setup-and-mobile-first)
-5. 🔴 Requested 1 change(s) for [#1](https://github.com/osmanwako/Review-mytrialproject/pull/1#pullrequestreview-1308195800) in [osmanwako/Review-mytrialproject](https://github.com/osmanwako/Review-mytrialproject)
+1. 🔴 Requested 2 change(s) for [#2](https://github.com/Trust-007/blog-app/pull/2#pullrequestreview-1312441681) in [Trust-007/blog-app](https://github.com/Trust-007/blog-app)
+2. 🔴 Requested 1 change(s) for [#3](https://github.com/akhror-valiev/oop-school-library/pull/3#pullrequestreview-1312434213) in [akhror-valiev/oop-school-library](https://github.com/akhror-valiev/oop-school-library)
+3. 🔴 Requested 2 change(s) for [#4](https://github.com/azeezumoru/microverse-portfolio/pull/4#pullrequestreview-1312418790) in [azeezumoru/microverse-portfolio](https://github.com/azeezumoru/microverse-portfolio)
+4. 👍 Approved [#2](https://github.com/theodoku/todo-List/pull/2#pullrequestreview-1312382024) in [theodoku/todo-List](https://github.com/theodoku/todo-List)
+5. 👍 Approved [#54](https://github.com/Nelitaa/ruby-group-capstone-project/pull/54#pullrequestreview-1312367178) in [Nelitaa/ruby-group-capstone-project](https://github.com/Nelitaa/ruby-group-capstone-project)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 24th, 2023, 1:05:03 AM (GMT)
+Last Updated: Friday, February 24th, 2023, 6:16:40 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
