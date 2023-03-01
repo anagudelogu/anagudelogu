@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#1](https://github.com/chimwemwe007/RailsBlogApplication/pull/1#pullrequestreview-1314582770) in [chimwemwe007/RailsBlogApplication](https://github.com/chimwemwe007/RailsBlogApplication)
-2. 👍 Approved [#1](https://github.com/chimwemwe007/RailsBlogApplication/pull/1#pullrequestreview-1314582770) in [chimwemwe007/RailsBlogApplication](https://github.com/chimwemwe007/RailsBlogApplication)
-3. 👍 Approved [#1](https://github.com/chimwemwe007/RailsBlogApplication/pull/1#pullrequestreview-1314582770) in [chimwemwe007/RailsBlogApplication](https://github.com/chimwemwe007/RailsBlogApplication)
-4. 👍 Approved [#5](https://github.com/krisbobo/mathsMagician/pull/5#pullrequestreview-1314575504) in [krisbobo/mathsMagician](https://github.com/krisbobo/mathsMagician)
-5. 👍 Approved [#5](https://github.com/krisbobo/mathsMagician/pull/5#pullrequestreview-1314575504) in [krisbobo/mathsMagician](https://github.com/krisbobo/mathsMagician)
+1. 👍 Approved [#9](https://github.com/Maedea9/portfolio1/pull/9#pullrequestreview-1318795697) in [Maedea9/portfolio1](https://github.com/Maedea9/portfolio1)
+2. 👍 Approved [#9](https://github.com/smunoz1988/Portfolio-mobile-first/pull/9#pullrequestreview-1318789305) in [smunoz1988/Portfolio-mobile-first](https://github.com/smunoz1988/Portfolio-mobile-first)
+3. 👍 Approved [#1](https://github.com/tjay1760/Awesome-books-Es6/pull/1#pullrequestreview-1318756509) in [tjay1760/Awesome-books-Es6](https://github.com/tjay1760/Awesome-books-Es6)
+4. 👍 Approved [#1](https://github.com/jonathanmunamire/Blog-App/pull/1#pullrequestreview-1318750156) in [jonathanmunamire/Blog-App](https://github.com/jonathanmunamire/Blog-App)
+5. 🔴 Requested 1 change(s) for [#6](https://github.com/ndikumanaisaie/blog_app_ror/pull/6#pullrequestreview-1318737667) in [ndikumanaisaie/blog_app_ror](https://github.com/ndikumanaisaie/blog_app_ror)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 28th, 2023, 6:16:16 PM (GMT)
+Last Updated: Wednesday, March 1st, 2023, 1:13:10 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
