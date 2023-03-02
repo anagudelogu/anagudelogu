@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#1](https://github.com/dgcuenca/decode-morse-msg/pull/1#pullrequestreview-1320699146) in [dgcuenca/decode-morse-msg](https://github.com/dgcuenca/decode-morse-msg)
-2. 👍 Approved [#9](https://github.com/Maedea9/portfolio1/pull/9#pullrequestreview-1318795697) in [Maedea9/portfolio1](https://github.com/Maedea9/portfolio1)
-3. 👍 Approved [#9](https://github.com/smunoz1988/Portfolio-mobile-first/pull/9#pullrequestreview-1318789305) in [smunoz1988/Portfolio-mobile-first](https://github.com/smunoz1988/Portfolio-mobile-first)
-4. 👍 Approved [#1](https://github.com/tjay1760/Awesome-books-Es6/pull/1#pullrequestreview-1318756509) in [tjay1760/Awesome-books-Es6](https://github.com/tjay1760/Awesome-books-Es6)
-5. 👍 Approved [#1](https://github.com/jonathanmunamire/Blog-App/pull/1#pullrequestreview-1318750156) in [jonathanmunamire/Blog-App](https://github.com/jonathanmunamire/Blog-App)
+1. 👍 Approved [#10](https://github.com/naanmohammed/my-portfolio/pull/10#pullrequestreview-1320934185) in [naanmohammed/my-portfolio](https://github.com/naanmohammed/my-portfolio)
+2. 🔴 Requested 2 change(s) for [#2](https://github.com/AbdelazizSoliman/Todo-List/pull/2#pullrequestreview-1320918572) in [AbdelazizSoliman/Todo-List](https://github.com/AbdelazizSoliman/Todo-List)
+3. 🔴 Requested 2 change(s) for [#6](https://github.com/Suzi216/blog/pull/6#pullrequestreview-1320881761) in [Suzi216/blog](https://github.com/Suzi216/blog)
+4. 🔴 Requested 2 change(s) for [#4](https://github.com/DarkxDev/bookstore/pull/4#pullrequestreview-1320794535) in [DarkxDev/bookstore](https://github.com/DarkxDev/bookstore)
+5. 👍 Approved [#1](https://github.com/samuelmoiwa/Hello-React-Front-End/pull/1#pullrequestreview-1320771478) in [samuelmoiwa/Hello-React-Front-End](https://github.com/samuelmoiwa/Hello-React-Front-End)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 2nd, 2023, 1:10:29 AM (GMT)
+Last Updated: Thursday, March 2nd, 2023, 6:16:53 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
