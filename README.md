@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#45](https://github.com/SimonGideon/Catalog-of-my-things/pull/45#pullrequestreview-1322989258) in [SimonGideon/Catalog-of-my-things](https://github.com/SimonGideon/Catalog-of-my-things)
-2. 🔴 Requested 2 change(s) for [#2](https://github.com/baqar-abbas/TO-DO-List-Project/pull/2#pullrequestreview-1322914806) in [baqar-abbas/TO-DO-List-Project](https://github.com/baqar-abbas/TO-DO-List-Project)
-3. 👍 Approved [#1](https://github.com/YKerroum/Blog-App/pull/1#pullrequestreview-1322803730) in [YKerroum/Blog-App](https://github.com/YKerroum/Blog-App)
-4. 👍 Approved [#1](https://github.com/Marcraphael12/decode-morse-code/pull/1#pullrequestreview-1322789651) in [Marcraphael12/decode-morse-code](https://github.com/Marcraphael12/decode-morse-code)
-5. 👍 Approved [#1](https://github.com/Juank628/ruby_enumerable/pull/1#pullrequestreview-1322742801) in [Juank628/ruby_enumerable](https://github.com/Juank628/ruby_enumerable)
+1. 🔴 Requested 2 change(s) for [#7](https://github.com/osamaashraf6/Blog-App/pull/7#pullrequestreview-1324742987) in [osamaashraf6/Blog-App](https://github.com/osamaashraf6/Blog-App)
+2. 🔴 Requested 2 change(s) for [#5](https://github.com/Chaseknis/book_store/pull/5#pullrequestreview-1324720957) in [Chaseknis/book_store](https://github.com/Chaseknis/book_store)
+3. 👍 Approved [#7](https://github.com/SelmaNdapanda/blog-app/pull/7#pullrequestreview-1324698734) in [SelmaNdapanda/blog-app](https://github.com/SelmaNdapanda/blog-app)
+4. 👍 Approved [#17](https://github.com/fmanimashaun/To-do-List/pull/17#pullrequestreview-1324679575) in [fmanimashaun/To-do-List](https://github.com/fmanimashaun/To-do-List)
+5. 🔴 Requested 1 change(s) for [#3](https://github.com/YKerroum/Blog-App/pull/3#pullrequestreview-1324606875) in [YKerroum/Blog-App](https://github.com/YKerroum/Blog-App)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, March 3rd, 2023, 6:16:23 PM (GMT)
+Last Updated: Saturday, March 4th, 2023, 1:03:25 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
