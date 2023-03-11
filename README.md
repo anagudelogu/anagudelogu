@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#20](https://github.com/muneeb3123/project-protfolio.github.io/pull/20#pullrequestreview-1335225817) in [muneeb3123/project-protfolio.github.io](https://github.com/muneeb3123/project-protfolio.github.io)
-2. 👍 Approved [#6](https://github.com/AyoMoses1/Bookstore/pull/6#pullrequestreview-1335177582) in [AyoMoses1/Bookstore](https://github.com/AyoMoses1/Bookstore)
-3. ⬆️ Pushed 1 commit(s) to [anagudelogu/moscow-mule](https://github.com/anagudelogu/moscow-mule)
-4. 🎉 Merged PR [#1](https://github.com/anagudelogu/moscow-mule/pull/1) in [anagudelogu/moscow-mule](https://github.com/anagudelogu/moscow-mule)
-5. ⬆️ Pushed 1 commit(s) to [anagudelogu/moscow-mule](https://github.com/anagudelogu/moscow-mule)
+1. 🔴 Requested 2 change(s) for [#4](https://github.com/gjuliao/curriculum/pull/4#pullrequestreview-1335671331) in [gjuliao/curriculum](https://github.com/gjuliao/curriculum)
+2. 👍 Approved [#13](https://github.com/ntimanu/portfolio-project/pull/13#pullrequestreview-1335666294) in [ntimanu/portfolio-project](https://github.com/ntimanu/portfolio-project)
+3. 🔴 Requested 2 change(s) for [#4](https://github.com/shakerAbuDrais/Rails-Webpack/pull/4#pullrequestreview-1335605799) in [shakerAbuDrais/Rails-Webpack](https://github.com/shakerAbuDrais/Rails-Webpack)
+4. 👍 Approved [#12](https://github.com/emhamza/My-portfolio-site/pull/12#pullrequestreview-1335529325) in [emhamza/My-portfolio-site](https://github.com/emhamza/My-portfolio-site)
+5. 👍 Approved [#20](https://github.com/muneeb3123/project-protfolio.github.io/pull/20#pullrequestreview-1335225817) in [muneeb3123/project-protfolio.github.io](https://github.com/muneeb3123/project-protfolio.github.io)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, March 10th, 2023, 6:14:18 PM (GMT)
+Last Updated: Saturday, March 11th, 2023, 12:58:16 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
