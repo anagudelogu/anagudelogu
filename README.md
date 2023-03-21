@@ -91,7 +91,7 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#3](https://github.com/Maedea9/capstone-m1/pull/3#pullrequestreview-1349585353) in [Maedea9/capstone-m1](https://github.com/Maedea9/capstone-m1)
+1. 🔴 Requested 3 change(s) for [#3](https://github.com/Maedea9/capstone-m1/pull/3#pullrequestreview-1349585353) in [Maedea9/capstone-m1](https://github.com/Maedea9/capstone-m1)
 2. 👍 Approved [#3](https://github.com/federicaulzurrun/CapstoneModuleOne/pull/3#pullrequestreview-1349503352) in [federicaulzurrun/CapstoneModuleOne](https://github.com/federicaulzurrun/CapstoneModuleOne)
 3. 🔴 Requested 2 change(s) for [#3](https://github.com/federicaulzurrun/CapstoneModuleOne/pull/3#pullrequestreview-1349476895) in [federicaulzurrun/CapstoneModuleOne](https://github.com/federicaulzurrun/CapstoneModuleOne)
 4. 👍 Approved [#8](https://github.com/sebalp100/blog-app/pull/8#pullrequestreview-1349467795) in [sebalp100/blog-app](https://github.com/sebalp100/blog-app)
@@ -99,7 +99,7 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 21st, 2023, 12:22:10 PM (GMT)
+Last Updated: Tuesday, March 21st, 2023, 6:14:28 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
