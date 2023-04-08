@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#3](https://github.com/edubew/bookstore/pull/3#pullrequestreview-1375786871) in [edubew/bookstore](https://github.com/edubew/bookstore)
-2. 👍 Approved [#3](https://github.com/edubew/bookstore/pull/3#pullrequestreview-1375786871) in [edubew/bookstore](https://github.com/edubew/bookstore)
-3. 🔴 Requested 2 change(s) for [#1](https://github.com/osbentech/hello-rails-react/pull/1#pullrequestreview-1375779702) in [osbentech/hello-rails-react](https://github.com/osbentech/hello-rails-react)
-4. 🔴 Requested 2 change(s) for [#3](https://github.com/Juanpa8830/blog-app/pull/3#pullrequestreview-1375760158) in [Juanpa8830/blog-app](https://github.com/Juanpa8830/blog-app)
-5. 👍 Approved [#6](https://github.com/VelzckC0D3/To_Do_List_ES6/pull/6#pullrequestreview-1375755238) in [VelzckC0D3/To_Do_List_ES6](https://github.com/VelzckC0D3/To_Do_List_ES6)
+1. 🔴 Requested 2 change(s) for [#1](https://github.com/SamuelTakyiBoateng/Portfolio-RWD-desk_mob/pull/1#pullrequestreview-1376634098) in [SamuelTakyiBoateng/Portfolio-RWD-desk_mob](https://github.com/SamuelTakyiBoateng/Portfolio-RWD-desk_mob)
+2. 👍 Approved [#4](https://github.com/dselasea/bookstore/pull/4#pullrequestreview-1376619876) in [dselasea/bookstore](https://github.com/dselasea/bookstore)
+3. 🔴 Requested 2 change(s) for [#9](https://github.com/kimitaWanjohi/todo-list-microverse/pull/9#pullrequestreview-1376580663) in [kimitaWanjohi/todo-list-microverse](https://github.com/kimitaWanjohi/todo-list-microverse)
+4. 👍 Approved [#3](https://github.com/edubew/bookstore/pull/3#pullrequestreview-1375786871) in [edubew/bookstore](https://github.com/edubew/bookstore)
+5. 👍 Approved [#3](https://github.com/edubew/bookstore/pull/3#pullrequestreview-1375786871) in [edubew/bookstore](https://github.com/edubew/bookstore)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, April 7th, 2023, 6:13:19 PM (GMT)
+Last Updated: Saturday, April 8th, 2023, 12:55:52 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
