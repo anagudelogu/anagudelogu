@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#3](https://github.com/Mikey1-nuel/Leaderboard/pull/3#pullrequestreview-1390465418) in [Mikey1-nuel/Leaderboard](https://github.com/Mikey1-nuel/Leaderboard)
-2. 🔴 Requested 1 change(s) for [#3](https://github.com/Mikey1-nuel/Leaderboard/pull/3#pullrequestreview-1390431919) in [Mikey1-nuel/Leaderboard](https://github.com/Mikey1-nuel/Leaderboard)
-3. 🔴 Requested 1 change(s) for [#12](https://github.com/Dadadon/blog/pull/12#pullrequestreview-1386609242) in [Dadadon/blog](https://github.com/Dadadon/blog)
-4. 👍 Approved [#4](https://github.com/danifromecuador/leaderboard/pull/4#pullrequestreview-1386283825) in [danifromecuador/leaderboard](https://github.com/danifromecuador/leaderboard)
-5. 🔴 Requested 1 change(s) for [#10](https://github.com/Khanetmoi/bookstore/pull/10#pullrequestreview-1386281972) in [Khanetmoi/bookstore](https://github.com/Khanetmoi/bookstore)
+1. 👍 Approved [#2](https://github.com/AFakhriddinov/Scoreboard/pull/2#pullrequestreview-1392957158) in [AFakhriddinov/Scoreboard](https://github.com/AFakhriddinov/Scoreboard)
+2. 👍 Approved [#3](https://github.com/Mikey1-nuel/Leaderboard/pull/3#pullrequestreview-1390465418) in [Mikey1-nuel/Leaderboard](https://github.com/Mikey1-nuel/Leaderboard)
+3. 🔴 Requested 1 change(s) for [#3](https://github.com/Mikey1-nuel/Leaderboard/pull/3#pullrequestreview-1390431919) in [Mikey1-nuel/Leaderboard](https://github.com/Mikey1-nuel/Leaderboard)
+4. 🔴 Requested 1 change(s) for [#12](https://github.com/Dadadon/blog/pull/12#pullrequestreview-1386609242) in [Dadadon/blog](https://github.com/Dadadon/blog)
+5. 👍 Approved [#4](https://github.com/danifromecuador/leaderboard/pull/4#pullrequestreview-1386283825) in [danifromecuador/leaderboard](https://github.com/danifromecuador/leaderboard)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 19th, 2023, 6:14:12 PM (GMT)
+Last Updated: Thursday, April 20th, 2023, 12:57:40 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
