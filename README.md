@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#10](https://github.com/jorgeabrahan/school_library_people/pull/10#pullrequestreview-1393055831) in [jorgeabrahan/school_library_people](https://github.com/jorgeabrahan/school_library_people)
-2. 👍 Approved [#1](https://github.com/johnie261/React-capstone/pull/1#pullrequestreview-1393049494) in [johnie261/React-capstone](https://github.com/johnie261/React-capstone)
-3. 👍 Approved [#2](https://github.com/AFakhriddinov/Scoreboard/pull/2#pullrequestreview-1392957158) in [AFakhriddinov/Scoreboard](https://github.com/AFakhriddinov/Scoreboard)
-4. 👍 Approved [#3](https://github.com/Mikey1-nuel/Leaderboard/pull/3#pullrequestreview-1390465418) in [Mikey1-nuel/Leaderboard](https://github.com/Mikey1-nuel/Leaderboard)
-5. 🔴 Requested 1 change(s) for [#3](https://github.com/Mikey1-nuel/Leaderboard/pull/3#pullrequestreview-1390431919) in [Mikey1-nuel/Leaderboard](https://github.com/Mikey1-nuel/Leaderboard)
+1. 👍 Approved [#2](https://github.com/vanina123/LeaderBoard/pull/2#pullrequestreview-1393877395) in [vanina123/LeaderBoard](https://github.com/vanina123/LeaderBoard)
+2. 👍 Approved [#10](https://github.com/jorgeabrahan/school_library_people/pull/10#pullrequestreview-1393055831) in [jorgeabrahan/school_library_people](https://github.com/jorgeabrahan/school_library_people)
+3. 👍 Approved [#1](https://github.com/johnie261/React-capstone/pull/1#pullrequestreview-1393049494) in [johnie261/React-capstone](https://github.com/johnie261/React-capstone)
+4. 👍 Approved [#2](https://github.com/AFakhriddinov/Scoreboard/pull/2#pullrequestreview-1392957158) in [AFakhriddinov/Scoreboard](https://github.com/AFakhriddinov/Scoreboard)
+5. 👍 Approved [#3](https://github.com/Mikey1-nuel/Leaderboard/pull/3#pullrequestreview-1390465418) in [Mikey1-nuel/Leaderboard](https://github.com/Mikey1-nuel/Leaderboard)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 20th, 2023, 12:22:00 PM (GMT)
+Last Updated: Thursday, April 20th, 2023, 6:13:34 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
