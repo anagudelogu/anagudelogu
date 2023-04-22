@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#7](https://github.com/MAleemH/OOP-school-library/pull/7#pullrequestreview-1395864130) in [MAleemH/OOP-school-library](https://github.com/MAleemH/OOP-school-library)
-2. 👍 Approved [#1](https://github.com/Theodoraldo/Capstone-Project/pull/1#pullrequestreview-1395845170) in [Theodoraldo/Capstone-Project](https://github.com/Theodoraldo/Capstone-Project)
-3. 🔴 Requested 2 change(s) for [#1](https://github.com/enoqueJonas/hello-rails-react/pull/1#pullrequestreview-1395813629) in [enoqueJonas/hello-rails-react](https://github.com/enoqueJonas/hello-rails-react)
-4. 🔴 Requested 2 change(s) for [#1](https://github.com/Theodoraldo/Capstone-Project/pull/1#pullrequestreview-1395748522) in [Theodoraldo/Capstone-Project](https://github.com/Theodoraldo/Capstone-Project)
-5. 👍 Approved [#1](https://github.com/ashmalzahra/TDD-project/pull/1#pullrequestreview-1394827417) in [ashmalzahra/TDD-project](https://github.com/ashmalzahra/TDD-project)
+1. 👍 Approved [#14](https://github.com/kennedyowusu/blog_app/pull/14#pullrequestreview-1396289034) in [kennedyowusu/blog_app](https://github.com/kennedyowusu/blog_app)
+2. 👍 Approved [#7](https://github.com/MAleemH/OOP-school-library/pull/7#pullrequestreview-1395864130) in [MAleemH/OOP-school-library](https://github.com/MAleemH/OOP-school-library)
+3. 👍 Approved [#1](https://github.com/Theodoraldo/Capstone-Project/pull/1#pullrequestreview-1395845170) in [Theodoraldo/Capstone-Project](https://github.com/Theodoraldo/Capstone-Project)
+4. 🔴 Requested 2 change(s) for [#1](https://github.com/enoqueJonas/hello-rails-react/pull/1#pullrequestreview-1395813629) in [enoqueJonas/hello-rails-react](https://github.com/enoqueJonas/hello-rails-react)
+5. 🔴 Requested 1 change(s) for [#1](https://github.com/Theodoraldo/Capstone-Project/pull/1#pullrequestreview-1395748522) in [Theodoraldo/Capstone-Project](https://github.com/Theodoraldo/Capstone-Project)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, April 21st, 2023, 6:13:57 PM (GMT)
+Last Updated: Saturday, April 22nd, 2023, 12:58:27 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
