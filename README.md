@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 8 change(s) for [#2](https://github.com/badger-99/Hello-world/pull/2#pullrequestreview-1400865546) in [badger-99/Hello-world](https://github.com/badger-99/Hello-world)
-2. 🔴 Requested 1 change(s) for [#2](https://github.com/Etsubdink-Demeke/Microverse-Hello-Microverse-project/pull/2#pullrequestreview-1400881485) in [Etsubdink-Demeke/Microverse-Hello-Microverse-project](https://github.com/Etsubdink-Demeke/Microverse-Hello-Microverse-project)
-3. 🔴 Requested 1 change(s) for [#1](https://github.com/Alibaba2023/Hello-Microverse/pull/1#pullrequestreview-1400874629) in [Alibaba2023/Hello-Microverse](https://github.com/Alibaba2023/Hello-Microverse)
-4. 🔴 Requested 2 change(s) for [#1](https://github.com/lRebornsl/hello-world/pull/1#pullrequestreview-1400766060) in [lRebornsl/hello-world](https://github.com/lRebornsl/hello-world)
-5. 🔴 Requested 1 change(s) for [#1](https://github.com/olanikegloria/Hello/pull/1#pullrequestreview-1400398761) in [olanikegloria/Hello](https://github.com/olanikegloria/Hello)
+1. 👍 Approved [#5](https://github.com/adeola003/math-magician/pull/5#pullrequestreview-1403036474) in [adeola003/math-magician](https://github.com/adeola003/math-magician)
+2. 🔴 Requested 8 change(s) for [#2](https://github.com/badger-99/Hello-world/pull/2#pullrequestreview-1400865546) in [badger-99/Hello-world](https://github.com/badger-99/Hello-world)
+3. 🔴 Requested 1 change(s) for [#2](https://github.com/Etsubdink-Demeke/Microverse-Hello-Microverse-project/pull/2#pullrequestreview-1400881485) in [Etsubdink-Demeke/Microverse-Hello-Microverse-project](https://github.com/Etsubdink-Demeke/Microverse-Hello-Microverse-project)
+4. 🔴 Requested 1 change(s) for [#1](https://github.com/Alibaba2023/Hello-Microverse/pull/1#pullrequestreview-1400874629) in [Alibaba2023/Hello-Microverse](https://github.com/Alibaba2023/Hello-Microverse)
+5. 🔴 Requested 1 change(s) for [#1](https://github.com/lRebornsl/hello-world/pull/1#pullrequestreview-1400766060) in [lRebornsl/hello-world](https://github.com/lRebornsl/hello-world)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 27th, 2023, 1:00:33 AM (GMT)
+Last Updated: Thursday, April 27th, 2023, 6:15:09 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
