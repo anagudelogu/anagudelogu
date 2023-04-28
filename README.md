@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#8](https://github.com/LeslieAine/oop_library/pull/8#pullrequestreview-1404176148) in [LeslieAine/oop_library](https://github.com/LeslieAine/oop_library)
-2. 👍 Approved [#1](https://github.com/abdozayan12/Portfolio-setup-and-mobile-first/pull/1#pullrequestreview-1404135690) in [abdozayan12/Portfolio-setup-and-mobile-first](https://github.com/abdozayan12/Portfolio-setup-and-mobile-first)
-3. 🔴 Requested 2 change(s) for [#1](https://github.com/obed300/Enumerable/pull/1#pullrequestreview-1404113089) in [obed300/Enumerable](https://github.com/obed300/Enumerable)
-4. 🔴 Requested 2 change(s) for [#2](https://github.com/mutonic/Portfolio_Microverse/pull/2#pullrequestreview-1403885330) in [mutonic/Portfolio_Microverse](https://github.com/mutonic/Portfolio_Microverse)
-5. 👍 Approved [#2](https://github.com/suthish777/Personal-portfolio/pull/2#pullrequestreview-1403961001) in [suthish777/Personal-portfolio](https://github.com/suthish777/Personal-portfolio)
+1. 🔴 Requested 2 change(s) for [#3](https://github.com/aradradev/abdulsportfolio/pull/3#pullrequestreview-1406161902) in [aradradev/abdulsportfolio](https://github.com/aradradev/abdulsportfolio)
+2. 🔴 Requested 2 change(s) for [#1](https://github.com/khanh-devos/MyPortfolio/pull/1#pullrequestreview-1406037403) in [khanh-devos/MyPortfolio](https://github.com/khanh-devos/MyPortfolio)
+3. 👍 Approved [#1](https://github.com/mariegrace31/portfolio_project/pull/1#pullrequestreview-1406005901) in [mariegrace31/portfolio_project](https://github.com/mariegrace31/portfolio_project)
+4. 🔴 Requested 2 change(s) for [#1](https://github.com/akinmolaomotlani/Portfolio-setup-and-mobile-first/pull/1#pullrequestreview-1405960425) in [akinmolaomotlani/Portfolio-setup-and-mobile-first](https://github.com/akinmolaomotlani/Portfolio-setup-and-mobile-first)
+5. 👍 Approved [#3](https://github.com/UbdaNam/math-magicians/pull/3#pullrequestreview-1405932805) in [UbdaNam/math-magicians](https://github.com/UbdaNam/math-magicians)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, April 28th, 2023, 12:20:52 PM (GMT)
+Last Updated: Friday, April 28th, 2023, 6:13:12 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
