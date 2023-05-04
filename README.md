@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#2](https://github.com/Gardimy/Awesome_books/pull/2#pullrequestreview-1412030900) in [Gardimy/Awesome_books](https://github.com/Gardimy/Awesome_books)
-2. 🔴 Requested 2 change(s) for [#10](https://github.com/Ade179/Myblog/pull/10#pullrequestreview-1406728029) in [Ade179/Myblog](https://github.com/Ade179/Myblog)
-3. 👍 Approved [#1](https://github.com/badger-99/Portfolio/pull/1#pullrequestreview-1406725729) in [badger-99/Portfolio](https://github.com/badger-99/Portfolio)
-4. 👍 Approved [#5](https://github.com/Oscah01/the-math-megicians/pull/5#pullrequestreview-1406719504) in [Oscah01/the-math-megicians](https://github.com/Oscah01/the-math-megicians)
-5. 🔴 Requested 1 change(s) for [#2](https://github.com/denigit5/Portfolio/pull/2#pullrequestreview-1406552565) in [denigit5/Portfolio](https://github.com/denigit5/Portfolio)
+1. 🔴 Requested 2 change(s) for [#6](https://github.com/tsheporamantso/math-magicians/pull/6#pullrequestreview-1412157400) in [tsheporamantso/math-magicians](https://github.com/tsheporamantso/math-magicians)
+2. 🔴 Requested 2 change(s) for [#6](https://github.com/touredri/calculator/pull/6#pullrequestreview-1412106706) in [touredri/calculator](https://github.com/touredri/calculator)
+3. 👍 Approved [#7](https://github.com/batoorsohail/oop_school_library/pull/7#pullrequestreview-1412099261) in [batoorsohail/oop_school_library](https://github.com/batoorsohail/oop_school_library)
+4. 🔴 Requested 2 change(s) for [#2](https://github.com/Gardimy/Awesome_books/pull/2#pullrequestreview-1412030900) in [Gardimy/Awesome_books](https://github.com/Gardimy/Awesome_books)
+5. 🔴 Requested 1 change(s) for [#10](https://github.com/Ade179/Myblog/pull/10#pullrequestreview-1406728029) in [Ade179/Myblog](https://github.com/Ade179/Myblog)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 4th, 2023, 12:58:30 AM (GMT)
+Last Updated: Thursday, May 4th, 2023, 6:14:30 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
