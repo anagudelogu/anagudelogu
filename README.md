@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#6](https://github.com/tsheporamantso/math-magicians/pull/6#pullrequestreview-1412157400) in [tsheporamantso/math-magicians](https://github.com/tsheporamantso/math-magicians)
-2. 🔴 Requested 2 change(s) for [#6](https://github.com/touredri/calculator/pull/6#pullrequestreview-1412106706) in [touredri/calculator](https://github.com/touredri/calculator)
-3. 👍 Approved [#7](https://github.com/batoorsohail/oop_school_library/pull/7#pullrequestreview-1412099261) in [batoorsohail/oop_school_library](https://github.com/batoorsohail/oop_school_library)
-4. 🔴 Requested 2 change(s) for [#2](https://github.com/Gardimy/Awesome_books/pull/2#pullrequestreview-1412030900) in [Gardimy/Awesome_books](https://github.com/Gardimy/Awesome_books)
-5. 🔴 Requested 1 change(s) for [#10](https://github.com/Ade179/Myblog/pull/10#pullrequestreview-1406728029) in [Ade179/Myblog](https://github.com/Ade179/Myblog)
+1. 🔴 Requested 2 change(s) for [#7](https://github.com/frempongdev/OOP-school-library/pull/7#pullrequestreview-1413414216) in [frempongdev/OOP-school-library](https://github.com/frempongdev/OOP-school-library)
+2. 👍 Approved [#3](https://github.com/Simpleshaikh1/Awesome-Books/pull/3#pullrequestreview-1413375429) in [Simpleshaikh1/Awesome-Books](https://github.com/Simpleshaikh1/Awesome-Books)
+3. 👍 Approved [#1](https://github.com/tsigewossne/portifolio/pull/1#pullrequestreview-1413328104) in [tsigewossne/portifolio](https://github.com/tsigewossne/portifolio)
+4. 👍 Approved [#1](https://github.com/Spacelama587/Hello-Microverse/pull/1#pullrequestreview-1413299261) in [Spacelama587/Hello-Microverse](https://github.com/Spacelama587/Hello-Microverse)
+5. 🔴 Requested 1 change(s) for [#6](https://github.com/tsheporamantso/math-magicians/pull/6#pullrequestreview-1412157400) in [tsheporamantso/math-magicians](https://github.com/tsheporamantso/math-magicians)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 4th, 2023, 12:21:36 PM (GMT)
+Last Updated: Thursday, May 4th, 2023, 6:13:39 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
