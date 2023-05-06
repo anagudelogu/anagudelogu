@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#2](https://github.com/musangamfure/Todo-List-App/pull/2#pullrequestreview-1415390543) in [musangamfure/Todo-List-App](https://github.com/musangamfure/Todo-List-App)
-2. 🔴 Requested 2 change(s) for [#1](https://github.com/gersonhiggins/to-do-list/pull/1#pullrequestreview-1415139283) in [gersonhiggins/to-do-list](https://github.com/gersonhiggins/to-do-list)
-3. 🔴 Requested 1 change(s) for [#1](https://github.com/roshanasingh4/trial_project/pull/1#pullrequestreview-1415044488) in [roshanasingh4/trial_project](https://github.com/roshanasingh4/trial_project)
-4. 🔴 Requested 2 change(s) for [#1](https://github.com/christianonoh/book-town/pull/1#pullrequestreview-1414096993) in [christianonoh/book-town](https://github.com/christianonoh/book-town)
-5. 🔴 Requested 1 change(s) for [#8](https://github.com/smunoz1988/math-magicians-react/pull/8#pullrequestreview-1414094889) in [smunoz1988/math-magicians-react](https://github.com/smunoz1988/math-magicians-react)
+1. 👍 Approved [#3](https://github.com/maths29/mobile-workSections/pull/3#pullrequestreview-1415801746) in [maths29/mobile-workSections](https://github.com/maths29/mobile-workSections)
+2. 🔴 Requested 2 change(s) for [#1](https://github.com/AbdallahJumah95/Programmer-s_portfolio/pull/1#pullrequestreview-1415791779) in [AbdallahJumah95/Programmer-s_portfolio](https://github.com/AbdallahJumah95/Programmer-s_portfolio)
+3. 👍 Approved [#15](https://github.com/hopeforkoami/Blog_app/pull/15#pullrequestreview-1415788817) in [hopeforkoami/Blog_app](https://github.com/hopeforkoami/Blog_app)
+4. 👍 Approved [#4](https://github.com/brainskev/vet_database/pull/4#pullrequestreview-1415787949) in [brainskev/vet_database](https://github.com/brainskev/vet_database)
+5. 🔴 Requested 1 change(s) for [#2](https://github.com/musangamfure/Todo-List-App/pull/2#pullrequestreview-1415390543) in [musangamfure/Todo-List-App](https://github.com/musangamfure/Todo-List-App)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 6th, 2023, 12:19:50 PM (GMT)
+Last Updated: Saturday, May 6th, 2023, 6:13:01 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
