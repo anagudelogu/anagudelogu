@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#22](https://github.com/JacintaNgwu/Recipe-App/pull/22#pullrequestreview-1415812829) in [JacintaNgwu/Recipe-App](https://github.com/JacintaNgwu/Recipe-App)
-2. 👍 Approved [#22](https://github.com/JacintaNgwu/Recipe-App/pull/22#pullrequestreview-1415812829) in [JacintaNgwu/Recipe-App](https://github.com/JacintaNgwu/Recipe-App)
-3. 👍 Approved [#3](https://github.com/maths29/mobile-workSections/pull/3#pullrequestreview-1415801746) in [maths29/mobile-workSections](https://github.com/maths29/mobile-workSections)
-4. 🔴 Requested 2 change(s) for [#1](https://github.com/AbdallahJumah95/Programmer-s_portfolio/pull/1#pullrequestreview-1415791779) in [AbdallahJumah95/Programmer-s_portfolio](https://github.com/AbdallahJumah95/Programmer-s_portfolio)
-5. 👍 Approved [#15](https://github.com/hopeforkoami/Blog_app/pull/15#pullrequestreview-1415788817) in [hopeforkoami/Blog_app](https://github.com/hopeforkoami/Blog_app)
+1. 🔴 Requested 3 change(s) for [#2](https://github.com/lucascomamala/blog-on-rails/pull/2#pullrequestreview-1417638629) in [lucascomamala/blog-on-rails](https://github.com/lucascomamala/blog-on-rails)
+2. 🔴 Requested 2 change(s) for [#2](https://github.com/BANCUNGUYE66/book-store/pull/2#pullrequestreview-1417615592) in [BANCUNGUYE66/book-store](https://github.com/BANCUNGUYE66/book-store)
+3. 👍 Approved [#22](https://github.com/JacintaNgwu/Recipe-App/pull/22#pullrequestreview-1415812829) in [JacintaNgwu/Recipe-App](https://github.com/JacintaNgwu/Recipe-App)
+4. 👍 Approved [#22](https://github.com/JacintaNgwu/Recipe-App/pull/22#pullrequestreview-1415812829) in [JacintaNgwu/Recipe-App](https://github.com/JacintaNgwu/Recipe-App)
+5. 👍 Approved [#3](https://github.com/maths29/mobile-workSections/pull/3#pullrequestreview-1415801746) in [maths29/mobile-workSections](https://github.com/maths29/mobile-workSections)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 8th, 2023, 6:13:53 PM (GMT)
+Last Updated: Tuesday, May 9th, 2023, 12:59:51 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
