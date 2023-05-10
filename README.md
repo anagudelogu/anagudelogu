@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#1](https://github.com/hakichris/Blog-App/pull/1#pullrequestreview-1419570680) in [hakichris/Blog-App](https://github.com/hakichris/Blog-App)
-2. 👍 Approved [#1](https://github.com/chelobotix/Blog-Ruby-on-Rails/pull/1#pullrequestreview-1419521069) in [chelobotix/Blog-Ruby-on-Rails](https://github.com/chelobotix/Blog-Ruby-on-Rails)
-3. 🔴 Requested 2 change(s) for [#5](https://github.com/hernandanielzamora/Bookstore/pull/5#pullrequestreview-1419508009) in [hernandanielzamora/Bookstore](https://github.com/hernandanielzamora/Bookstore)
-4. 👍 Approved [#6](https://github.com/zewdu444/blog_app/pull/6#pullrequestreview-1419151026) in [zewdu444/blog_app](https://github.com/zewdu444/blog_app)
-5. 👍 Approved [#6](https://github.com/zewdu444/blog_app/pull/6#pullrequestreview-1419151026) in [zewdu444/blog_app](https://github.com/zewdu444/blog_app)
+1. 👍 Approved [#1](https://github.com/fithamlak/blog-app/pull/1#pullrequestreview-1419655574) in [fithamlak/blog-app](https://github.com/fithamlak/blog-app)
+2. 👍 Approved [#3](https://github.com/stephenkati/book-store/pull/3#pullrequestreview-1419644089) in [stephenkati/book-store](https://github.com/stephenkati/book-store)
+3. 👍 Approved [#3](https://github.com/stephenkati/book-store/pull/3#pullrequestreview-1419644089) in [stephenkati/book-store](https://github.com/stephenkati/book-store)
+4. 🔴 Requested 1 change(s) for [#2](https://github.com/Ellyboi/bookstore/pull/2#pullrequestreview-1419629676) in [Ellyboi/bookstore](https://github.com/Ellyboi/bookstore)
+5. 🔴 Requested 1 change(s) for [#1](https://github.com/hakichris/Blog-App/pull/1#pullrequestreview-1419570680) in [hakichris/Blog-App](https://github.com/hakichris/Blog-App)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 10th, 2023, 12:57:58 AM (GMT)
+Last Updated: Wednesday, May 10th, 2023, 6:14:38 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
