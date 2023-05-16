@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#3](https://github.com/djo1975/Bloger/pull/3#pullrequestreview-1424492493) in [djo1975/Bloger](https://github.com/djo1975/Bloger)
-2. 👍 Approved [#3](https://github.com/CarlosIgreda/Math-Magicians/pull/3#pullrequestreview-1424443866) in [CarlosIgreda/Math-Magicians](https://github.com/CarlosIgreda/Math-Magicians)
-3. 👍 Approved [#3](https://github.com/CarlosIgreda/Math-Magicians/pull/3#pullrequestreview-1424443866) in [CarlosIgreda/Math-Magicians](https://github.com/CarlosIgreda/Math-Magicians)
-4. 🔴 Requested 2 change(s) for [#4](https://github.com/FrankMugagga/World-Population/pull/4#pullrequestreview-1424368872) in [FrankMugagga/World-Population](https://github.com/FrankMugagga/World-Population)
-5. 👍 Approved [#5](https://github.com/newhoteng/Bookstore/pull/5#pullrequestreview-1424342133) in [newhoteng/Bookstore](https://github.com/newhoteng/Bookstore)
+1. 👍 Approved [#8](https://github.com/NitBravoA92/portfolio-setup-and-mobile-first/pull/8#pullrequestreview-1427554103) in [NitBravoA92/portfolio-setup-and-mobile-first](https://github.com/NitBravoA92/portfolio-setup-and-mobile-first)
+2. 👍 Approved [#7](https://github.com/ClaudiaRojasSoto/portfolio_1/pull/7#pullrequestreview-1427543736) in [ClaudiaRojasSoto/portfolio_1](https://github.com/ClaudiaRojasSoto/portfolio_1)
+3. 👍 Approved [#9](https://github.com/YoutLone/Portfolio/pull/9#pullrequestreview-1427538872) in [YoutLone/Portfolio](https://github.com/YoutLone/Portfolio)
+4. 👍 Approved [#7](https://github.com/jugosack/blog-app-rails/pull/7#pullrequestreview-1427530476) in [jugosack/blog-app-rails](https://github.com/jugosack/blog-app-rails)
+5. 👍 Approved [#3](https://github.com/banzaman/OOP/pull/3#pullrequestreview-1427523154) in [banzaman/OOP](https://github.com/banzaman/OOP)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 16th, 2023, 12:59:59 AM (GMT)
+Last Updated: Tuesday, May 16th, 2023, 6:14:25 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
