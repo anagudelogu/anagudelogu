@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#2](https://github.com/QueenterJuma/School_Library/pull/2#pullrequestreview-1429479775) in [QueenterJuma/School_Library](https://github.com/QueenterJuma/School_Library)
-2. 👍 Approved [#8](https://github.com/jmonto55/blog-app/pull/8#pullrequestreview-1429473014) in [jmonto55/blog-app](https://github.com/jmonto55/blog-app)
-3. 👍 Approved [#8](https://github.com/NitBravoA92/portfolio-setup-and-mobile-first/pull/8#pullrequestreview-1427554103) in [NitBravoA92/portfolio-setup-and-mobile-first](https://github.com/NitBravoA92/portfolio-setup-and-mobile-first)
-4. 👍 Approved [#7](https://github.com/ClaudiaRojasSoto/portfolio_1/pull/7#pullrequestreview-1427543736) in [ClaudiaRojasSoto/portfolio_1](https://github.com/ClaudiaRojasSoto/portfolio_1)
-5. 👍 Approved [#9](https://github.com/YoutLone/Portfolio/pull/9#pullrequestreview-1427538872) in [YoutLone/Portfolio](https://github.com/YoutLone/Portfolio)
+1. 🔴 Requested 2 change(s) for [#2](https://github.com/mudasiri/rubyschool-library/pull/2#pullrequestreview-1431887187) in [mudasiri/rubyschool-library](https://github.com/mudasiri/rubyschool-library)
+2. 👍 Approved [#3](https://github.com/Theodoraldo/leaderboard-project/pull/3#pullrequestreview-1431865536) in [Theodoraldo/leaderboard-project](https://github.com/Theodoraldo/leaderboard-project)
+3. 👍 Approved [#9](https://github.com/lRebornsl/portfolio/pull/9#pullrequestreview-1431822100) in [lRebornsl/portfolio](https://github.com/lRebornsl/portfolio)
+4. 👍 Approved [#10](https://github.com/kensteph/blog/pull/10#pullrequestreview-1431801911) in [kensteph/blog](https://github.com/kensteph/blog)
+5. 👍 Approved [#2](https://github.com/QueenterJuma/School_Library/pull/2#pullrequestreview-1429479775) in [QueenterJuma/School_Library](https://github.com/QueenterJuma/School_Library)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 18th, 2023, 12:58:34 AM (GMT)
+Last Updated: Thursday, May 18th, 2023, 6:15:00 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
