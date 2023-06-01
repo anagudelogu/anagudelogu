@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#1](https://github.com/ab-noori/math_magicians/pull/1#pullrequestreview-1455256954) in [ab-noori/math_magicians](https://github.com/ab-noori/math_magicians)
-2. 🔴 Requested 2 change(s) for [#1](https://github.com/erickma1/CapstoneProject/pull/1#pullrequestreview-1453807037) in [erickma1/CapstoneProject](https://github.com/erickma1/CapstoneProject)
-3. 👍 Approved [#1](https://github.com/MozamelJawad/Hello-Microverse/pull/1#pullrequestreview-1453765547) in [MozamelJawad/Hello-Microverse](https://github.com/MozamelJawad/Hello-Microverse)
-4. 🔴 Requested 2 change(s) for [#3](https://github.com/musangamfure/math-magicians-app/pull/3#pullrequestreview-1453757232) in [musangamfure/math-magicians-app](https://github.com/musangamfure/math-magicians-app)
-5. 👍 Approved [#6](https://github.com/SAZZAD1Q2/Awesome-Book/pull/6#pullrequestreview-1453712989) in [SAZZAD1Q2/Awesome-Book](https://github.com/SAZZAD1Q2/Awesome-Book)
+1. 🔴 Requested 2 change(s) for [#28](https://github.com/kessie2862/JavascriptCapstone/pull/28#pullrequestreview-1455626693) in [kessie2862/JavascriptCapstone](https://github.com/kessie2862/JavascriptCapstone)
+2. 👍 Approved [#2](https://github.com/Jrmcuervo/math-magicians-rc/pull/2#pullrequestreview-1455610195) in [Jrmcuervo/math-magicians-rc](https://github.com/Jrmcuervo/math-magicians-rc)
+3. 🔴 Requested 2 change(s) for [#36](https://github.com/maov19/ruby-capstone/pull/36#pullrequestreview-1455448892) in [maov19/ruby-capstone](https://github.com/maov19/ruby-capstone)
+4. 🔴 Requested 2 change(s) for [#1](https://github.com/ab-noori/math_magicians/pull/1#pullrequestreview-1455256954) in [ab-noori/math_magicians](https://github.com/ab-noori/math_magicians)
+5. 🔴 Requested 1 change(s) for [#1](https://github.com/erickma1/CapstoneProject/pull/1#pullrequestreview-1453807037) in [erickma1/CapstoneProject](https://github.com/erickma1/CapstoneProject)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 1st, 2023, 12:22:30 PM (GMT)
+Last Updated: Thursday, June 1st, 2023, 6:14:39 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
