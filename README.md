@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#1](https://github.com/AndresEspi/portafolio/pull/1#pullrequestreview-1460612794) in [AndresEspi/portafolio](https://github.com/AndresEspi/portafolio)
-2. 🔴 Requested 2 change(s) for [#1](https://github.com/AleMdta/portfolio-setup-mobile-first/pull/1#pullrequestreview-1460574191) in [AleMdta/portfolio-setup-mobile-first](https://github.com/AleMdta/portfolio-setup-mobile-first)
-3. 👍 Approved [#2](https://github.com/dvcorreia1984/portfolio/pull/2#pullrequestreview-1460346421) in [dvcorreia1984/portfolio](https://github.com/dvcorreia1984/portfolio)
-4. 👍 Approved [#40](https://github.com/danielochuba/Group-capstone/pull/40#pullrequestreview-1460282271) in [danielochuba/Group-capstone](https://github.com/danielochuba/Group-capstone)
-5. 👍 Approved [#2](https://github.com/anyars-encarta/Porfolio/pull/2#pullrequestreview-1460273303) in [anyars-encarta/Porfolio](https://github.com/anyars-encarta/Porfolio)
+1. 👍 Approved [#2](https://github.com/GreetyCr/Portfolio_Mobil_Firts/pull/2#pullrequestreview-1460730038) in [GreetyCr/Portfolio_Mobil_Firts](https://github.com/GreetyCr/Portfolio_Mobil_Firts)
+2. 👍 Approved [#1](https://github.com/AndresEspi/portafolio/pull/1#pullrequestreview-1460612794) in [AndresEspi/portafolio](https://github.com/AndresEspi/portafolio)
+3. 🔴 Requested 2 change(s) for [#1](https://github.com/AleMdta/portfolio-setup-mobile-first/pull/1#pullrequestreview-1460574191) in [AleMdta/portfolio-setup-mobile-first](https://github.com/AleMdta/portfolio-setup-mobile-first)
+4. 👍 Approved [#2](https://github.com/dvcorreia1984/portfolio/pull/2#pullrequestreview-1460346421) in [dvcorreia1984/portfolio](https://github.com/dvcorreia1984/portfolio)
+5. 👍 Approved [#40](https://github.com/danielochuba/Group-capstone/pull/40#pullrequestreview-1460282271) in [danielochuba/Group-capstone](https://github.com/danielochuba/Group-capstone)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 4th, 2023, 1:17:46 AM (GMT)
+Last Updated: Sunday, June 4th, 2023, 6:13:13 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
