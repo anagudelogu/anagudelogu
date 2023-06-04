@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#1](https://github.com/Fentahunn/finish_mobile_version/pull/1#pullrequestreview-1459832639) in [Fentahunn/finish_mobile_version](https://github.com/Fentahunn/finish_mobile_version)
-2. 🔴 Requested 2 change(s) for [#28](https://github.com/kessie2862/JavascriptCapstone/pull/28#pullrequestreview-1455626693) in [kessie2862/JavascriptCapstone](https://github.com/kessie2862/JavascriptCapstone)
-3. 👍 Approved [#2](https://github.com/Jrmcuervo/math-magicians-rc/pull/2#pullrequestreview-1455610195) in [Jrmcuervo/math-magicians-rc](https://github.com/Jrmcuervo/math-magicians-rc)
-4. 🔴 Requested 2 change(s) for [#36](https://github.com/maov19/ruby-capstone/pull/36#pullrequestreview-1455448892) in [maov19/ruby-capstone](https://github.com/maov19/ruby-capstone)
-5. 🔴 Requested 1 change(s) for [#1](https://github.com/ab-noori/math_magicians/pull/1#pullrequestreview-1455256954) in [ab-noori/math_magicians](https://github.com/ab-noori/math_magicians)
+1. 👍 Approved [#1](https://github.com/AndresEspi/portafolio/pull/1#pullrequestreview-1460612794) in [AndresEspi/portafolio](https://github.com/AndresEspi/portafolio)
+2. 🔴 Requested 2 change(s) for [#1](https://github.com/AleMdta/portfolio-setup-mobile-first/pull/1#pullrequestreview-1460574191) in [AleMdta/portfolio-setup-mobile-first](https://github.com/AleMdta/portfolio-setup-mobile-first)
+3. 👍 Approved [#2](https://github.com/dvcorreia1984/portfolio/pull/2#pullrequestreview-1460346421) in [dvcorreia1984/portfolio](https://github.com/dvcorreia1984/portfolio)
+4. 👍 Approved [#40](https://github.com/danielochuba/Group-capstone/pull/40#pullrequestreview-1460282271) in [danielochuba/Group-capstone](https://github.com/danielochuba/Group-capstone)
+5. 👍 Approved [#2](https://github.com/anyars-encarta/Porfolio/pull/2#pullrequestreview-1460273303) in [anyars-encarta/Porfolio](https://github.com/anyars-encarta/Porfolio)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, June 3rd, 2023, 6:12:35 PM (GMT)
+Last Updated: Sunday, June 4th, 2023, 1:17:46 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
