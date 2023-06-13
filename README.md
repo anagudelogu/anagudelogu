@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#2](https://github.com/GreetyCr/Portfolio_Mobil_Firts/pull/2#pullrequestreview-1460730038) in [GreetyCr/Portfolio_Mobil_Firts](https://github.com/GreetyCr/Portfolio_Mobil_Firts)
-2. 👍 Approved [#1](https://github.com/AndresEspi/portafolio/pull/1#pullrequestreview-1460612794) in [AndresEspi/portafolio](https://github.com/AndresEspi/portafolio)
-3. 🔴 Requested 2 change(s) for [#1](https://github.com/AleMdta/portfolio-setup-mobile-first/pull/1#pullrequestreview-1460574191) in [AleMdta/portfolio-setup-mobile-first](https://github.com/AleMdta/portfolio-setup-mobile-first)
-4. 👍 Approved [#2](https://github.com/dvcorreia1984/portfolio/pull/2#pullrequestreview-1460346421) in [dvcorreia1984/portfolio](https://github.com/dvcorreia1984/portfolio)
-5. 👍 Approved [#40](https://github.com/danielochuba/Group-capstone/pull/40#pullrequestreview-1460282271) in [danielochuba/Group-capstone](https://github.com/danielochuba/Group-capstone)
+1. ⬆️ Pushed 1 commit(s) to [anagudelogu/portfolio-v2](https://github.com/anagudelogu/portfolio-v2)
+2. 🎉 Merged PR [#8](https://github.com/anagudelogu/portfolio-v2/pull/8) in [anagudelogu/portfolio-v2](https://github.com/anagudelogu/portfolio-v2)
+3. 💪 Opened PR [#8](https://github.com/anagudelogu/portfolio-v2/pull/8) in [anagudelogu/portfolio-v2](https://github.com/anagudelogu/portfolio-v2)
+4. ⬆️ Pushed 1 commit(s) to [anagudelogu/portfolio-v2](https://github.com/anagudelogu/portfolio-v2)
+5. 🎉 Merged PR [#7](https://github.com/anagudelogu/portfolio-v2/pull/7) in [anagudelogu/portfolio-v2](https://github.com/anagudelogu/portfolio-v2)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 12th, 2023, 6:13:34 PM (GMT)
+Last Updated: Tuesday, June 13th, 2023, 1:06:45 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
