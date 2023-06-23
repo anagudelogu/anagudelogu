@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#9](https://github.com/dicodiaz/rails-blog/pull/9#pullrequestreview-1493381268) in [dicodiaz/rails-blog](https://github.com/dicodiaz/rails-blog)
-2. 👍 Approved [#9](https://github.com/dicodiaz/rails-blog/pull/9#pullrequestreview-1493381268) in [dicodiaz/rails-blog](https://github.com/dicodiaz/rails-blog)
-3. 👍 Approved [#1](https://github.com/Christelle-12/decode_morse/pull/1#pullrequestreview-1493370587) in [Christelle-12/decode_morse](https://github.com/Christelle-12/decode_morse)
-4. 👍 Approved [#1](https://github.com/Christelle-12/decode_morse/pull/1#pullrequestreview-1493370587) in [Christelle-12/decode_morse](https://github.com/Christelle-12/decode_morse)
-5. 🔴 Requested 1 change(s) for [#11](https://github.com/maov19/blog-app/pull/11#pullrequestreview-1492206420) in [maov19/blog-app](https://github.com/maov19/blog-app)
+1. 👍 Approved [#3](https://github.com/HFG43/Leaderboard/pull/3#pullrequestreview-1494305078) in [HFG43/Leaderboard](https://github.com/HFG43/Leaderboard)
+2. 👍 Approved [#4](https://github.com/Alejandroq12/university-books/pull/4#pullrequestreview-1494300003) in [Alejandroq12/university-books](https://github.com/Alejandroq12/university-books)
+3. 🔴 Requested 2 change(s) for [#4](https://github.com/uno36/Book-Store/pull/4#pullrequestreview-1494281735) in [uno36/Book-Store](https://github.com/uno36/Book-Store)
+4. 👍 Approved [#9](https://github.com/dicodiaz/rails-blog/pull/9#pullrequestreview-1493381268) in [dicodiaz/rails-blog](https://github.com/dicodiaz/rails-blog)
+5. 👍 Approved [#9](https://github.com/dicodiaz/rails-blog/pull/9#pullrequestreview-1493381268) in [dicodiaz/rails-blog](https://github.com/dicodiaz/rails-blog)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 23rd, 2023, 1:13:59 AM (GMT)
+Last Updated: Friday, June 23rd, 2023, 6:17:05 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
