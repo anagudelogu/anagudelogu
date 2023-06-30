@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#2](https://github.com/rmiyoyo/Leaderboard/pull/2#pullrequestreview-1506338749) in [rmiyoyo/Leaderboard](https://github.com/rmiyoyo/Leaderboard)
-2. 👍 Approved [#4](https://github.com/Cisco-the-wayword/OOP-SchoolLibrary/pull/4#pullrequestreview-1506313465) in [Cisco-the-wayword/OOP-SchoolLibrary](https://github.com/Cisco-the-wayword/OOP-SchoolLibrary)
-3. 🔴 Requested 2 change(s) for [#4](https://github.com/Cisco-the-wayword/OOP-SchoolLibrary/pull/4#pullrequestreview-1506304528) in [Cisco-the-wayword/OOP-SchoolLibrary](https://github.com/Cisco-the-wayword/OOP-SchoolLibrary)
-4. 👍 Approved [#1](https://github.com/christianonoh/tdd-project/pull/1#pullrequestreview-1506300042) in [christianonoh/tdd-project](https://github.com/christianonoh/tdd-project)
-5. 🔴 Requested 1 change(s) for [#3](https://github.com/Adams-Ghub/school-library/pull/3#pullrequestreview-1503460084) in [Adams-Ghub/school-library](https://github.com/Adams-Ghub/school-library)
+1. 🔴 Requested 2 change(s) for [#40](https://github.com/YoutLone/Capstone-Js/pull/40#pullrequestreview-1507065634) in [YoutLone/Capstone-Js](https://github.com/YoutLone/Capstone-Js)
+2. 👍 Approved [#2](https://github.com/rmiyoyo/Leaderboard/pull/2#pullrequestreview-1506338749) in [rmiyoyo/Leaderboard](https://github.com/rmiyoyo/Leaderboard)
+3. 👍 Approved [#4](https://github.com/Cisco-the-wayword/OOP-SchoolLibrary/pull/4#pullrequestreview-1506313465) in [Cisco-the-wayword/OOP-SchoolLibrary](https://github.com/Cisco-the-wayword/OOP-SchoolLibrary)
+4. 🔴 Requested 2 change(s) for [#4](https://github.com/Cisco-the-wayword/OOP-SchoolLibrary/pull/4#pullrequestreview-1506304528) in [Cisco-the-wayword/OOP-SchoolLibrary](https://github.com/Cisco-the-wayword/OOP-SchoolLibrary)
+5. 👍 Approved [#1](https://github.com/christianonoh/tdd-project/pull/1#pullrequestreview-1506300042) in [christianonoh/tdd-project](https://github.com/christianonoh/tdd-project)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 30th, 2023, 6:16:05 AM (GMT)
+Last Updated: Friday, June 30th, 2023, 12:24:12 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
