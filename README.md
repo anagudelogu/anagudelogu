@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#40](https://github.com/YoutLone/Capstone-Js/pull/40#pullrequestreview-1507065634) in [YoutLone/Capstone-Js](https://github.com/YoutLone/Capstone-Js)
-2. 👍 Approved [#2](https://github.com/rmiyoyo/Leaderboard/pull/2#pullrequestreview-1506338749) in [rmiyoyo/Leaderboard](https://github.com/rmiyoyo/Leaderboard)
-3. 👍 Approved [#4](https://github.com/Cisco-the-wayword/OOP-SchoolLibrary/pull/4#pullrequestreview-1506313465) in [Cisco-the-wayword/OOP-SchoolLibrary](https://github.com/Cisco-the-wayword/OOP-SchoolLibrary)
-4. 🔴 Requested 2 change(s) for [#4](https://github.com/Cisco-the-wayword/OOP-SchoolLibrary/pull/4#pullrequestreview-1506304528) in [Cisco-the-wayword/OOP-SchoolLibrary](https://github.com/Cisco-the-wayword/OOP-SchoolLibrary)
-5. 👍 Approved [#1](https://github.com/christianonoh/tdd-project/pull/1#pullrequestreview-1506300042) in [christianonoh/tdd-project](https://github.com/christianonoh/tdd-project)
+1. 👍 Approved [#12](https://github.com/preciousbetine/microverse-rails-blog/pull/12#pullrequestreview-1507530801) in [preciousbetine/microverse-rails-blog](https://github.com/preciousbetine/microverse-rails-blog)
+2. 👍 Approved [#4](https://github.com/harshi0102/School-Library/pull/4#pullrequestreview-1507491431) in [harshi0102/School-Library](https://github.com/harshi0102/School-Library)
+3. 👍 Approved [#2](https://github.com/dazehinn/OOP-school-library/pull/2#pullrequestreview-1507230650) in [dazehinn/OOP-school-library](https://github.com/dazehinn/OOP-school-library)
+4. 🔴 Requested 2 change(s) for [#6](https://github.com/josuerushanika/budget-app/pull/6#pullrequestreview-1507197189) in [josuerushanika/budget-app](https://github.com/josuerushanika/budget-app)
+5. 🔴 Requested 1 change(s) for [#40](https://github.com/YoutLone/Capstone-Js/pull/40#pullrequestreview-1507065634) in [YoutLone/Capstone-Js](https://github.com/YoutLone/Capstone-Js)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 30th, 2023, 12:24:12 PM (GMT)
+Last Updated: Friday, June 30th, 2023, 6:15:06 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
