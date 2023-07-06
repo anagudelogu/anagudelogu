@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#8](https://github.com/zdnahom/budget-app/pull/8#pullrequestreview-1515627653) in [zdnahom/budget-app](https://github.com/zdnahom/budget-app)
-2. 👍 Approved [#3](https://github.com/ahmedeid6842/Math-Magicians/pull/3#pullrequestreview-1515545270) in [ahmedeid6842/Math-Magicians](https://github.com/ahmedeid6842/Math-Magicians)
+1. 🔴 Requested 2 change(s) for [#31](https://github.com/khanh-devos/Capstone2-Kanban/pull/31#pullrequestreview-1516590620) in [khanh-devos/Capstone2-Kanban](https://github.com/khanh-devos/Capstone2-Kanban)
+2. 👍 Approved [#8](https://github.com/zdnahom/budget-app/pull/8#pullrequestreview-1515627653) in [zdnahom/budget-app](https://github.com/zdnahom/budget-app)
 3. 👍 Approved [#3](https://github.com/ahmedeid6842/Math-Magicians/pull/3#pullrequestreview-1515545270) in [ahmedeid6842/Math-Magicians](https://github.com/ahmedeid6842/Math-Magicians)
-4. 🔴 Requested 2 change(s) for [#4](https://github.com/federicaulzurrun/SchoolLibrary/pull/4#pullrequestreview-1507960688) in [federicaulzurrun/SchoolLibrary](https://github.com/federicaulzurrun/SchoolLibrary)
-5. 👍 Approved [#2](https://github.com/dieum512/blog-app/pull/2#pullrequestreview-1507950319) in [dieum512/blog-app](https://github.com/dieum512/blog-app)
+4. 👍 Approved [#3](https://github.com/ahmedeid6842/Math-Magicians/pull/3#pullrequestreview-1515545270) in [ahmedeid6842/Math-Magicians](https://github.com/ahmedeid6842/Math-Magicians)
+5. 🔴 Requested 1 change(s) for [#4](https://github.com/federicaulzurrun/SchoolLibrary/pull/4#pullrequestreview-1507960688) in [federicaulzurrun/SchoolLibrary](https://github.com/federicaulzurrun/SchoolLibrary)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 6th, 2023, 12:27:40 PM (GMT)
+Last Updated: Thursday, July 6th, 2023, 6:15:08 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
