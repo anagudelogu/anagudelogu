@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#1](https://github.com/atok624/Budget-App/pull/1#pullrequestreview-1520407382) in [atok624/Budget-App](https://github.com/atok624/Budget-App)
-2. 🔴 Requested 2 change(s) for [#1](https://github.com/Ayokunnumi1/Conference-Page/pull/1#pullrequestreview-1520403554) in [Ayokunnumi1/Conference-Page](https://github.com/Ayokunnumi1/Conference-Page)
-3. 👍 Approved [#58](https://github.com/Log-benjamin/Microverse-Javascript-Capstone/pull/58#pullrequestreview-1520390954) in [Log-benjamin/Microverse-Javascript-Capstone](https://github.com/Log-benjamin/Microverse-Javascript-Capstone)
-4. 👍 Approved [#58](https://github.com/Log-benjamin/Microverse-Javascript-Capstone/pull/58#pullrequestreview-1520390954) in [Log-benjamin/Microverse-Javascript-Capstone](https://github.com/Log-benjamin/Microverse-Javascript-Capstone)
-5. 👍 Approved [#2](https://github.com/Srilearns/Portfolio-Website-Mobile-First/pull/2#pullrequestreview-1520362396) in [Srilearns/Portfolio-Website-Mobile-First](https://github.com/Srilearns/Portfolio-Website-Mobile-First)
+1. 🔴 Requested 2 change(s) for [#29](https://github.com/geekelo/kingflix/pull/29#pullrequestreview-1520737403) in [geekelo/kingflix](https://github.com/geekelo/kingflix)
+2. 👍 Approved [#5](https://github.com/theodoku/budget_app_rails/pull/5#pullrequestreview-1520736081) in [theodoku/budget_app_rails](https://github.com/theodoku/budget_app_rails)
+3. 👍 Approved [#6](https://github.com/LoviMadaan/Simple_blog/pull/6#pullrequestreview-1520733710) in [LoviMadaan/Simple_blog](https://github.com/LoviMadaan/Simple_blog)
+4. 👍 Approved [#4](https://github.com/akbarsazish/Leaderboard/pull/4#pullrequestreview-1520729167) in [akbarsazish/Leaderboard](https://github.com/akbarsazish/Leaderboard)
+5. 👍 Approved [#1](https://github.com/atok624/Budget-App/pull/1#pullrequestreview-1520407382) in [atok624/Budget-App](https://github.com/atok624/Budget-App)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, July 8th, 2023, 12:23:12 PM (GMT)
+Last Updated: Saturday, July 8th, 2023, 6:14:26 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
