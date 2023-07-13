@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#7](https://github.com/muneeb3123/library-books/pull/7#pullrequestreview-1527427277) in [muneeb3123/library-books](https://github.com/muneeb3123/library-books)
-2. 👍 Approved [#3](https://github.com/bohaz/math-magicians/pull/3#pullrequestreview-1527407015) in [bohaz/math-magicians](https://github.com/bohaz/math-magicians)
-3. 👍 Approved [#2](https://github.com/oguntayomicheal/Blogs-App/pull/2#pullrequestreview-1527356859) in [oguntayomicheal/Blogs-App](https://github.com/oguntayomicheal/Blogs-App)
-4. 👍 Approved [#1](https://github.com/MargaretTechworld/ToDO-Tasks/pull/1#pullrequestreview-1527352604) in [MargaretTechworld/ToDO-Tasks](https://github.com/MargaretTechworld/ToDO-Tasks)
-5. 👍 Approved [#3](https://github.com/Zilola-Nazarova/to-do-list/pull/3#pullrequestreview-1527351532) in [Zilola-Nazarova/to-do-list](https://github.com/Zilola-Nazarova/to-do-list)
+1. 🔴 Requested 2 change(s) for [#2](https://github.com/AbbasSarwar/BlogApp/pull/2#pullrequestreview-1528679120) in [AbbasSarwar/BlogApp](https://github.com/AbbasSarwar/BlogApp)
+2. 👍 Approved [#4](https://github.com/Kwamay/My-Porforlio/pull/4#pullrequestreview-1528665516) in [Kwamay/My-Porforlio](https://github.com/Kwamay/My-Porforlio)
+3. 🔴 Requested 2 change(s) for [#2](https://github.com/2004-okari/TODOLIST/pull/2#pullrequestreview-1528571056) in [2004-okari/TODOLIST](https://github.com/2004-okari/TODOLIST)
+4. 👍 Approved [#7](https://github.com/muneeb3123/library-books/pull/7#pullrequestreview-1527427277) in [muneeb3123/library-books](https://github.com/muneeb3123/library-books)
+5. 👍 Approved [#3](https://github.com/bohaz/math-magicians/pull/3#pullrequestreview-1527407015) in [bohaz/math-magicians](https://github.com/bohaz/math-magicians)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 13th, 2023, 12:26:59 PM (GMT)
+Last Updated: Thursday, July 13th, 2023, 6:15:33 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
