@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#3](https://github.com/mohashyne/math_magicians_app/pull/3#pullrequestreview-1531169687) in [mohashyne/math_magicians_app](https://github.com/mohashyne/math_magicians_app)
-2. 👍 Approved [#7](https://github.com/abiola-arobieke/OOP-school-library/pull/7#pullrequestreview-1531153388) in [abiola-arobieke/OOP-school-library](https://github.com/abiola-arobieke/OOP-school-library)
-3. 👍 Approved [#1](https://github.com/fickryiman/bookstore-cms-rep/pull/1#pullrequestreview-1529425828) in [fickryiman/bookstore-cms-rep](https://github.com/fickryiman/bookstore-cms-rep)
-4. 👍 Approved [#1](https://github.com/tatouroberto/project-portfolio/pull/1#pullrequestreview-1529421603) in [tatouroberto/project-portfolio](https://github.com/tatouroberto/project-portfolio)
-5. 🔴 Requested 1 change(s) for [#2](https://github.com/AbbasSarwar/BlogApp/pull/2#pullrequestreview-1528679120) in [AbbasSarwar/BlogApp](https://github.com/AbbasSarwar/BlogApp)
+1. 🔴 Requested 2 change(s) for [#2](https://github.com/vvoo21/Blog-App-Rails/pull/2#pullrequestreview-1531217270) in [vvoo21/Blog-App-Rails](https://github.com/vvoo21/Blog-App-Rails)
+2. 🔴 Requested 2 change(s) for [#3](https://github.com/mohashyne/math_magicians_app/pull/3#pullrequestreview-1531169687) in [mohashyne/math_magicians_app](https://github.com/mohashyne/math_magicians_app)
+3. 👍 Approved [#7](https://github.com/abiola-arobieke/OOP-school-library/pull/7#pullrequestreview-1531153388) in [abiola-arobieke/OOP-school-library](https://github.com/abiola-arobieke/OOP-school-library)
+4. 👍 Approved [#1](https://github.com/fickryiman/bookstore-cms-rep/pull/1#pullrequestreview-1529425828) in [fickryiman/bookstore-cms-rep](https://github.com/fickryiman/bookstore-cms-rep)
+5. 👍 Approved [#1](https://github.com/tatouroberto/project-portfolio/pull/1#pullrequestreview-1529421603) in [tatouroberto/project-portfolio](https://github.com/tatouroberto/project-portfolio)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, July 15th, 2023, 1:14:44 AM (GMT)
+Last Updated: Saturday, July 15th, 2023, 6:15:18 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
