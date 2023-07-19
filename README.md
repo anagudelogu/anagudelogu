@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#4](https://github.com/TayyabKM/blog-app/pull/4#pullrequestreview-1535433917) in [TayyabKM/blog-app](https://github.com/TayyabKM/blog-app)
-2. 🔴 Requested 2 change(s) for [#2](https://github.com/Elhambasir/blog-app/pull/2#pullrequestreview-1535378923) in [Elhambasir/blog-app](https://github.com/Elhambasir/blog-app)
-3. 👍 Approved [#1](https://github.com/BiancaMe/Awesome-ES6/pull/1#pullrequestreview-1533864291) in [BiancaMe/Awesome-ES6](https://github.com/BiancaMe/Awesome-ES6)
-4. 👍 Approved [#1](https://github.com/romans-adi/database-from-diagram/pull/1#pullrequestreview-1533824366) in [romans-adi/database-from-diagram](https://github.com/romans-adi/database-from-diagram)
-5. 👍 Approved [#2](https://github.com/alexiscyber14/rails_backend/pull/2#pullrequestreview-1533818124) in [alexiscyber14/rails_backend](https://github.com/alexiscyber14/rails_backend)
+1. 🔴 Requested 2 change(s) for [#1](https://github.com/torobucci/hello-rails-back-end/pull/1#pullrequestreview-1536011909) in [torobucci/hello-rails-back-end](https://github.com/torobucci/hello-rails-back-end)
+2. 🔴 Requested 2 change(s) for [#1](https://github.com/torobucci/hello-react-front-end/pull/1#pullrequestreview-1536016423) in [torobucci/hello-react-front-end](https://github.com/torobucci/hello-react-front-end)
+3. 🔴 Requested 2 change(s) for [#2](https://github.com/Zven94/Bookstore/pull/2#pullrequestreview-1535995980) in [Zven94/Bookstore](https://github.com/Zven94/Bookstore)
+4. 👍 Approved [#4](https://github.com/TayyabKM/blog-app/pull/4#pullrequestreview-1535962866) in [TayyabKM/blog-app](https://github.com/TayyabKM/blog-app)
+5. 👍 Approved [#4](https://github.com/Jeddaa/rails-blog/pull/4#pullrequestreview-1535960279) in [Jeddaa/rails-blog](https://github.com/Jeddaa/rails-blog)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 18th, 2023, 6:15:22 PM (GMT)
+Last Updated: Wednesday, July 19th, 2023, 2:13:44 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
