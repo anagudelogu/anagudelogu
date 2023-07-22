@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#7](https://github.com/touredri/blog/pull/7#pullrequestreview-1541985842) in [touredri/blog](https://github.com/touredri/blog)
-2. 🔴 Requested 2 change(s) for [#1](https://github.com/Log-benjamin/React-Bookstore/pull/1#pullrequestreview-1541969761) in [Log-benjamin/React-Bookstore](https://github.com/Log-benjamin/React-Bookstore)
-3. 👍 Approved [#7](https://github.com/joyapisi/blog_app/pull/7#pullrequestreview-1541848052) in [joyapisi/blog_app](https://github.com/joyapisi/blog_app)
+1. 👍 Approved [#7](https://github.com/lugard1/blog/pull/7#pullrequestreview-1541993168) in [lugard1/blog](https://github.com/lugard1/blog)
+2. 🔴 Requested 2 change(s) for [#7](https://github.com/touredri/blog/pull/7#pullrequestreview-1541985842) in [touredri/blog](https://github.com/touredri/blog)
+3. 🔴 Requested 2 change(s) for [#1](https://github.com/Log-benjamin/React-Bookstore/pull/1#pullrequestreview-1541969761) in [Log-benjamin/React-Bookstore](https://github.com/Log-benjamin/React-Bookstore)
 4. 👍 Approved [#7](https://github.com/joyapisi/blog_app/pull/7#pullrequestreview-1541848052) in [joyapisi/blog_app](https://github.com/joyapisi/blog_app)
-5. 👍 Approved [#3](https://github.com/osmanwako/blog_application/pull/3#pullrequestreview-1541731271) in [osmanwako/blog_application](https://github.com/osmanwako/blog_application)
+5. 👍 Approved [#7](https://github.com/joyapisi/blog_app/pull/7#pullrequestreview-1541848052) in [joyapisi/blog_app](https://github.com/joyapisi/blog_app)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, July 22nd, 2023, 1:04:03 AM (GMT)
+Last Updated: Saturday, July 22nd, 2023, 6:13:18 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
