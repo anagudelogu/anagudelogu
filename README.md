@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#1](https://github.com/getssh/budget_app/pull/1#pullrequestreview-1543354452) in [getssh/budget_app](https://github.com/getssh/budget_app)
-2. 👍 Approved [#4](https://github.com/DevKaranJ/DevPortfolio/pull/4#pullrequestreview-1543332821) in [DevKaranJ/DevPortfolio](https://github.com/DevKaranJ/DevPortfolio)
-3. 👍 Approved [#8](https://github.com/shimels1/portfolio_microverse/pull/8#pullrequestreview-1543291997) in [shimels1/portfolio_microverse](https://github.com/shimels1/portfolio_microverse)
-4. 👍 Approved [#5](https://github.com/VelzckC0D3/blog_app_rails/pull/5#pullrequestreview-1542161251) in [VelzckC0D3/blog_app_rails](https://github.com/VelzckC0D3/blog_app_rails)
-5. 👍 Approved [#4](https://github.com/VelzckC0D3/blog_app_rails/pull/4#pullrequestreview-1542159582) in [VelzckC0D3/blog_app_rails](https://github.com/VelzckC0D3/blog_app_rails)
+1. 👍 Approved [#1](https://github.com/romans-adi/school-library/pull/1#pullrequestreview-1543618067) in [romans-adi/school-library](https://github.com/romans-adi/school-library)
+2. 👍 Approved [#9](https://github.com/brighton0102/portfolio-01/pull/9#pullrequestreview-1543604426) in [brighton0102/portfolio-01](https://github.com/brighton0102/portfolio-01)
+3. 👍 Approved [#9](https://github.com/brighton0102/portfolio-01/pull/9#pullrequestreview-1543604426) in [brighton0102/portfolio-01](https://github.com/brighton0102/portfolio-01)
+4. 👍 Approved [#2](https://github.com/RileyManda/bookstore/pull/2#pullrequestreview-1543575363) in [RileyManda/bookstore](https://github.com/RileyManda/bookstore)
+5. 🔴 Requested 1 change(s) for [#1](https://github.com/SergioPeralta22/MV-School/pull/1#pullrequestreview-1543546998) in [SergioPeralta22/MV-School](https://github.com/SergioPeralta22/MV-School)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 24th, 2023, 12:22:50 PM (GMT)
+Last Updated: Monday, July 24th, 2023, 6:15:31 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
