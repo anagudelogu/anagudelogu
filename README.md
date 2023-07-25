@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#1](https://github.com/romans-adi/school-library/pull/1#pullrequestreview-1543618067) in [romans-adi/school-library](https://github.com/romans-adi/school-library)
-2. 👍 Approved [#9](https://github.com/brighton0102/portfolio-01/pull/9#pullrequestreview-1543604426) in [brighton0102/portfolio-01](https://github.com/brighton0102/portfolio-01)
-3. 👍 Approved [#9](https://github.com/brighton0102/portfolio-01/pull/9#pullrequestreview-1543604426) in [brighton0102/portfolio-01](https://github.com/brighton0102/portfolio-01)
-4. 👍 Approved [#2](https://github.com/RileyManda/bookstore/pull/2#pullrequestreview-1543575363) in [RileyManda/bookstore](https://github.com/RileyManda/bookstore)
-5. 🔴 Requested 1 change(s) for [#1](https://github.com/SergioPeralta22/MV-School/pull/1#pullrequestreview-1543546998) in [SergioPeralta22/MV-School](https://github.com/SergioPeralta22/MV-School)
+1. 👍 Approved [#14](https://github.com/migcm06/miguel-portfolio/pull/14#pullrequestreview-1545913061) in [migcm06/miguel-portfolio](https://github.com/migcm06/miguel-portfolio)
+2. 🔴 Requested 2 change(s) for [#2](https://github.com/DjibrilM/book-store/pull/2#pullrequestreview-1545863464) in [DjibrilM/book-store](https://github.com/DjibrilM/book-store)
+3. 👍 Approved [#4](https://github.com/hernandanielzamora/Bloggerly/pull/4#pullrequestreview-1545827010) in [hernandanielzamora/Bloggerly](https://github.com/hernandanielzamora/Bloggerly)
+4. 🔴 Requested 2 change(s) for [#2](https://github.com/misalazeem/School-Library/pull/2#pullrequestreview-1545799570) in [misalazeem/School-Library](https://github.com/misalazeem/School-Library)
+5. 🔴 Requested 1 change(s) for [#9](https://github.com/stephenkati/blog/pull/9#pullrequestreview-1545712274) in [stephenkati/blog](https://github.com/stephenkati/blog)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 25th, 2023, 12:23:51 PM (GMT)
+Last Updated: Tuesday, July 25th, 2023, 6:13:22 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
