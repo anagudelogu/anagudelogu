@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#4](https://github.com/AsumVictor/Book-Haven/pull/4#pullrequestreview-1550037497) in [AsumVictor/Book-Haven](https://github.com/AsumVictor/Book-Haven)
-2. 👍 Approved [#2](https://github.com/arnoldnekemiah/Leaderboard/pull/2#pullrequestreview-1550001763) in [arnoldnekemiah/Leaderboard](https://github.com/arnoldnekemiah/Leaderboard)
-3. 👍 Approved [#4](https://github.com/yaredtekle022/bookstore/pull/4#pullrequestreview-1548050025) in [yaredtekle022/bookstore](https://github.com/yaredtekle022/bookstore)
-4. 👍 Approved [#4](https://github.com/yaredtekle022/bookstore/pull/4#pullrequestreview-1548050025) in [yaredtekle022/bookstore](https://github.com/yaredtekle022/bookstore)
-5. 👍 Approved [#2](https://github.com/Zilola-Nazarova/leaderboard/pull/2#pullrequestreview-1546688546) in [Zilola-Nazarova/leaderboard](https://github.com/Zilola-Nazarova/leaderboard)
+1. 🔴 Requested 2 change(s) for [#4](https://github.com/Aqurds/bookstore/pull/4#pullrequestreview-1552139575) in [Aqurds/bookstore](https://github.com/Aqurds/bookstore)
+2. 🔴 Requested 2 change(s) for [#10](https://github.com/joyapisi/blog_app/pull/10#pullrequestreview-1552044524) in [joyapisi/blog_app](https://github.com/joyapisi/blog_app)
+3. 👍 Approved [#10](https://github.com/Booze33/blog-app/pull/10#pullrequestreview-1552032106) in [Booze33/blog-app](https://github.com/Booze33/blog-app)
+4. 🔴 Requested 2 change(s) for [#4](https://github.com/AsumVictor/Book-Haven/pull/4#pullrequestreview-1550037497) in [AsumVictor/Book-Haven](https://github.com/AsumVictor/Book-Haven)
+5. 👍 Approved [#2](https://github.com/arnoldnekemiah/Leaderboard/pull/2#pullrequestreview-1550001763) in [arnoldnekemiah/Leaderboard](https://github.com/arnoldnekemiah/Leaderboard)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 28th, 2023, 12:21:34 PM (GMT)
+Last Updated: Friday, July 28th, 2023, 6:12:22 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
