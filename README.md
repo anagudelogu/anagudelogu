@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#4](https://github.com/Aqurds/bookstore/pull/4#pullrequestreview-1552139575) in [Aqurds/bookstore](https://github.com/Aqurds/bookstore)
-2. 🔴 Requested 2 change(s) for [#10](https://github.com/joyapisi/blog_app/pull/10#pullrequestreview-1552044524) in [joyapisi/blog_app](https://github.com/joyapisi/blog_app)
-3. 👍 Approved [#10](https://github.com/Booze33/blog-app/pull/10#pullrequestreview-1552032106) in [Booze33/blog-app](https://github.com/Booze33/blog-app)
-4. 🔴 Requested 2 change(s) for [#4](https://github.com/AsumVictor/Book-Haven/pull/4#pullrequestreview-1550037497) in [AsumVictor/Book-Haven](https://github.com/AsumVictor/Book-Haven)
-5. 👍 Approved [#2](https://github.com/arnoldnekemiah/Leaderboard/pull/2#pullrequestreview-1550001763) in [arnoldnekemiah/Leaderboard](https://github.com/arnoldnekemiah/Leaderboard)
+1. 👍 Approved [#10](https://github.com/Kwaku28/foodbliss_blog/pull/10#pullrequestreview-1553111906) in [Kwaku28/foodbliss_blog](https://github.com/Kwaku28/foodbliss_blog)
+2. 🔴 Requested 2 change(s) for [#4](https://github.com/Aqurds/bookstore/pull/4#pullrequestreview-1552139575) in [Aqurds/bookstore](https://github.com/Aqurds/bookstore)
+3. 🔴 Requested 2 change(s) for [#10](https://github.com/joyapisi/blog_app/pull/10#pullrequestreview-1552044524) in [joyapisi/blog_app](https://github.com/joyapisi/blog_app)
+4. 👍 Approved [#10](https://github.com/Booze33/blog-app/pull/10#pullrequestreview-1552032106) in [Booze33/blog-app](https://github.com/Booze33/blog-app)
+5. 🔴 Requested 1 change(s) for [#4](https://github.com/AsumVictor/Book-Haven/pull/4#pullrequestreview-1550037497) in [AsumVictor/Book-Haven](https://github.com/AsumVictor/Book-Haven)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 28th, 2023, 6:12:22 PM (GMT)
+Last Updated: Saturday, July 29th, 2023, 12:59:38 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
