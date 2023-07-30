@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#4](https://github.com/lorenzoworx/bookWarden/pull/4#pullrequestreview-1553495486) in [lorenzoworx/bookWarden](https://github.com/lorenzoworx/bookWarden)
-2. 🔴 Requested 2 change(s) for [#1](https://github.com/maths29/Book-store/pull/1#pullrequestreview-1553490803) in [maths29/Book-store](https://github.com/maths29/Book-store)
-3. 👍 Approved [#10](https://github.com/Kwaku28/foodbliss_blog/pull/10#pullrequestreview-1553111906) in [Kwaku28/foodbliss_blog](https://github.com/Kwaku28/foodbliss_blog)
-4. 🔴 Requested 2 change(s) for [#4](https://github.com/Aqurds/bookstore/pull/4#pullrequestreview-1552139575) in [Aqurds/bookstore](https://github.com/Aqurds/bookstore)
-5. 🔴 Requested 1 change(s) for [#10](https://github.com/joyapisi/blog_app/pull/10#pullrequestreview-1552044524) in [joyapisi/blog_app](https://github.com/joyapisi/blog_app)
+1. 🔴 Requested 2 change(s) for [#10](https://github.com/VelzckC0D3/blog_app_rails/pull/10#pullrequestreview-1553538027) in [VelzckC0D3/blog_app_rails](https://github.com/VelzckC0D3/blog_app_rails)
+2. 👍 Approved [#4](https://github.com/lorenzoworx/bookWarden/pull/4#pullrequestreview-1553495486) in [lorenzoworx/bookWarden](https://github.com/lorenzoworx/bookWarden)
+3. 🔴 Requested 2 change(s) for [#1](https://github.com/maths29/Book-store/pull/1#pullrequestreview-1553490803) in [maths29/Book-store](https://github.com/maths29/Book-store)
+4. 👍 Approved [#10](https://github.com/Kwaku28/foodbliss_blog/pull/10#pullrequestreview-1553111906) in [Kwaku28/foodbliss_blog](https://github.com/Kwaku28/foodbliss_blog)
+5. 🔴 Requested 1 change(s) for [#4](https://github.com/Aqurds/bookstore/pull/4#pullrequestreview-1552139575) in [Aqurds/bookstore](https://github.com/Aqurds/bookstore)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, July 30th, 2023, 1:01:28 AM (GMT)
+Last Updated: Sunday, July 30th, 2023, 6:12:59 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
