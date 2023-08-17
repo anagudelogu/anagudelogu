@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#2](https://github.com/CVILLA09/Math-Magicians/pull/2#pullrequestreview-1581561007) in [CVILLA09/Math-Magicians](https://github.com/CVILLA09/Math-Magicians)
-2. 🔴 Requested 2 change(s) for [#1](https://github.com/Sami-Ullah-Tufail/Awesome-books-ES6/pull/1#pullrequestreview-1581507136) in [Sami-Ullah-Tufail/Awesome-books-ES6](https://github.com/Sami-Ullah-Tufail/Awesome-books-ES6)
-3. 👍 Approved [#13](https://github.com/Simpleshaikh1/math-magician/pull/13#pullrequestreview-1578835299) in [Simpleshaikh1/math-magician](https://github.com/Simpleshaikh1/math-magician)
-4. 🔴 Requested 2 change(s) for [#1](https://github.com/r-ahmed2022/helloworld/pull/1#pullrequestreview-1578743818) in [r-ahmed2022/helloworld](https://github.com/r-ahmed2022/helloworld)
-5. 👍 Approved [#3](https://github.com/AJ193/Vet_clinic/pull/3#pullrequestreview-1578640356) in [AJ193/Vet_clinic](https://github.com/AJ193/Vet_clinic)
+1. 👍 Approved [#2](https://github.com/DilsherB/ror-blog-app/pull/2#pullrequestreview-1582883774) in [DilsherB/ror-blog-app](https://github.com/DilsherB/ror-blog-app)
+2. 👍 Approved [#2](https://github.com/DilsherB/ror-blog-app/pull/2#pullrequestreview-1582883774) in [DilsherB/ror-blog-app](https://github.com/DilsherB/ror-blog-app)
+3. 🔴 Requested 2 change(s) for [#3](https://github.com/misalazeem/Blog-App-Rails/pull/3#pullrequestreview-1582803161) in [misalazeem/Blog-App-Rails](https://github.com/misalazeem/Blog-App-Rails)
+4. 👍 Approved [#3](https://github.com/tumainimaganiko/blog_app/pull/3#pullrequestreview-1582748487) in [tumainimaganiko/blog_app](https://github.com/tumainimaganiko/blog_app)
+5. 👍 Approved [#3](https://github.com/tumainimaganiko/blog_app/pull/3#pullrequestreview-1582748487) in [tumainimaganiko/blog_app](https://github.com/tumainimaganiko/blog_app)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 17th, 2023, 12:19:51 PM (GMT)
+Last Updated: Thursday, August 17th, 2023, 6:13:26 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
