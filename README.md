@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#4](https://github.com/mrcbq/Blogger-Rails/pull/4#pullrequestreview-1592498674) in [mrcbq/Blogger-Rails](https://github.com/mrcbq/Blogger-Rails)
-2. 👍 Approved [#3](https://github.com/binodbhusal/BlogApp/pull/3#pullrequestreview-1592479504) in [binodbhusal/BlogApp](https://github.com/binodbhusal/BlogApp)
-3. 👍 Approved [#2](https://github.com/the-faizmohammad/MathsMagicians/pull/2#pullrequestreview-1592473132) in [the-faizmohammad/MathsMagicians](https://github.com/the-faizmohammad/MathsMagicians)
-4. 👍 Approved [#6](https://github.com/tajemouti/math-magicians/pull/6#pullrequestreview-1592469956) in [tajemouti/math-magicians](https://github.com/tajemouti/math-magicians)
-5. 🔴 Requested 1 change(s) for [#52](https://github.com/sahlminkok/catalog-of-my-things/pull/52#pullrequestreview-1592436050) in [sahlminkok/catalog-of-my-things](https://github.com/sahlminkok/catalog-of-my-things)
+1. 👍 Approved [#6](https://github.com/shihabrafio/Blog_App/pull/6#pullrequestreview-1593826066) in [shihabrafio/Blog_App](https://github.com/shihabrafio/Blog_App)
+2. 👍 Approved [#6](https://github.com/shihabrafio/Blog_App/pull/6#pullrequestreview-1593826066) in [shihabrafio/Blog_App](https://github.com/shihabrafio/Blog_App)
+3. 👍 Approved [#6](https://github.com/AlselwiAisha/To-Do-list-M2/pull/6#pullrequestreview-1593805111) in [AlselwiAisha/To-Do-list-M2](https://github.com/AlselwiAisha/To-Do-list-M2)
+4. 🔴 Requested 2 change(s) for [#5](https://github.com/Simpleshaikh1/book-store-cra/pull/5#pullrequestreview-1593785262) in [Simpleshaikh1/book-store-cra](https://github.com/Simpleshaikh1/book-store-cra)
+5. 👍 Approved [#4](https://github.com/mrcbq/Blogger-Rails/pull/4#pullrequestreview-1592498674) in [mrcbq/Blogger-Rails](https://github.com/mrcbq/Blogger-Rails)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 24th, 2023, 12:20:30 PM (GMT)
+Last Updated: Thursday, August 24th, 2023, 6:13:20 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
