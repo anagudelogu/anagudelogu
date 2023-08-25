@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#6](https://github.com/shihabrafio/Blog_App/pull/6#pullrequestreview-1593826066) in [shihabrafio/Blog_App](https://github.com/shihabrafio/Blog_App)
-2. 👍 Approved [#6](https://github.com/shihabrafio/Blog_App/pull/6#pullrequestreview-1593826066) in [shihabrafio/Blog_App](https://github.com/shihabrafio/Blog_App)
-3. 👍 Approved [#6](https://github.com/AlselwiAisha/To-Do-list-M2/pull/6#pullrequestreview-1593805111) in [AlselwiAisha/To-Do-list-M2](https://github.com/AlselwiAisha/To-Do-list-M2)
-4. 🔴 Requested 2 change(s) for [#5](https://github.com/Simpleshaikh1/book-store-cra/pull/5#pullrequestreview-1593785262) in [Simpleshaikh1/book-store-cra](https://github.com/Simpleshaikh1/book-store-cra)
-5. 👍 Approved [#4](https://github.com/mrcbq/Blogger-Rails/pull/4#pullrequestreview-1592498674) in [mrcbq/Blogger-Rails](https://github.com/mrcbq/Blogger-Rails)
+1. 👍 Approved [#2](https://github.com/Katended/blog_app/pull/2#pullrequestreview-1594498537) in [Katended/blog_app](https://github.com/Katended/blog_app)
+2. 👍 Approved [#2](https://github.com/Katended/blog_app/pull/2#pullrequestreview-1594498537) in [Katended/blog_app](https://github.com/Katended/blog_app)
+3. 🔴 Requested 2 change(s) for [#4](https://github.com/JavierAybar/BookStore_React_Redux/pull/4#pullrequestreview-1594476418) in [JavierAybar/BookStore_React_Redux](https://github.com/JavierAybar/BookStore_React_Redux)
+4. 👍 Approved [#10](https://github.com/smas0900/Awesome-books/pull/10#pullrequestreview-1594450383) in [smas0900/Awesome-books](https://github.com/smas0900/Awesome-books)
+5. 🔴 Requested 1 change(s) for [#4](https://github.com/anyars-encarta/math-magician/pull/4#pullrequestreview-1594041548) in [anyars-encarta/math-magician](https://github.com/anyars-encarta/math-magician)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 24th, 2023, 6:13:20 PM (GMT)
+Last Updated: Friday, August 25th, 2023, 12:50:06 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
