@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#2](https://github.com/Katended/blog_app/pull/2#pullrequestreview-1594498537) in [Katended/blog_app](https://github.com/Katended/blog_app)
-2. 👍 Approved [#2](https://github.com/Katended/blog_app/pull/2#pullrequestreview-1594498537) in [Katended/blog_app](https://github.com/Katended/blog_app)
-3. 🔴 Requested 2 change(s) for [#4](https://github.com/JavierAybar/BookStore_React_Redux/pull/4#pullrequestreview-1594476418) in [JavierAybar/BookStore_React_Redux](https://github.com/JavierAybar/BookStore_React_Redux)
-4. 👍 Approved [#10](https://github.com/smas0900/Awesome-books/pull/10#pullrequestreview-1594450383) in [smas0900/Awesome-books](https://github.com/smas0900/Awesome-books)
-5. 🔴 Requested 1 change(s) for [#4](https://github.com/anyars-encarta/math-magician/pull/4#pullrequestreview-1594041548) in [anyars-encarta/math-magician](https://github.com/anyars-encarta/math-magician)
+1. 👍 Approved [#5](https://github.com/tan12082001/project-bookstore/pull/5#pullrequestreview-1595910526) in [tan12082001/project-bookstore](https://github.com/tan12082001/project-bookstore)
+2. 🔴 Requested 2 change(s) for [#7](https://github.com/Reggeditt/blog-rails/pull/7#pullrequestreview-1595814126) in [Reggeditt/blog-rails](https://github.com/Reggeditt/blog-rails)
+3. 👍 Approved [#7](https://github.com/momo-87/blog-app/pull/7#pullrequestreview-1595759669) in [momo-87/blog-app](https://github.com/momo-87/blog-app)
+4. 🔴 Requested 2 change(s) for [#2](https://github.com/emarkees/Gist_Blog/pull/2#pullrequestreview-1595718068) in [emarkees/Gist_Blog](https://github.com/emarkees/Gist_Blog)
+5. 🔴 Requested 1 change(s) for [#9](https://github.com/ismayito/Todo-list-project/pull/9#pullrequestreview-1595705186) in [ismayito/Todo-list-project](https://github.com/ismayito/Todo-list-project)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 25th, 2023, 12:20:03 PM (GMT)
+Last Updated: Friday, August 25th, 2023, 6:13:30 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
