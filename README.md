@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#5](https://github.com/tan12082001/project-bookstore/pull/5#pullrequestreview-1595910526) in [tan12082001/project-bookstore](https://github.com/tan12082001/project-bookstore)
-2. 🔴 Requested 2 change(s) for [#7](https://github.com/Reggeditt/blog-rails/pull/7#pullrequestreview-1595814126) in [Reggeditt/blog-rails](https://github.com/Reggeditt/blog-rails)
-3. 👍 Approved [#7](https://github.com/momo-87/blog-app/pull/7#pullrequestreview-1595759669) in [momo-87/blog-app](https://github.com/momo-87/blog-app)
-4. 🔴 Requested 2 change(s) for [#2](https://github.com/emarkees/Gist_Blog/pull/2#pullrequestreview-1595718068) in [emarkees/Gist_Blog](https://github.com/emarkees/Gist_Blog)
-5. 🔴 Requested 1 change(s) for [#9](https://github.com/ismayito/Todo-list-project/pull/9#pullrequestreview-1595705186) in [ismayito/Todo-list-project](https://github.com/ismayito/Todo-list-project)
+1. 👍 Approved [#1](https://github.com/NoelLincoln/to-do-list/pull/1#pullrequestreview-1598110959) in [NoelLincoln/to-do-list](https://github.com/NoelLincoln/to-do-list)
+2. 👍 Approved [#3](https://github.com/rmiyoyo/Leaderboard-App/pull/3#pullrequestreview-1598079424) in [rmiyoyo/Leaderboard-App](https://github.com/rmiyoyo/Leaderboard-App)
+3. 🔴 Requested 2 change(s) for [#1](https://github.com/addisalemseifu/library-app-ruby/pull/1#pullrequestreview-1598062545) in [addisalemseifu/library-app-ruby](https://github.com/addisalemseifu/library-app-ruby)
+4. 👍 Approved [#5](https://github.com/tan12082001/project-bookstore/pull/5#pullrequestreview-1595910526) in [tan12082001/project-bookstore](https://github.com/tan12082001/project-bookstore)
+5. 🔴 Requested 1 change(s) for [#7](https://github.com/Reggeditt/blog-rails/pull/7#pullrequestreview-1595814126) in [Reggeditt/blog-rails](https://github.com/Reggeditt/blog-rails)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 28th, 2023, 6:14:26 AM (GMT)
+Last Updated: Monday, August 28th, 2023, 12:21:22 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
