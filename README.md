@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#5](https://github.com/uno36/blog-app-rails/pull/5#pullrequestreview-1601718167) in [uno36/blog-app-rails](https://github.com/uno36/blog-app-rails)
-2. 🔴 Requested 2 change(s) for [#6](https://github.com/Marcraphael12/rails_blog_app/pull/6#pullrequestreview-1601641297) in [Marcraphael12/rails_blog_app](https://github.com/Marcraphael12/rails_blog_app)
-3. 👍 Approved [#1](https://github.com/alex1779/leaderboard/pull/1#pullrequestreview-1601627692) in [alex1779/leaderboard](https://github.com/alex1779/leaderboard)
-4. 👍 Approved [#8](https://github.com/lordksix/blog-by-rails/pull/8#pullrequestreview-1601616387) in [lordksix/blog-by-rails](https://github.com/lordksix/blog-by-rails)
-5. 👍 Approved [#1](https://github.com/HFG43/OOP-school-library/pull/1#pullrequestreview-1601598896) in [HFG43/OOP-school-library](https://github.com/HFG43/OOP-school-library)
+1. 👍 Approved [#5](https://github.com/Peter-Dumbari/Blog-Application/pull/5#pullrequestreview-1602609656) in [Peter-Dumbari/Blog-Application](https://github.com/Peter-Dumbari/Blog-Application)
+2. 🔴 Requested 2 change(s) for [#3](https://github.com/rabayarabu/OOP-school-library/pull/3#pullrequestreview-1602579601) in [rabayarabu/OOP-school-library](https://github.com/rabayarabu/OOP-school-library)
+3. 🔴 Requested 2 change(s) for [#5](https://github.com/uno36/blog-app-rails/pull/5#pullrequestreview-1601718167) in [uno36/blog-app-rails](https://github.com/uno36/blog-app-rails)
+4. 🔴 Requested 2 change(s) for [#6](https://github.com/Marcraphael12/rails_blog_app/pull/6#pullrequestreview-1601641297) in [Marcraphael12/rails_blog_app](https://github.com/Marcraphael12/rails_blog_app)
+5. 👍 Approved [#1](https://github.com/alex1779/leaderboard/pull/1#pullrequestreview-1601627692) in [alex1779/leaderboard](https://github.com/alex1779/leaderboard)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 30th, 2023, 12:20:59 PM (GMT)
+Last Updated: Wednesday, August 30th, 2023, 6:13:43 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
