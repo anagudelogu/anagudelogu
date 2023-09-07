@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#2](https://github.com/leloufadel/OOP-School-Library/pull/2#pullrequestreview-1613119166) in [leloufadel/OOP-School-Library](https://github.com/leloufadel/OOP-School-Library)
-2. 👍 Approved [#6](https://github.com/marvin-nyalik/School-Library/pull/6#pullrequestreview-1613086220) in [marvin-nyalik/School-Library](https://github.com/marvin-nyalik/School-Library)
-3. 🔴 Requested 2 change(s) for [#2](https://github.com/H-Ramalan/school-library/pull/2#pullrequestreview-1613058827) in [H-Ramalan/school-library](https://github.com/H-Ramalan/school-library)
-4. 👍 Approved [#3](https://github.com/tchasinga/ruby-oop-programming/pull/3#pullrequestreview-1613037418) in [tchasinga/ruby-oop-programming](https://github.com/tchasinga/ruby-oop-programming)
-5. 🔴 Requested 1 change(s) for [#8](https://github.com/forLoop94/blogApp/pull/8#pullrequestreview-1611397045) in [forLoop94/blogApp](https://github.com/forLoop94/blogApp)
+1. 🔴 Requested 2 change(s) for [#7](https://github.com/lorenzoworx/velvetScribe/pull/7#pullrequestreview-1614333471) in [lorenzoworx/velvetScribe](https://github.com/lorenzoworx/velvetScribe)
+2. 🔴 Requested 2 change(s) for [#2](https://github.com/leloufadel/OOP-School-Library/pull/2#pullrequestreview-1613119166) in [leloufadel/OOP-School-Library](https://github.com/leloufadel/OOP-School-Library)
+3. 👍 Approved [#6](https://github.com/marvin-nyalik/School-Library/pull/6#pullrequestreview-1613086220) in [marvin-nyalik/School-Library](https://github.com/marvin-nyalik/School-Library)
+4. 🔴 Requested 2 change(s) for [#2](https://github.com/H-Ramalan/school-library/pull/2#pullrequestreview-1613058827) in [H-Ramalan/school-library](https://github.com/H-Ramalan/school-library)
+5. 👍 Approved [#3](https://github.com/tchasinga/ruby-oop-programming/pull/3#pullrequestreview-1613037418) in [tchasinga/ruby-oop-programming](https://github.com/tchasinga/ruby-oop-programming)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 6th, 2023, 6:13:48 PM (GMT)
+Last Updated: Thursday, September 7th, 2023, 12:49:54 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
