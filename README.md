@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#1](https://github.com/Wils-FOURR-speed/react-metrics-capstone/pull/1#pullrequestreview-1617544148) in [Wils-FOURR-speed/react-metrics-capstone](https://github.com/Wils-FOURR-speed/react-metrics-capstone)
-2. 🔴 Requested 2 change(s) for [#8](https://github.com/coker2019/metrics_app/pull/8#pullrequestreview-1617460727) in [coker2019/metrics_app](https://github.com/coker2019/metrics_app)
-3. 🔴 Requested 2 change(s) for [#2](https://github.com/mohashyne/school_library/pull/2#pullrequestreview-1615742587) in [mohashyne/school_library](https://github.com/mohashyne/school_library)
-4. 👍 Approved [#7](https://github.com/PabloBona/school_library/pull/7#pullrequestreview-1614444301) in [PabloBona/school_library](https://github.com/PabloBona/school_library)
-5. 🔴 Requested 1 change(s) for [#6](https://github.com/ProgramKingAbel/tubongeApp/pull/6#pullrequestreview-1614400392) in [ProgramKingAbel/tubongeApp](https://github.com/ProgramKingAbel/tubongeApp)
+1. 👍 Approved [#10](https://github.com/MarcoDDM/blog-app/pull/10#pullrequestreview-1618679206) in [MarcoDDM/blog-app](https://github.com/MarcoDDM/blog-app)
+2. 🔴 Requested 2 change(s) for [#11](https://github.com/ANTOINE1128/Blog-app/pull/11#pullrequestreview-1618673832) in [ANTOINE1128/Blog-app](https://github.com/ANTOINE1128/Blog-app)
+3. 👍 Approved [#5](https://github.com/tomasesquivelgc/Games-Sales-Hunter/pull/5#pullrequestreview-1618671196) in [tomasesquivelgc/Games-Sales-Hunter](https://github.com/tomasesquivelgc/Games-Sales-Hunter)
+4. 👍 Approved [#5](https://github.com/HossainAraf/Book-store/pull/5#pullrequestreview-1618669960) in [HossainAraf/Book-store](https://github.com/HossainAraf/Book-store)
+5. 🔴 Requested 1 change(s) for [#1](https://github.com/Wils-FOURR-speed/react-metrics-capstone/pull/1#pullrequestreview-1617544148) in [Wils-FOURR-speed/react-metrics-capstone](https://github.com/Wils-FOURR-speed/react-metrics-capstone)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 9th, 2023, 12:18:36 PM (GMT)
+Last Updated: Saturday, September 9th, 2023, 6:12:10 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
