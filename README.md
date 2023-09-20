@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#1](https://github.com/Luiscarlosvd/hello-rails-react/pull/1#pullrequestreview-1632065910) in [Luiscarlosvd/hello-rails-react](https://github.com/Luiscarlosvd/hello-rails-react)
-2. 👍 Approved [#1](https://github.com/romans-adi/hello-rails-react/pull/1#pullrequestreview-1632017015) in [romans-adi/hello-rails-react](https://github.com/romans-adi/hello-rails-react)
-3. 👍 Approved [#1](https://github.com/DevKaranJ/math-magicians/pull/1#pullrequestreview-1631424589) in [DevKaranJ/math-magicians](https://github.com/DevKaranJ/math-magicians)
-4. 👍 Approved [#5](https://github.com/AliShahSafdari/budget-app/pull/5#pullrequestreview-1628065557) in [AliShahSafdari/budget-app](https://github.com/AliShahSafdari/budget-app)
-5. 🔴 Requested 1 change(s) for [#1](https://github.com/Armynerh/malaysia_vaccination_metrics/pull/1#pullrequestreview-1628054991) in [Armynerh/malaysia_vaccination_metrics](https://github.com/Armynerh/malaysia_vaccination_metrics)
+1. 👍 Approved [#1](https://github.com/PabloEGonz/rails-jsbundler/pull/1#pullrequestreview-1634352216) in [PabloEGonz/rails-jsbundler](https://github.com/PabloEGonz/rails-jsbundler)
+2. 🔴 Requested 2 change(s) for [#1](https://github.com/ahmedeid6842/Blog_Rails/pull/1#pullrequestreview-1634250948) in [ahmedeid6842/Blog_Rails](https://github.com/ahmedeid6842/Blog_Rails)
+3. 👍 Approved [#1](https://github.com/Luiscarlosvd/hello-rails-react/pull/1#pullrequestreview-1632065910) in [Luiscarlosvd/hello-rails-react](https://github.com/Luiscarlosvd/hello-rails-react)
+4. 👍 Approved [#1](https://github.com/romans-adi/hello-rails-react/pull/1#pullrequestreview-1632017015) in [romans-adi/hello-rails-react](https://github.com/romans-adi/hello-rails-react)
+5. 👍 Approved [#1](https://github.com/DevKaranJ/math-magicians/pull/1#pullrequestreview-1631424589) in [DevKaranJ/math-magicians](https://github.com/DevKaranJ/math-magicians)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 19th, 2023, 6:14:30 PM (GMT)
+Last Updated: Wednesday, September 20th, 2023, 12:50:54 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
