@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#2](https://github.com/Othniel2471/blog_app/pull/2#pullrequestreview-1635877344) in [Othniel2471/blog_app](https://github.com/Othniel2471/blog_app)
-2. 🔴 Requested 2 change(s) for [#1](https://github.com/EmiLoKiJu/RRRR/pull/1#pullrequestreview-1635843236) in [EmiLoKiJu/RRRR](https://github.com/EmiLoKiJu/RRRR)
-3. 🔴 Requested 2 change(s) for [#2](https://github.com/Kgomotso196/Blog/pull/2#pullrequestreview-1635458818) in [Kgomotso196/Blog](https://github.com/Kgomotso196/Blog)
-4. 👍 Approved [#1](https://github.com/PabloEGonz/rails-jsbundler/pull/1#pullrequestreview-1634352216) in [PabloEGonz/rails-jsbundler](https://github.com/PabloEGonz/rails-jsbundler)
-5. 🔴 Requested 1 change(s) for [#1](https://github.com/ahmedeid6842/Blog_Rails/pull/1#pullrequestreview-1634250948) in [ahmedeid6842/Blog_Rails](https://github.com/ahmedeid6842/Blog_Rails)
+1. 🔴 Requested 2 change(s) for [#1](https://github.com/ismayito/Bookstore-react-app/pull/1#pullrequestreview-1637711887) in [ismayito/Bookstore-react-app](https://github.com/ismayito/Bookstore-react-app)
+2. 👍 Approved [#8](https://github.com/egichuhis/math-magicians/pull/8#pullrequestreview-1637698609) in [egichuhis/math-magicians](https://github.com/egichuhis/math-magicians)
+3. 👍 Approved [#7](https://github.com/kerlos-bahaa/OOP-school-library/pull/7#pullrequestreview-1637693368) in [kerlos-bahaa/OOP-school-library](https://github.com/kerlos-bahaa/OOP-school-library)
+4. 🔴 Requested 2 change(s) for [#2](https://github.com/Othniel2471/blog_app/pull/2#pullrequestreview-1635877344) in [Othniel2471/blog_app](https://github.com/Othniel2471/blog_app)
+5. 🔴 Requested 1 change(s) for [#1](https://github.com/EmiLoKiJu/RRRR/pull/1#pullrequestreview-1635843236) in [EmiLoKiJu/RRRR](https://github.com/EmiLoKiJu/RRRR)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 21st, 2023, 12:21:51 PM (GMT)
+Last Updated: Thursday, September 21st, 2023, 6:14:37 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
