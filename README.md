@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#2](https://github.com/IvonneBenitesRodriguez/BookstoreReact/pull/2#pullrequestreview-1662964575) in [IvonneBenitesRodriguez/BookstoreReact](https://github.com/IvonneBenitesRodriguez/BookstoreReact)
-2. 👍 Approved [#2](https://github.com/IvonneBenitesRodriguez/BookstoreReact/pull/2#pullrequestreview-1662964575) in [IvonneBenitesRodriguez/BookstoreReact](https://github.com/IvonneBenitesRodriguez/BookstoreReact)
-3. 🔴 Requested 2 change(s) for [#6](https://github.com/francksefu/WebApp/pull/6#pullrequestreview-1662954654) in [francksefu/WebApp](https://github.com/francksefu/WebApp)
-4. 🔴 Requested 2 change(s) for [#4](https://github.com/hajnaloltyan/school-library/pull/4#pullrequestreview-1662945199) in [hajnaloltyan/school-library](https://github.com/hajnaloltyan/school-library)
-5. 👍 Approved [#1](https://github.com/SnakyMz/School-Library/pull/1#pullrequestreview-1653583251) in [SnakyMz/School-Library](https://github.com/SnakyMz/School-Library)
+1. 👍 Approved [#3](https://github.com/mariegrace31/blogApp/pull/3#pullrequestreview-1663118506) in [mariegrace31/blogApp](https://github.com/mariegrace31/blogApp)
+2. 🔴 Requested 2 change(s) for [#8](https://github.com/mohashyne/Blog_App/pull/8#pullrequestreview-1663112329) in [mohashyne/Blog_App](https://github.com/mohashyne/Blog_App)
+3. 👍 Approved [#3](https://github.com/mohamedgamaleldin999999/School-library/pull/3#pullrequestreview-1663110572) in [mohamedgamaleldin999999/School-library](https://github.com/mohamedgamaleldin999999/School-library)
+4. 👍 Approved [#1](https://github.com/shihabrafio/Hello_rails_back_end/pull/1#pullrequestreview-1663109922) in [shihabrafio/Hello_rails_back_end](https://github.com/shihabrafio/Hello_rails_back_end)
+5. 👍 Approved [#1](https://github.com/shihabrafio/hello_rails_front_end/pull/1#pullrequestreview-1663109894) in [shihabrafio/hello_rails_front_end](https://github.com/shihabrafio/hello_rails_front_end)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 7th, 2023, 6:13:01 PM (GMT)
+Last Updated: Sunday, October 8th, 2023, 12:54:53 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
