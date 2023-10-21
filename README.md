@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#1](https://github.com/alexansaa/Ruby-Enumerable/pull/1#pullrequestreview-1678529934) in [alexansaa/Ruby-Enumerable](https://github.com/alexansaa/Ruby-Enumerable)
-2. 👍 Approved [#9](https://github.com/francksefu/WebApp/pull/9#pullrequestreview-1678520860) in [francksefu/WebApp](https://github.com/francksefu/WebApp)
-3. 👍 Approved [#7](https://github.com/gdvl777/metrics/pull/7#pullrequestreview-1678520062) in [gdvl777/metrics](https://github.com/gdvl777/metrics)
-4. 👍 Approved [#7](https://github.com/gdvl777/metrics/pull/7#pullrequestreview-1678520062) in [gdvl777/metrics](https://github.com/gdvl777/metrics)
-5. 🔴 Requested 1 change(s) for [#4](https://github.com/BilalLiaquat7/school_library/pull/4#pullrequestreview-1678511438) in [BilalLiaquat7/school_library](https://github.com/BilalLiaquat7/school_library)
+1. 👍 Approved [#2](https://github.com/sunga12/Smartspendr/pull/2#pullrequestreview-1691102283) in [sunga12/Smartspendr](https://github.com/sunga12/Smartspendr)
+2. 👍 Approved [#10](https://github.com/MasumaJaffery/Blog_App/pull/10#pullrequestreview-1691101513) in [MasumaJaffery/Blog_App](https://github.com/MasumaJaffery/Blog_App)
+3. 🔴 Requested 4 change(s) for [#2](https://github.com/sunga12/Smartspendr/pull/2#pullrequestreview-1691074677) in [sunga12/Smartspendr](https://github.com/sunga12/Smartspendr)
+4. 🔴 Requested 2 change(s) for [#1](https://github.com/alexansaa/Ruby-Enumerable/pull/1#pullrequestreview-1678529934) in [alexansaa/Ruby-Enumerable](https://github.com/alexansaa/Ruby-Enumerable)
+5. 👍 Approved [#9](https://github.com/francksefu/WebApp/pull/9#pullrequestreview-1678520860) in [francksefu/WebApp](https://github.com/francksefu/WebApp)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 21st, 2023, 12:50:02 AM (GMT)
+Last Updated: Saturday, October 21st, 2023, 6:13:42 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
