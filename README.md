@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#3](https://github.com/sergio-usma/rails_blog_pj/pull/3#pullrequestreview-1702885776) in [sergio-usma/rails_blog_pj](https://github.com/sergio-usma/rails_blog_pj)
-2. 👍 Approved [#3](https://github.com/JavierAybar/Blog-app/pull/3#pullrequestreview-1700768024) in [JavierAybar/Blog-app](https://github.com/JavierAybar/Blog-app)
-3. 👍 Approved [#3](https://github.com/Bhekisile/blog-app/pull/3#pullrequestreview-1700736307) in [Bhekisile/blog-app](https://github.com/Bhekisile/blog-app)
-4. 🔴 Requested 2 change(s) for [#6](https://github.com/mahammad-mostafa/school-library/pull/6#pullrequestreview-1697561431) in [mahammad-mostafa/school-library](https://github.com/mahammad-mostafa/school-library)
-5. 👍 Approved [#1](https://github.com/Theodoraldo/hello-rails-backend/pull/1#pullrequestreview-1697537871) in [Theodoraldo/hello-rails-backend](https://github.com/Theodoraldo/hello-rails-backend)
+1. 👍 Approved [#5](https://github.com/katarighe/blog-app/pull/5#pullrequestreview-1704472906) in [katarighe/blog-app](https://github.com/katarighe/blog-app)
+2. 👍 Approved [#6](https://github.com/diarisdiakite/Blog-app/pull/6#pullrequestreview-1704447262) in [diarisdiakite/Blog-app](https://github.com/diarisdiakite/Blog-app)
+3. 👍 Approved [#4](https://github.com/Marcraphael12/rails-blog-app/pull/4#pullrequestreview-1704344626) in [Marcraphael12/rails-blog-app](https://github.com/Marcraphael12/rails-blog-app)
+4. 🔴 Requested 2 change(s) for [#3](https://github.com/sergio-usma/rails_blog_pj/pull/3#pullrequestreview-1702885776) in [sergio-usma/rails_blog_pj](https://github.com/sergio-usma/rails_blog_pj)
+5. 👍 Approved [#3](https://github.com/JavierAybar/Blog-app/pull/3#pullrequestreview-1700768024) in [JavierAybar/Blog-app](https://github.com/JavierAybar/Blog-app)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 30th, 2023, 12:21:40 PM (GMT)
+Last Updated: Monday, October 30th, 2023, 6:14:20 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
