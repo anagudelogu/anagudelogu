@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#8](https://github.com/Akorede3133/Blog/pull/8#pullrequestreview-1717384817) in [Akorede3133/Blog](https://github.com/Akorede3133/Blog)
-2. 👍 Approved [#8](https://github.com/hajnaloltyan/rails-blog-app/pull/8#pullrequestreview-1716506809) in [hajnaloltyan/rails-blog-app](https://github.com/hajnaloltyan/rails-blog-app)
-3. 👍 Approved [#8](https://github.com/GhostEsso/Blog_App/pull/8#pullrequestreview-1716434650) in [GhostEsso/Blog_App](https://github.com/GhostEsso/Blog_App)
-4. 👍 Approved [#3](https://github.com/MarcoDDM/blogapp/pull/3#pullrequestreview-1713869672) in [MarcoDDM/blogapp](https://github.com/MarcoDDM/blogapp)
-5. 🔴 Requested 1 change(s) for [#7](https://github.com/arnoldnekemiah/blog/pull/7#pullrequestreview-1713868946) in [arnoldnekemiah/blog](https://github.com/arnoldnekemiah/blog)
+1. 🔴 Requested 2 change(s) for [#8](https://github.com/jecode93/blog-app/pull/8#pullrequestreview-1717593497) in [jecode93/blog-app](https://github.com/jecode93/blog-app)
+2. 🔴 Requested 2 change(s) for [#8](https://github.com/Akorede3133/Blog/pull/8#pullrequestreview-1717384817) in [Akorede3133/Blog](https://github.com/Akorede3133/Blog)
+3. 👍 Approved [#8](https://github.com/hajnaloltyan/rails-blog-app/pull/8#pullrequestreview-1716506809) in [hajnaloltyan/rails-blog-app](https://github.com/hajnaloltyan/rails-blog-app)
+4. 👍 Approved [#8](https://github.com/GhostEsso/Blog_App/pull/8#pullrequestreview-1716434650) in [GhostEsso/Blog_App](https://github.com/GhostEsso/Blog_App)
+5. 👍 Approved [#3](https://github.com/MarcoDDM/blogapp/pull/3#pullrequestreview-1713869672) in [MarcoDDM/blogapp](https://github.com/MarcoDDM/blogapp)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 7th, 2023, 12:21:10 PM (GMT)
+Last Updated: Tuesday, November 7th, 2023, 6:13:59 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
