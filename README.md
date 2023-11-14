@@ -91,15 +91,15 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#4](https://github.com/stino-x/Blog-Rails-/pull/4#pullrequestreview-1726138988) in [stino-x/Blog-Rails-](https://github.com/stino-x/Blog-Rails-)
-2. 🔴 Requested 2 change(s) for [#7](https://github.com/firstpj/blog-app/pull/7#pullrequestreview-1726138077) in [firstpj/blog-app](https://github.com/firstpj/blog-app)
-3. 🔴 Requested 2 change(s) for [#8](https://github.com/Wils-FOURR-speed/Blog-App-Project/pull/8#pullrequestreview-1726136120) in [Wils-FOURR-speed/Blog-App-Project](https://github.com/Wils-FOURR-speed/Blog-App-Project)
-4. 👍 Approved [#5](https://github.com/sheezu900/blog-rails/pull/5#pullrequestreview-1726088976) in [sheezu900/blog-rails](https://github.com/sheezu900/blog-rails)
-5. 🔴 Requested 1 change(s) for [#6](https://github.com/Obote/Book-store/pull/6#pullrequestreview-1726088015) in [Obote/Book-store](https://github.com/Obote/Book-store)
+1. 👍 Approved [#6](https://github.com/coker2019/ror_blog_app/pull/6#pullrequestreview-1729573486) in [coker2019/ror_blog_app](https://github.com/coker2019/ror_blog_app)
+2. 👍 Approved [#4](https://github.com/stino-x/Blog-Rails-/pull/4#pullrequestreview-1726138988) in [stino-x/Blog-Rails-](https://github.com/stino-x/Blog-Rails-)
+3. 🔴 Requested 2 change(s) for [#7](https://github.com/firstpj/blog-app/pull/7#pullrequestreview-1726138077) in [firstpj/blog-app](https://github.com/firstpj/blog-app)
+4. 🔴 Requested 2 change(s) for [#8](https://github.com/Wils-FOURR-speed/Blog-App-Project/pull/8#pullrequestreview-1726136120) in [Wils-FOURR-speed/Blog-App-Project](https://github.com/Wils-FOURR-speed/Blog-App-Project)
+5. 👍 Approved [#5](https://github.com/sheezu900/blog-rails/pull/5#pullrequestreview-1726088976) in [sheezu900/blog-rails](https://github.com/sheezu900/blog-rails)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 14th, 2023, 6:15:18 AM (GMT)
+Last Updated: Tuesday, November 14th, 2023, 12:21:47 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
