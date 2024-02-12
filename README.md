@@ -92,14 +92,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. 👍 Approved [#6](https://github.com/coker2019/ror_blog_app/pull/6#pullrequestreview-1729573486) in [coker2019/ror_blog_app](https://github.com/coker2019/ror_blog_app)
-2. 👍 Approved [#4](https://github.com/stino-x/Blog-Rails-/pull/4#pullrequestreview-1726138988) in [stino-x/Blog-Rails-](https://github.com/stino-x/Blog-Rails-)
-3. 🔴 Requested 2 change(s) for [#7](https://github.com/firstpj/blog-app/pull/7#pullrequestreview-1726138077) in [firstpj/blog-app](https://github.com/firstpj/blog-app)
-4. 🔴 Requested 2 change(s) for [#8](https://github.com/Wils-FOURR-speed/Blog-App-Project/pull/8#pullrequestreview-1726136120) in [Wils-FOURR-speed/Blog-App-Project](https://github.com/Wils-FOURR-speed/Blog-App-Project)
-5. 👍 Approved [#5](https://github.com/sheezu900/blog-rails/pull/5#pullrequestreview-1726088976) in [sheezu900/blog-rails](https://github.com/sheezu900/blog-rails)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 12th, 2024, 12:52:10 AM (GMT)
+Last Updated: Monday, February 12th, 2024, 6:14:38 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
