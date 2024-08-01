@@ -1,21 +1,6 @@
-<h3 align="center">
-  Hi There! I'm Andres
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24">
-</h3>
-
-<!-- Readme typing svg: https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&center=true&width=500&height=45&color=22C4F7&vCenter=true&size=22&pause=1000&lines=Full+Stack+Web+Developer;1300%2B+Hours+of+code+this+year;I+love+programming+things+remotely" alt="Typing SVG" /></a>
-</p>
-
-
-<!-- Social media Icons -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/aagst/"> <img height="32" width="32" src="https://simpleicons.now.sh/linkedin/0A66C2" alt="Linkedin" title="LinkedIn Profile" /> </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.andresagudelo.dev/"> <img height="32" width="32" src="https://simpleicons.now.sh/googlechrome/fff" alt="AngelList" title="AngelList Profile" /> </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
+<div>
+  <img src="https://media.licdn.com/dms/image/D4E16AQGqI5bk7TMmKA/profile-displaybackgroundimage-shrink_350_1400/0/1722528577278?e=1727913600&v=beta&t=J_GfCF2yIc3vRq5hw9CjTWo-nCXQT8CghYHS3lDGmBw" width="100%">
+</div>
 
 <br/>
 
@@ -33,54 +18,55 @@
 
 <br/>
 
-## Tools
-
-### Front-end
-
-<div align="left">
-  <img height="32" width="32" src="https://simpleicons.now.sh/html5/E34F26" alt="HTML" title="HTML" />
+<!-- Social media Icons -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/aagst/"> <img height="32" width="32" src="https://simpleicons.now.sh/linkedin/0A66C2" alt="Linkedin" title="LinkedIn Profile" /> </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <img height="32" width="32" src="https://simpleicons.now.sh/css3/1572B6" alt="CSS" title="CSS" />
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <img height="32" width="32" src="https://simpleicons.now.sh/javascript/F7DF1E" alt="JavaScript" title="JavaScript" />
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <img height="32" width="32" src="https://simpleicons.now.sh/react/61DAFB" alt="React" title="React" />
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <img height="32" width="32" src="https://simpleicons.now.sh/redux/764ABC" alt="Redux" title="Redux" />
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <img height="32" width="32" src="https://simpleicons.now.sh/webpack/8DD6F9" alt="Webpack" title="Webpack" />
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</div>
-
-
-### Back-end
-
-<div align="left">
-  <img height="32" width="32" src="https://simpleicons.now.sh/postgresql/4169E1" alt="Postgresql" title="Postgresql" />
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <img height="32" width="32" src="https://simpleicons.now.sh/ruby/CC342D" alt="Ruby" title="Ruby" />
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <img height="32" width="32" src="https://simpleicons.now.sh/rubyonrails/CC0000" alt="Ruby on Rails" title="Ruby on Rails" />
-</div>
-
-### Misc
-<div align="left">
-  <img height="32" width="32" src="https://simpleicons.now.sh/docker/2496ED" alt="Docker" title="Docker" />
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <img height="32" width="32" src="https://simpleicons.now.sh/nginx/009639" alt="Nginx" title="Nginx" />
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <img height="32" width="32" src="https://simpleicons.now.sh/git/F05032" alt="Git" title="Git" />
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <img height="32" width="32" src="https://simpleicons.now.sh/gnubash/4EAA25" alt="Bash" title="Bash" />
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</div>
+  <a href="https://www.andresagudelo.dev/"> <img height="32" width="32" src="https://simpleicons.now.sh/react/61DAFB" alt="AngelList" title="Personal Porfolio" /> </a>
+</p>
 
 <br/>
 
-## 📊 Github stats
+## 💻 Tools
+
+### 🎨 Front-end
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+  
+  
+
+
+### 🔧 Back-end
+
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🧰 Misc
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
+<br/>
+
+## 📊 Stats
 
 ### GitHub Profile
-<div align="center">
+<div align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anagudelogu&show_icons=true&theme=algolia" />
 </div>
 
@@ -100,10 +86,3 @@
 Last Updated: Thursday, August 1st, 2024, 12:25:28 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
----
-
-<!-- Activity graph: https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-<div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=anagudelogu&bg_color=1F222E&color=F8D866&line=1155ba&point=FFFFFF&hide_border=true" /></a>
-</div>  
