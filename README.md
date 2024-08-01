@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/aagst/"> <img height="32" width="32" src="https://simpleicons.now.sh/linkedin/0A66C2" alt="Linkedin" title="LinkedIn Profile" /> </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.andresagudelo.dev/"> <img height="32" width="32" src="https://simpleicons.now.sh/googlechrome/000" alt="AngelList" title="AngelList Profile" /> </a>
+  <a href="https://www.andresagudelo.dev/"> <img height="32" width="32" src="https://simpleicons.now.sh/googlechrome/fff" alt="AngelList" title="AngelList Profile" /> </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
